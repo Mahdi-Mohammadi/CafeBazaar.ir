@@ -1,4 +1,4 @@
-# (CafeBazaar.ir)[CafeBazaar.ir] Small Apps DataSet
+# [CafeBazaar.ir](cafebazaar.ir) Apps DataSet
 
 ## About Bazaar
 CafeBazaar(or Bazaar) is an application marketplace in which tens of thousands of applications from thousands of software developers are available. Bazaar provides its services specifically to Persian-speaker users.
