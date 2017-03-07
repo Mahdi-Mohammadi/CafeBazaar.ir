@@ -1,0 +1,2043 @@
+id,name,ratingCount,ratingValue,bestRating,worstRating,installNumber,size,price,appType,developer,category,version
+2,Chale Meydon!,281,4.1,5,1,2000,40526968,0,Offers IAP purchases,BlazingFallGames,action,1.03
+3,Datashahr,193,4.3,5,1,20000,5892952,0,,datashahr team,travel-local,1.1.9
+4,Revenge of Sultans,1499,4.4,5,1,50000,70783970,0,Offers IAP purchases,nitrotech,strategy,1.3.2
+5,ORG 2017,11038,4.5,5,1,200000,39667858,0,Offers IAP purchases,Ramin Jafari,music-audio,2017.1.2.4
+6,Pit Stop Racing,1881,4.5,5,1,20000,71286987,0,Offers IAP purchases,baziline,racing,1.4.9
+7,Hamkelasi,977,4.3,5,1,20000,2658563,0,,Hamkelasi,education,1
+8,Gap Messenger,152,4.2,5,1,5000,16147560,0,,gapafzar,communication,1.3.4
+9,Hafeznameh,3163,4.7,5,1,50000,14291348,0,,Digital Lab,books-reference,1.6
+10,Naghsh (Wallpaper and Customizer),384,4.6,5,1,5000,11467820,0,Offers IAP purchases,amin-mousavi,live-wallpaper,2.0.2
+11,News Road,35,4.4,5,1,5000,10916928,0,,Siamak khademi ansaroudi,news-magazines,1.2.0
+12,30 Day,15,3.9,5,1,200,11141674,20000,,Fury Studio,health-fitness,1.2.1
+13,Alefba,329,4.5,5,1,20000,16781227,0,Offers IAP purchases,Alefba,education,4.1.1cb
+14,BazarAcademy,110,4.7,5,1,5000,10443096,0,,BazarAcademy,media-video,1
+15,PasokhPlus,101,3.5,5,1,5000,16611100,0,,M Ghayour,education,0.3.14
+16,Tamashakadeh Background Wallpapers,2505,4.5,5,1,20000,4714222,0,Offers IAP purchases,Digital Lab,live-wallpaper,1.71
+17,Papyrus,144,4.1,5,1,2000,2769927,0,,ZANA TECH,education,1.1.2
+18,Cup,32,4.2,5,1,5000,3667835,0,,Shatel,sports,1.1.3
+19,PicChap,47,3.9,5,1,5000,5438687,0,,yaramobile,photography,1.0.5
+20,Wallpapers,154,4,5,1,20000,2437804,0,,Google Inc.,personalization,1.0.139964517
+21,Animals Land,276,4,5,1,50000,27012411,0,Offers IAP purchases,choobshoor,education,1.0.2.1
+22,Farmket,74,4.9,5,1,5000,5335998,0,Offers IAP purchases,nigstudio,shopping,1.8
+23,PinTaPin | Book Iran Hotels,49,3.7,5,1,10000,5796754,0,,Pintapin,travel-local,1.2.2
+24,Bitdefender Mobile Security,1518,4.3,5,1,200,9724896,250000,,bitdefender-bms-95,tools,3.2.82.110
+25,BAK,146,4,5,1,50000,8738098,0,Offers IAP purchases,microcloud,shopping,1.2.3
+26,Manapay,281,3.6,5,1,10000,5149030,0,,Fanap Co,productivity,1.1.0.1
+27,قلم هوشمند زیارت عاشورا,919,4.9,5,1,50000,29538334,0,,Sabapp,religious,4
+28,hattrick,361,4.5,5,1,20000,5788774,0,,ARNA,sports,1.2.0
+29,Tekyeh (Tebyan),508,4.7,5,1,20000,4173105,0,,tebyan,religious,1.5
+30,Magic Rush,13,4.8,5,1,2000,73653241,0,Offers IAP purchases,Elex - Magic Rush,role-playing,1.1.100
+31,Wild City Rush,12,4.1,5,1,2000,43409003,0,Offers IAP purchases,Flexion Mobile Limited,casual,1.0.3
+32,SinJim,113,3.8,5,1,5000,26922910,0,Offers IAP purchases,ewalk,trivia,1.03
+33,Defense Zone 3 HD,47,4.2,5,1,10000,99432553,0,Offers IAP purchases,FanGames,strategy,1.1.24c
+34,Mahdiyar,2675,4.5,5,1,50000,39354250,0,,masaf,adventure,1.1
+35,Last Empire-War Z,85,4.3,5,1,10000,77769734,0,Offers IAP purchases,im30.net,strategy,1.0.113
+36,Shahin,3994,4.7,5,1,20000,90821688,0,Offers IAP purchases,takeoffstudio,action,1.3.5
+37,CrazyCrowz,802,4.4,5,1,10000,47422464,0,Offers IAP purchases,Funera Studio,action,1.9
+38,Sheed (Legend of the light),828,4.4,5,1,10000,94364106,0,Offers IAP purchases,simiyaworld,strategy,2.1
+39,Bowmasters,230,4.5,5,1,20000,39849831,0,,Miniclip.com,action,1.0.5
+40,Adad Chin,479,4.3,5,1,5000,31700949,0,Offers IAP purchases,RK GAME,educational,1.5
+41,My Talking Dog 2,898,4.6,5,1,50000,76934487,0,Offers IAP purchases,medrick-fze-r,simulation,3.1
+42,SiMorGH,217,4.5,5,1,2000,3428373,0,Offers IAP purchases,behnam8811413,word,2.02
+43,PinOut,174,3.9,5,1,20000,93481718,0,,Mediocre,arcade,1.0.2
+44,JenabRun,5770,4.3,5,1,500000,55548086,0,Offers IAP purchases,magic mirror,action,0.6
+45,JiringLand,35111,4.6,5,1,50000,34400566,0,Offers IAP purchases,Anashid,casual,8.3.960
+46,Motori 2,45855,4.4,5,1,500000,80356758,0,Offers IAP purchases,glim games 2,arcade,133
+47,Footballi | Live football scores,28555,4.7,5,1,100000,5438204,0,,oddrun,sports,3.1.0
+48,Galaxy Control: 3d strategy,1309,4.3,5,1,20000,72090478,0,Offers IAP purchases,baziline,strategy,GI_3.25.48
+49,"Zapya - File Transfer, Sharing",37633,4.5,5,1,8000000,9620032,0,,zapya,tools,4.5.2 (US)
+50,Police-Patrol,3618,4.2,5,1,100000,76912154,0,Offers IAP purchases,Art of Light and Motion Studio,action,1.1
+51,Marzban,870,4.2,5,1,20000,71736427,0,Offers IAP purchases,haftsangstudio,action,2
+52,Quiz of kings ( online game),246160,4.7,5,1,1000000,30124893,0,Offers IAP purchases,Palangco,trivia,1.10.2811
+53,Taskook Calendar,535,4.4,5,1,20000,5113387,0,,Taskook,productivity,1.1.1
+54,Salahshooran,10464,4.4,5,1,100000,120089703,0,Offers IAP purchases,drain,action,1.4.1
+55,HIGH Hi DICTIONARY English-Persian,2303,4.5,5,1,50000,11763908,0,Offers IAP purchases,kaziwa_soft-2000,books-reference,4.24
+56,Commanders war,14573,4.3,5,1,20000,39630288,0,Offers IAP purchases,mahdi heydarzadeh,strategy,218
+57,Tar and Setar HD,86,4,5,1,1000,47251397,80000,,tvsetar,music-audio,5.0.3
+58,War Inc - اتاق جنگ,4231,4.6,5,1,20000,101326712,0,Offers IAP purchases,medrick-fze-r,strategy,1.867
+59,Tagmond,117,3.9,5,1,10000,9174636,0,,Tagmond Co,lifestyle,3.4.0
+60,Chidaneh,315,4.3,5,1,10000,5803016,0,,Chidaneh,lifestyle,1.1.1
+61,Pinterest,3375,4.4,5,1,100000,15983958,0,,pinterest,social,6.6.0
+62,Decoration Magazine,1480,4.5,5,1,10000,2931319,0,,bartarinha,lifestyle,2.1
+63,khooger,41,4.4,5,1,1000,5611898,0,,khooger,shopping,2.1.0
+64,Houzz,1414,4.7,5,1,10000,28668309,0,,Houzz,lifestyle,5.17.2
+65,Homestyler,205,4.4,5,1,5000,27401489,0,,Autodesk Inc.,lifestyle,1.4.7.5.249
+66,20decor,6,4.8,5,1,500,6645368,0,,20 decor,lifestyle,1.0.3
+67,bazartche,3349,4.3,5,1,5000,2758288,0,Offers IAP purchases,atfadev,shopping,2.5
+68,PerCity - Grow your Persian City,8791,4.5,5,1,20000,45877089,0,Offers IAP purchases,TOD,simulation,0.9.45.4225
+69,Pahlavan & Zombies,1725,4.4,5,1,20000,32786148,0,Offers IAP purchases,mocholo_game,arcade,1.0.14
+70,Mr Mokh,1572,4.3,5,1,20000,40002874,0,Offers IAP purchases,Baloot Games,word,1.3
+71,Clash of Desert,566,4.4,5,1,10000,142976959,0,Offers IAP purchases,igg_inc,strategy,1.0.8
+72,Hamclassia,12378,4.4,5,1,20000,25447317,0,Offers IAP purchases,plus9games,word,1.25
+73,Hey Taxi,166716,4.4,5,1,1000000,54626230,0,Offers IAP purchases,glim games 2,action,1.15
+74,Bubble Man Rolling,885,4.3,5,1,5000,24244648,0,,playpax,action,1.1
+75,Wild City,643,4.2,5,1,10000,79339310,0,Offers IAP purchases,Camel Games Limited,role-playing,1.0.2
+76,King of Opera,24,4.6,5,1,200,40678948,100000,,tuokio,family,1.15.31
+77,LootiWar,6203,4.5,5,1,50000,19267109,0,Offers IAP purchases,median,action,1
+78,Khosh Rekab,16833,4.5,5,1,5000,32516630,0,Offers IAP purchases,arvandstudio,casual,1.8
+79,Sheep Happens,4681,4.4,5,1,50000,48349323,0,,Kongregate,action,2.3.1
+80,Javad Run,8924,4,5,1,50000,47182955,0,Offers IAP purchases,artaariagames,action,1.1
+81,فال حافظ با تفسیر,5712,4.6,5,1,50000,4650999,0,,zhiwan2,entertainment,1.01
+82,ضد سرقت و گوشی یاب هوشمند,602,4.1,5,1,50000,5077169,0,Offers IAP purchases,mohammad222,productivity,
+83,فشارسنج اندرویدی +تست قند خون,12939,4.2,5,1,20000,1822202,0,,hesam67b,entertainment,1.5
+84,فال حافظ ( کامل ),2230,4.6,5,1,20000,2430053,0,,hadi1376,entertainment,5.5
+85,Falhafez,44,4.3,5,1,10000,3191589,0,,kohanweb,entertainment,3
+86,Digiato,3464,4.6,5,1,50000,2473894,0,,Digiato.com,news-magazines,2.0.0
+87,فال حافظ و استخاره,14,4.1,5,1,10000,1196088,0,,mh_1998,productivity,
+88,ساخت عکس با دود,0,0,0,0,100,3594062,20000,,pishgamanapps,photography,1.2
+89,ساخت پس زمینه عکسها,0,0,0,0,100,10458444,20000,,pishgamanapps,photography,1.5
+90,ساخت عکس تار و مات,0,0,0,0,100,24686601,20000,,pishgamanapps,photography,1.3
+91,عکس پیکسلی,0,0,0,0,100,3847951,20000,,pishgamanapps,photography,1.2
+92,تبدیل واحد ها,0,0,0,0,100,5238179,20000,,pishgamanapps,productivity,1
+93,ریکاوری عکس های پاک شده,2,2.5,5,1,100,3807748,40000,,pishgamanapps,productivity,1.2
+94,دانلود عکس ویدیو از اینستاگرام,0,0,0,0,100,4792101,20000,,pishgamanapps,communication,1.3
+95,کیبورد هوشمند فضول یاب,0,0,0,0,100,1021123,10000,,pishgamanapps,productivity,1.3
+96,ویرایش عکس ذره ای,0,0,0,0,100,11653090,20000,,pishgamanapps,photography,1.5
+97,برنامه ماسک روی صورت,0,0,0,0,100,9581285,20000,,pishgamanapps,photography,1.3
+98,تغییر پس زمینه عکس,0,0,0,0,100,4180050,40000,,pishgamanapps,photography,1
+99,نرم افزار تغییر چهره,0,0,0,0,100,15259448,20000,,pishgamanapps,entertainment,1.3
+100,ویالون,2,3,5,1,100,6152105,20000,,pishgamanapps,music,1.2
+101,فلوت بزن و بخون,0,0,0,0,100,3890902,20000,,pishgamanapps,music,1
+102,ويرایش ویدیو و پیرایش,0,0,0,0,100,25414955,20000,,pishgamanapps,photography,1
+103,ویرایش و ترکیب رنگ عکس,0,0,0,0,100,9367645,20000,,pishgamanapps,photography,1
+104,تقویت کننده صدا دیجیتال,0,0,0,0,100,913448,30000,,pishgamanapps,music-audio,1.2
+105,دوربین شبه ساز,0,0,0,0,100,5673940,20000,,pishgamanapps,photography,1.1
+106,Guitar pro,0,0,0,0,100,4266749,20000,,pishgamanapps,music,1.2
+107,دوربین عکاسی موج نور,0,0,0,0,100,1380487,30000,,pishgamanapps,photography,4
+108,دیکشنری فارسی به انگلیسی,0,0,0,0,100,3953963,20000,,pishgamanapps,education,1
+109,آنفالویاب اینستاگرام,2,3.5,5,1,100,1922947,40000,,pishgamanapps,productivity,1.0.1
+110,ویدیو در پس زمینه زنده,0,0,0,0,100,570589,20000,,pishgamanapps,live-wallpaper,1
+111,نرم افزار طراحی لوگو,1,1,5,1,100,7067814,40000,,pishgamanapps,tools,1.3
+112,فال حافظ اثر انگشت,1309,4.1,5,1,20000,2505200,0,,8plus,books-reference,1
+113,Fale Hafez,33277,4.5,5,1,200000,2220631,0,,shalamrood,entertainment,4
+114,Layout,4798,4.5,5,1,1000000,3900203,0,,Instagram,photography,1.3.5
+115,faale hafez,1,5,5,1,2000,2690670,0,,zoomkade,entertainment,0.3
+116,بغض دل,16,4.4,5,1,500,2857090,0,,novinapps,entertainment,1
+117,آیت الکرسی,159,4.7,5,1,2000,3891471,0,,novinapps,religious,1
+118,Irani Translator,27,4.2,5,1,100000,4654720,0,,mAntoo,education,1.0.2
+119,حافظ شیرازی (رایگان),2328,4.7,5,1,100000,1502758,0,,samandev,books-reference,1.8
+120,فال حافظ,4,3,5,1,2000,1367318,0,,aftab6599,entertainment,3
+121,Super Up,293,4.4,5,1,10000,1910915,0,,super up,shopping,2
+122,Hafez,294,4.6,5,1,2000,2371489,0,,chichack_groupe,books-reference,1.05
+123,"Names City, Dordaneh",11,4.6,5,1,500,14437198,0,Offers IAP purchases,yasinir,books-reference,1
+124,Ashaar,2,5,5,1,100,6663131,20000,,v2MGM,books-reference,2.4
+125,همراه مبلغ,4,4,5,1,1000,2419303,0,,fetyan,books-reference,2.1.35
+126,Yade Yare Mehraban,13,4.5,5,1,1000,4754761,0,,Dapna,books-reference,1.1
+127,تصویری Babylon Picture Dict,4,4,5,1,100,16795901,50000,,Ofoghsoft,books-reference,1.1
+128,Unique Dic,149,4.7,5,1,1000,58265116,0,Offers IAP purchases,manesht,books-reference,1.2
+129,Iran Book Fairs,10,3.5,5,1,1000,2801795,0,,Iran Cultural Fairs Institute,books-reference,1.2.950718
+130,Arabic Dictionary,897,4.6,5,1,10000,23176052,0,Offers IAP purchases,Behineh Pardaz Tarnian,books-reference,2
+131,کتابخانه امام خمینی (س),17,3.8,5,1,2000,8770567,0,,The INST of Imam Khomeini,books-reference,1.2.2
+132,YeJoreKetab,1326,4.4,5,1,10000,2677006,0,,ZANA TECH,books-reference,2.0.7
+133,حافظ,57,4.7,5,1,100,10918540,40000,,ghandepaarsi,books-reference,4.2.1
+134,nima yooshij,7,4.9,5,1,100,14779442,30000,,ghandepaarsi,books-reference,3.3.3
+135,Friendship In Tank Style,2,5,5,1,100,6311077,20000,,Soore mehr Publisher,books-reference,1
+136,Saman,91,4.1,5,1,2000,7992773,0,,sibnegar,books-reference,1.7
+137,FastDic - Persian Fast Dictionary,35313,4.6,5,1,2000000,73432074,0,,Fast Dictionary,books-reference,2.8.2
+138,PersianDic,11627,4.4,5,1,1000000,21462105,0,,Reza Heidari Kia,books-reference,2.5
+139,IntelliDict,195731,4.8,5,1,200000,17373386,0,Offers IAP purchases,mobilife,books-reference,5.4.3
+140,TahlilGaran TDictionary,14041,4.7,5,1,200000,73390915,0,,tahlilgaran,books-reference,6
+141,رمان های عاشقانه(کاملا اختصاصی شد ),52794,4.5,5,1,200000,40631551,0,,alii gholami,books-reference,3.9.1
+142,ِDictionary PICoDIC,38647,4.7,5,1,200000,13964833,0,Offers IAP purchases,Ali Reza Eslampanah,books-reference,4.1.0
+143,دیکشنری WikiVajeh دیکشنری دیکشنری,2133,4.5,5,1,20000,6386483,30000,,wikivajeh,books-reference,2.0.1
+144,رمان های عاشقانه2(کاملا اختصاصی شد),36722,4.5,5,1,200000,32811626,0,,alii gholami,books-reference,3.9.1
+145,lovely roobak,126735,4.7,5,1,100000,11048661,0,,roobak_group_1,books-reference,1.15
+146,Quran,3938,4.7,5,1,200000,2498149,0,,qurancom,books-reference,2.7.2
+147,پخت انواع کیک و شیرینی,1011,4.6,5,1,100000,4681806,0,,bookdroid021,books-reference,3
+148,araDic,1482,4.6,5,1,100000,2001162,0,,ARA Group,books-reference,1.4
+149,Roman Khane,5548,4.5,5,1,200000,9316845,0,,persianleader,books-reference,14
+150,BestNovels,3208,4.5,5,1,100000,25004475,0,,kohanweb,books-reference,1.4.0
+151,sms roobak,137650,4.7,5,1,100000,18727706,0,,roobak_group_1,books-reference,1.1
+152,همه چیز درباره آدولف هیتلر,0,5,5,1,100,5121581,0,Offers IAP purchases,Ali Bake Mirzaei,books-reference,v4.2
+153,فال روزانه,0,0,0,0,100,3612427,0,,farzanehdev,books-reference,1
+154,ghanoonn,0,0,0,0,100,11478603,0,Offers IAP purchases,mahtab,books-reference,2
+155,kurdestan,0,5,5,1,100,2907923,0,,mkail hamedan,books-reference,v_1
+156,Techniques Applied in M-Accounting,0,0,0,0,100,6600429,20000,,Dr.Hossein Ali Aminikhah,books-reference,5
+157,قدرت ذهن,0,0,0,0,100,1927640,10000,,grooh-barname_iran-1971,books-reference,1.0.0.1
+158,Spiritual treasure,0,0,0,0,100,2842491,30000,,abolghasem,books-reference,1
+159,نامه های اداری رسمی,0,0,0,0,100,5530578,10000,,python,books-reference,1.2
+160,Mediana Book,0,0,0,0,100,33274831,0,Offers IAP purchases,mediana,books-reference,1.5baazar
+161,Vibrant Hafez,0,0,0,0,100,2515214,10000,,Rick,books-reference,1
+162,The right study,2,5,5,1,100,1553493,0,,oghab,books-reference,v6.0
+163,رمان شیطان پنهان,0,5,5,1,100,3115281,30000,,radman,books-reference,1
+164,hafez,0,0,0,0,100,1627992,30000,,ebishk,books-reference,1
+165,مرجع نامه های رسمی,0,0,0,0,100,1432850,0,,aban,books-reference,1
+166,ملک الشعرای بهار (چهار پاره),0,0,0,0,100,421831,10000,,memora,books-reference,1
+167,Alakhrh homes,0,0,0,0,100,3671315,10000,,abolghasem,books-reference,1
+168,داستان ماندگار شازده کوچولو,0,0,0,0,100,6246109,0,Offers IAP purchases,faraketab,books-reference,2
+169,pink lovly Novel,0,0,0,0,100,6134312,0,,gholamrezaDRH,books-reference,1.1
+170,Teaching speeches and conferences,0,0,0,0,100,1795412,20000,,AppFile,books-reference,سخنران حرفه ای شو
+171,نمونه سوالات پیام نور,30,4.4,5,1,100,1927278,0,Offers IAP purchases,Mohammad Gholizadeh,books-reference,1
+172,فال پیامبران الهی,0,0,0,0,100,2566289,0,,parinaz heydar,books-reference,1
+173,قلعه حیوانات,0,0,0,0,100,2500292,0,Offers IAP purchases,faraketab,books-reference,2
+174,residanbeshoghledelkhah,0,0,0,0,100,89609045,50000,,Shaden Pejvak,books-reference,1
+175,GTD,0,0,0,0,100,87983002,50000,,Shaden Pejvak,books-reference,1
+176,WPS Office,5508,4.5,5,1,1000000,31458225,0,,Kingsoft Office Software Corporation Limited,business,10.0.1
+177,File Commander,15488,4.4,5,1,1000000,29866900,0,,mobisystems123,business,3.8.14456
+178,OfficeSuite,18173,4.3,5,1,1000000,63703694,0,,mobisystems123,business,8.7.5445
+179,Vault,13886,4.5,5,1,500000,8361936,0,,NQ Mobile Security (NYSE:NQ),business,6.5.03.22
+180,PDF Reader,701,4.5,5,1,200000,25412343,0,,kdan-mobile-software-ltd,business,3.4.14
+181,Box,1683,4.2,5,1,200000,30324831,0,,Box,business,4.2.584
+182,Docs To Go,739,4.2,5,1,200000,8193515,0,,"DataViz, Inc.",business,4.002
+183,Polaris Office,2286,4.5,5,1,100000,53117374,0,,polaris-office-corp,business,7.3.2
+184,Easy Installer,727,4.5,5,1,100000,3762758,0,,INFOLIFE LLC,business,3.1.8
+185,Call Blocker,2054,4.3,5,1,100000,1755512,0,,NQ Mobile Security (NYSE:NQ),business,5.2.30.00
+186,App Lock,2432,4.5,5,1,50000,1529360,0,,lovekara,business,1.4.22
+187,FX,1497,4.6,5,1,20000,9280978,0,,"NextApp, Inc.",business,5.1.0.27
+188,ES Task Manager,1123,4.5,5,1,50000,1285515,0,,ES GLOBAL,business,2.0.6
+189,FAX.IR (Internet Faxing Service),1679,4.4,5,1,50000,17099115,0,,Atrisa Communications Development,business,4.0.0
+190,Quick PDF Scanner,948,4.5,5,1,20000,14383634,0,,mobisystems,business,4.4.562
+191,callX,107,4.6,5,1,20000,10715381,0,,SMSROBOT LTD,business,3
+192,az koja shoro konam?,0,0,0,0,100,7363352,10000,,sina1992,business,1
+193,اصول کسب درامد مدرن (نسخه جدید),0,0,0,0,100,15228217,70000,,top dev,business,5
+194,کسب و کار موفق,1,5,5,1,100,1515990,0,,darkoob-72,business,1
+195,mozakere,0,0,0,0,100,101039236,50000,,Shaden Pejvak,business,1
+196,Income Plus (Guaranteed),2,5,5,1,100,3539154,20000,,daneshnevis,business,1
+197,تهرونک 18,1,5,5,1,100,6441710,0,,yekta system hooshmand,business,1.5.11
+198,Adventurer Manager,0,0,0,0,100,2133721,0,,saminbazaar,business,1.0.1
+199,Restaurant Management,0,0,0,0,100,5283872,20000,,aliserver,business,1.0.0.3
+200,بورس,0,0,0,0,100,1030288,20000,,moshtaaq,business,1
+201,کسب درآمد میلیونی,0,0,0,0,100,1392735,60000,,Ata Programmer,business,v2.0
+202,تجارتی پرسود (پرورش زالو),0,0,0,0,100,1056024,20000,,Ata Programmer,business,v1.0
+203,Maghazam,3,5,5,1,100,2929408,0,,Maghazam,business,0.9.8
+204,electronic.lezata,0,0,0,0,100,9147904,40000,,Shhryarkhdadvst,business,v1.7
+205,barnamenevis sho,0,0,0,0,100,5147045,20000,,mahdi3441,business,2.2.2
+206,دانشنامه دام و طیور,26,4.5,5,1,100,10220000,0,Offers IAP purchases,RayanDeveloper,business,v_1
+207,ir.idea.money,2,5,5,1,100,9138349,40000,,Arash zarei,business,version 1.2
+208,Saffron profossor,0,0,0,0,100,7577472,10000,,aminabiri,business,v1.1.2
+209,kasb va kar,0,0,0,0,100,2571142,20000,,aryan,business,v1.0
+210,ایده های پول سازی,0,0,0,0,100,1899784,10000,,hasan babakr shini,business,v3.0
+211,com.twoidea.money,2,5,5,1,100,13990758,40000,,Arash zarei,business,version 1.1
+212,بازاریابی شبکه ای(=کسب درآمد),0,0,0,0,100,1823485,0,Offers IAP purchases,tameshk software group,business,v2.0
+213,Takhfifan Business,1,5,5,1,100,8449127,0,,takhfifan,business,1.0.2
+214,Make Money From Affiliate,1,5,5,1,100,3763899,0,Offers IAP purchases,rasoul_arabsheybani,business,1.1
+215,راهنمای پرورش طیور,0,0,0,0,100,5516628,20000,,vafadindoost,business,V1.0.0
+216,The adventure of TinTin - The CALCU,336,4.8,5,1,2000,20405852,20000,,ARLI Software Group,comics,3
+217,The adventure of TinTin - Destinati,284,4.9,5,1,2000,18797543,20000,,ARLI Software Group,comics,2
+218,The Advanture of TinTin - Cigars of,478,4.9,5,1,2000,20993566,20000,,ARLI Software Group,comics,1
+219,Comic Dooni (Graphic Novels),4195,4.7,5,1,10000,6400112,0,Offers IAP purchases,hafsang,comics,2.1.1
+220,The Adventures of Tintin - Red Rack,215,4.9,5,1,2000,19643474,20000,,ARLI Software Group,comics,1
+221,The Advanture of TinTin - The Broke,261,4.9,5,1,2000,17170405,20000,,ARLI Software Group,comics,1
+222,The Adventures of Tintin-The Seven,214,4.9,5,1,2000,18356651,20000,,ARLI Software Group,comics,1
+223,The Advanture of TinTin - Tintin in,331,4.8,5,1,2000,18399133,20000,,ARLI Software Group,comics,2
+224,The adventure of TinTin - Explorers,225,4.8,5,1,2000,24700938,20000,,ARLI Software Group,comics,2
+225,The Adventures of Tintin-Prisoners,202,4.9,5,1,1000,19660097,20000,,ARLI Software Group,comics,1
+226,The Adventures of Tintin: The Secre,245,4.8,5,1,1000,23831406,20000,,ARLI Software Group,comics,2
+227,عشق یعنی...Love is,97,4.5,5,1,2000,4855810,20000,,Delta7Coders,comics,2.1
+228,The Advanture of TinTin - The Blue,348,4.9,5,1,1000,17487083,20000,,ARLI Software Group,comics,1
+229,Cindrella Comic,94,4.4,5,1,2000,30180493,0,Offers IAP purchases,opapps,comics,1.0.2
+230,Walking Dead 152,13,4.8,5,1,100,19739688,10000,,opapps,comics,1.0.1
+231,Walking Dead 151,9,4.8,5,1,100,20619702,0,,opapps,comics,1.0.1
+232,Naruto 581-585,15,5,5,1,100,25417021,0,,opapps,comics,1.0.1
+233,Naruto 576-580,7,5,5,1,100,26752849,0,,opapps,comics,1.0.1
+234,Naruto 566-570,11,5,5,1,100,25554901,0,,opapps,comics,1.0.1
+235,Naruto 571-575,5,5,5,1,100,24330422,0,,opapps,comics,1.0.4
+236,Naruto 561-565,5,5,5,1,100,25109453,0,,opapps,comics,1.0.1
+237,Naruto 556-560,3,5,5,1,100,26545825,0,,opapps,comics,1.0.1
+238,Naruto 551-555,6,5,5,1,100,25384695,0,,opapps,comics,1.0.2
+239,Naruto 546-550,7,5,5,1,100,26259944,0,,opapps,comics,1.0.4
+240,Naruto 541-545,8,4.5,5,1,100,25631369,0,,opapps,comics,1.0.2
+241,Naruto 536-540,6,5,5,1,100,24857366,0,,opapps,comics,1.0.1
+242,Walking Dead 150,9,4.4,5,1,100,31606651,10000,,opapps,comics,1.0.1
+243,Naruto 531-535,7,5,5,1,100,26461620,0,,opapps,comics,1.0.1
+244,Naruto 526-530,6,5,5,1,100,24996414,0,,opapps,comics,1.0.1
+245,Naruto 521-525,9,5,5,1,100,25132265,0,,opapps,comics,1.0.1
+246,Naruto 516-520,5,5,5,1,100,27011930,0,,opapps,comics,1.0.1
+247,Naruto 511-515,9,5,5,1,100,25717183,0,,opapps,comics,1.0.1
+248,Naruto 506-510,8,5,5,1,100,25402823,0,,opapps,comics,1.0.1
+249,Naruto 501-505,17,5,5,1,100,25202115,0,,opapps,comics,1.0.1
+250,Walking Dead 149,14,4.4,5,1,100,24682679,0,,opapps,comics,1.0.2
+251,Naruto 496-500,17,5,5,1,100,23537646,0,,opapps,comics,1.0.1
+252,Naruto 491-495,13,5,5,1,100,24396970,0,,opapps,comics,1.0.1
+253,6-10 - Walking Dead,119,4.7,5,1,2000,27220456,10000,,opapps,comics,1.0.6
+254,The Advanture of TinTin - The Black,221,4.9,5,1,1000,17538564,20000,,ARLI Software Group,comics,1
+255,arrow2,0,0,0,0,100,4739218,0,,mona mousavi,comics,1
+256,Captain America5,0,0,0,0,100,6595666,0,,nafise zeinali,comics,1
+257,پرسی جکسون و دزد آذرخش 3,0,0,0,0,100,5598361,0,,armin shamloo,comics,1
+258,کمیک بتمن جلد 0,0,0,0,0,100,11474920,10000,,amir F,comics,1
+259,arrow1,0,0,0,0,100,4865140,0,,mona mousavi,comics,1
+260,ماسک 2,1,3,5,1,100,4763918,0,,Pooya mobasher,comics,1
+261,کمیک جانگو جلد 1,0,0,0,0,100,5965682,0,,amir F,comics,1
+262,پرسی جکسون و دزد آذرخش 2,1,1,5,1,100,5508679,0,,armin shamloo,comics,1
+263,deadpool26,0,0,0,0,200,3623602,0,,rimadroid,comics,1
+264,Captain America4,0,0,0,0,100,7297704,0,,nafise zeinali,comics,1
+265,کمیک فلاش (قسمت ششم),0,0,0,0,100,9863967,0,,Matin Patin,comics,1
+266,deadpool25,0,0,0,0,200,3813588,0,,rimadroid,comics,1
+267,پرسی جکسون و دزد آذرخش 1,0,0,0,0,100,6987054,0,,armin shamloo,comics,1
+268,Captain America3,1,5,5,1,100,6675934,0,,nafise zeinali,comics,1
+269,deadpool24,0,0,0,0,200,3789756,0,,rimadroid,comics,1
+270,Captain America2,1,5,5,1,200,7317311,0,,nafise zeinali,comics,1
+271,کمیک آخرین نفر از ما 4,2,3,5,1,200,6800509,0,,reyhaneh,comics,1
+272,ماسک 1,5,4.6,5,1,200,7516681,0,,Pooya mobasher,comics,1
+273,لاکپشت های نینجا پیروز میشوند 4,3,2.3,5,1,1000,16422284,0,,sanazdroid,comics,1
+274,لاکپشت های نینجا پیروز میشوند 3,3,4.7,5,1,500,9586766,0,,sanazdroid,comics,2
+275,کمیک مرد آهنی 3,0,0,0,0,500,4736609,0,,Haleh Noor,comics,1
+276,مرگ مرد عنکبوتی 4,2,1,5,1,1000,4518975,0,,parnian hasanzade,comics,1
+277,deadpool23,0,0,0,0,200,3303342,0,,rimadroid,comics,1
+278,carnage,5,3.4,5,1,200,7652388,0,,sorosh_hgh,comics,1.0.1
+279,Pinngle,117,3.4,5,1,50000,32623200,0,Offers IAP purchases,Aragil Online Marketing,communication,1.0.2
+280,Instagram,339072,4.1,5,1,14000000,23443750,0,,Instagram,social,10.3.1
+281,MSQRD,8407,4.4,5,1,1000000,36092739,0,,msqrd-app,social,1.8.3
+282,Papillon SMSBank,169189,4.6,5,1,500000,3143433,0,,papillon,social,4.0.1
+283,Like Begir Instagram,93990,4.8,5,1,200000,1297203,0,Offers IAP purchases,andromedaa,social,4.1.2
+284,فلگرام (تلگرام فارسی) + روح,62111,4.5,5,1,200000,21040295,0,,radical,social,3.10.1-f4
+285,Follower Begir Instagram,72228,4.6,5,1,200000,1333927,0,Offers IAP purchases,andromedaa,social,5.0.1
+286,یه جک بگم,117983,4.7,5,1,200000,7160583,0,Offers IAP purchases,farazdevelopers,social,3.44
+287,آنفالویاب اینستاگرام اینستافالو,12449,4.3,5,1,200000,2781791,0,Offers IAP purchases,hadi-ranjbar,social,5.5
+288,LinkedIn,3413,4.2,5,1,200000,38296685,0,,LinkedIn,social,4.0.99
+289,InstaFollow,20406,4.2,5,1,200000,1308701,0,,"INNOVATTY, LLC",social,2.2.5
+290,Message of Love,18113,4.6,5,1,100000,1965317,0,,skydt,social,1
+291,Comment Begir Instagram,14100,4.7,5,1,100000,1410850,0,Offers IAP purchases,andromedaa,social,2.0.3
+292,InstaMessage,11428,4.5,5,1,100000,18648629,0,,tap-genius-ltd,social,2.5.2
+293,Cafe Instagram,82865,4.5,5,1,100000,8341923,0,Offers IAP purchases,Castle Programming Group,social,6.0.1
+294,Nazdika,21024,4.5,5,1,100000,6693608,0,Offers IAP purchases,oddrun,social,5.0.2
+295,Baham social network,62694,4.4,5,1,100000,5887337,0,Offers IAP purchases,Zero Team,social,7.6.8
+296,Khalafi khodro,0,0,0,0,100,10363811,10000,,KENBLACK,social,1
+297,Telegram Life,4,4.5,5,1,200,23907769,0,,sgdesign,social,3.13.1
+298,Neveshtane,2,3,5,1,100,2710166,0,,Infinitedreams,social,1.01
+299,dastan asheghane,2,4.7,5,1,100,2653178,0,,feiz98,social,v2.0
+300,آیرو ممبر,6,3.7,5,1,100,7086572,0,Offers IAP purchases,smaznet,social,1.2.0
+301,network social hamyar,9,3.2,5,1,200,7607915,0,,amini,social,1.0.3
+302,1001 tips for success,3,3.7,5,1,100,5817964,0,,MyStudio,social,1
+303,Wi-Fi password and security,0,0,0,0,200,2846037,0,,tehransoft,social,2
+304,payamak asheghane v tike dar,31,4.6,5,1,2000,2999421,0,,gorohe aghbolaghi,social,1
+305,anvae koko,16,4.6,5,1,500,4326122,0,,roiae khis,social,v2.0
+306,آنالیز ممبر | آنفالویاب اینستاگرام,76,4.4,5,1,500,3915194,0,Offers IAP purchases,Mohsen Jahani,social,1
+307,Artan,4,3,5,1,100,3141752,0,Offers IAP purchases,parseh,social,Artan4
+308,delneveshteha,22,4.2,5,1,500,8586266,0,,Sherkate Adrapana,social,v1.0
+309,Artibition Online Gallery,28,5,5,1,100,12271522,0,,artibition,social,1.0.1
+310,ممبرکده,38,4.5,5,1,200,7373813,0,Offers IAP purchases,alireza21098,social,1.2.0
+311,Yadsa,18,5,5,1,200,6620631,0,,Yadsa,social,0.7.1
+312,DAT,0,0,0,0,100,1141525,10000,,arta_app,social,1
+313,higram (add member),43,3.5,5,1,500,3319989,0,Offers IAP purchases,safinatolnejat,social,HM_1.2
+314,chanel yab,221,4.4,5,1,2000,1379841,0,,akbar sadeghpoor,social,v1.0
+315,RepostSave,5,5,5,1,2000,18538981,0,,digiset-llc,social,3.3.2
+316,InstaRepost,0,0,0,0,200,16641641,0,,instarepost,social,3.6.1
+317,telegram auto member,386,4.2,5,1,500,9880366,0,,aminrz32,social,3.10.4
+318,hidden telegram,12,2.3,5,1,100,17770717,10000,,aminrz32,social,3.10.4
+319,Save Profile Instagram,10,3.7,5,1,100,358312,20000,,akbar sadeghpoor,social,v1
+320,Menugram,221,4.2,5,1,10000,5884619,0,Offers IAP purchases,armin,social,2.1.2
+321,GIPHY CAM,1,5,5,1,500,94411550,0,,giphy-inc,communication,1.1.2
+322,Allo,1053,4.3,5,1,100000,15377280,0,,Google Inc.,communication,4.0.014_RC09 (armeabi-v7a_xxhdpi)
+323,Duo,831,4.3,5,1,200000,10640653,0,,Google Inc.,communication,5.1.142054125.DR5_RC14
+324,Ayva Messenger,463,4.4,5,1,5000,19758428,0,,rayanpooyan,communication,3.5.2
+325,موبوپلاس,40211,4.3,5,1,500000,4205499,0,Offers IAP purchases,Hanista Group,communication,2.1
+326,SMS-Pro,808,4.1,5,1,2000,3646302,20000,,SinDev,communication,6.2.2
+327,Telegram,332603,4.3,5,1,17000000,12628550,0,,Telegram Messenger LLP,communication,3.15.0
+328,WhatsApp,362552,4.3,5,1,12000000,28443847,0,,WhatsApp Inc.,communication,2.16.396
+329,LINE: Free Calls & Messages,204574,4.3,5,1,4000000,45650091,0,,LINE Corporation,communication,6.9.1
+330,موبوگرام,37625,4.5,5,1,500000,16910190,50000,,Hanista Group,communication,T3.13.1-M9.6
+331,Plus Messenger,19744,4.4,5,1,2000000,16217222,0,,rafa,communication,3.13.1.8
+332,Soroush,4963,4.2,5,1,200000,14634330,0,,Resane Soroush,communication,0.14.4
+333,تلگرام فارسی (غیر رسمی),490333,4.4,5,1,3000000,24102739,0,,persianfox,communication,3.8.1.2
+334,Telegraph,3153,4.3,5,1,20000,21861528,40000,,masoudbh,communication,T3.10.1 - P5.0
+335,Telegram Telegramity,11020,4.3,5,1,100000,22381303,0,Offers IAP purchases,eng-maria-amani,communication,3.9.7 - TGY-Build 997
+336,hike,18185,4.4,5,1,200000,32609498,0,,hike-ltd,communication,4.7.4
+337,Azar,2503,4.2,5,1,200000,38508598,0,,Hyperconnect inc,communication,3.11.7-arm
+338,BisPhone,18456,4.2,5,1,100000,17705151,0,,Bistalk,communication,2.0.1
+339,"Numbers - Chat, Voice & Video Call",8915,4.1,5,1,10000,28311988,0,Offers IAP purchases,Arioo Dotcom,social,2.3.7.1
+340,Kik,17159,4.1,5,1,100000,33078323,0,,Kik Interactive,communication,11.3.1.12434
+341,Wire,249,4.1,5,1,50000,19604390,0,,Wire Swiss GmbH,communication,2.24.303
+342,Skype,28431,4.1,5,1,3000000,40247115,0,,Skype,communication,7.29.0.370
+343,Persian Telegram (Full),134538,4.4,5,1,200000,27153743,0,,radian,communication,3.14.1
+344,Messenger,9431,4,5,1,200000,12260121,0,,Yahoo,communication,2.5.0
+345,Messenger Voice and Video Plug-in,1628,3.9,5,1,100000,9529641,0,,Yahoo,communication,1.6.1
+346,Rounds,63,3.8,5,1,2000,16787536,0,,rounds-entertainment-ltd,communication,8.1.0
+347,Talkray,1569,4.1,5,1,20000,10462857,0,,TiKL Inc,communication,3.134
+348,KakaoTalk,7099,4.1,5,1,100000,51182315,0,,kakao-corporation,communication,6.0.0
+349,Hangouts,56740,4,5,1,29000000,29079168,0,,Google Inc.,communication,15.0.141104777
+350,پیام رسان و ضدتبلیغ هدهد,38472,4.7,5,1,100000,7780136,0,,2d_dev_team,communication,1.7.3
+351,Holaa! Caller ID & Call Block,755,4.3,5,1,100000,6075063,0,,Nimbuzz,communication,5.8.2
+352,Calls Blacklist,2884,4.4,5,1,100000,2770427,0,,Vlad Lee,communication,3.1.15
+353,"myrond, Rond,simcart,khat,sim 0912",245,4.7,5,1,2000,4481494,0,,Myrond,productivity,2.4.8
+354,تقویم شمیم یاس,168474,4.5,5,1,500000,8399207,0,Offers IAP purchases,shamimsoft,productivity,2.3
+355,انبار,230,4.2,5,1,2000,3898162,0,Offers IAP purchases,Orange Programming Group,productivity,1.3.1
+356,تقویم شمسی ۹۵,366,4.2,5,1,2000,7138733,30000,,kingroidgroup,productivity,1.1.3
+357,fonet phone tracker,221,2.9,5,1,20000,2408008,0,Offers IAP purchases,apping,productivity,1.2
+358,SimPay,34,4.5,5,1,10000,10062154,0,,altontech,productivity,3.1.0
+359,areka,4,5,5,1,500,2421951,0,,open_source_developer,business,1.2.5
+360,Smart Kit,9,5,5,1,2000,6494070,0,,kafui-utils,productivity,1.5
+361,تولدیار,47,3.7,5,1,2000,6632537,0,,Amir mohamadi,productivity,1
+362,استخدام شو (کاریابی اینترنتی),51,4.4,5,1,2000,2585414,0,Offers IAP purchases,estekhdamsho,business,1.7.0
+363,Emam Reza Salavat Widget,4480,4.8,5,1,20000,4739729,0,,raimon,widgets,4.6
+364,انتظار (روز شمار غیبت),3854,4.7,5,1,10000,4122258,0,,raimon,widgets,2.2
+365,Widget Calendar,479,3.9,5,1,20000,172361,0,,Mohammad Amin Jafari,widgets,1
+366,Flashlight,471,3.8,5,1,50000,255814,0,,marabifouad,widgets,3
+367,ویجت صلوات,2104,4.6,5,1,10000,3444365,0,,raimon,widgets,2
+368,Talking clock with Persian widget,7325,4.4,5,1,10000,8255476,0,Offers IAP purchases,raimon,widgets,4.2
+369,Analog clock,158,3.8,5,1,20000,333408,0,,barfinroid,widgets,1
+370,WidgetClock,96,3.8,5,1,20000,5743607,0,,pasargad office,widgets,1
+371,Clock Mod Widget,620,3.6,5,1,50000,314883,0,,Amin BesharatNia,widgets,1.2
+372,Imam Hosein Clock,682,4.3,5,1,10000,3230142,0,,parsiyar-1825,widgets,2.1
+373,ویجت السلام علیک یا اباعبدالله,1448,4.8,5,1,5000,2186701,0,,raimon,widgets,1.1
+374,گوشیتو رنگی کن,3447,4.2,5,1,10000,857752,0,,Senator,widgets,1
+375,Zekr - Islamic holy words,143,3.9,5,1,20000,544213,0,,ashkaran,widgets,1
+376,BATTREY,121,4,5,1,10000,39726,0,,z-back33,widgets,final
+377,متن یار,27,4.4,5,1,500,5191755,0,Offers IAP purchases,apk4iranian,tools,1.1.0
+378,Dr.Web Security Space,1817,4.2,5,1,100,11689520,320000,,vanda,tools,10.1.2
+379,Imaa,7,5,5,1,1000,1752141,0,,rayacoder,tools,1
+380,Civil Abacus (Civil Engineer Tools),85,4.2,5,1,1000,12077606,0,Offers IAP purchases,proscience,tools,6.6.0
+381,AlFa Keyboard 1,1835,4.3,5,1,20000,6154970,10000,,sma_dev_apps,tools,2.2
+382,Professional Keyboards Alfa 2,838,4.4,5,1,10000,11800534,0,Offers IAP purchases,sma_dev_apps,tools,2.01612E+11
+383,Energy Saver,7,3.9,5,1,5000,5070445,0,,time-left,tools,1.0.8
+384,Talking Alarm Clock,1150,4.4,5,1,5000,5827631,0,Offers IAP purchases,raimon,tools,1.2
+385,Oral History,48,4.6,5,1,500,2837402,0,,Oral History,tools,1.33
+386,Roshana,82,3.9,5,1,1000,2489937,0,,White Tree,tools,1.1
+387,FileGram,82,4.4,5,1,1000,5400985,0,Offers IAP purchases,Olympia,social,1.1.1
+388,Appche | Create android apps,3000,4.2,5,1,10000,45012461,0,Offers IAP purchases,BitsArt,tools,2.7.1
+389,Rainbow Keyboard,956,3.9,5,1,10000,8521423,0,Offers IAP purchases,io_plus,tools,1.1.3
+390,خدمات پیشخوان,359,4.5,5,1,20000,10859744,0,,7sharge,tools,1.2
+391,Simple Color Picker,75,4.2,5,1,2000,1247207,0,,lollypop,tools,3
+392,"BioText , Fantasy Text",54,4,5,1,5000,3511456,0,,Solutionz IT Based,tools,2
+393,PPA Tools,13,4.7,5,1,200,11674113,0,,Pars Pazhoohan Asia PPA HOST,tools,1.5.0
+394,HUAWEI HiCare,84,4.1,5,1,500000,3939437,0,,Huawei Internet Service,tools,2.0.4.301_OVE
+395,Sharper Calculator,1197,4.4,5,1,5000,1930039,0,,ymbsmz,tools,1.0.1
+396,GooshiBeGooshi,235,3.9,5,1,10000,3163942,0,,bitagames,tools,1.0.6
+397,Rahyab Alarm,10,4.2,5,1,500,3247585,0,,rahyab1984,tools,1.1
+398,Telegroob,671,4.1,5,1,10000,3357880,0,,hamsah,tools,1.2
+399,Smart Flashlight shake,3500,4.3,5,1,20000,2016059,0,Offers IAP purchases,raimon,tools,2.3
+400,1Password,13,3.3,5,1,5000,10448665,0,,agilebits,productivity,6.4.5
+401,Dashlane,21,4.3,5,1,500,25277824,0,,Dashlane,productivity,4.7.2.1622-armeabi-v7a
+402,Keeper,4,3,5,1,10000,14457371,0,,keeper-security-inc,productivity,10.4.8
+403,همراه کارت,28,3.7,5,1,5000,2884099,0,,afkarsystem-mobile,tools,1.3.1
+404,kosar mobile payment,4,3,5,1,2000,5651988,0,,Credit Institution Kosar,finance,1.0.25
+405,kosar mobile bank,34,3.8,5,1,20000,6027473,0,,Credit Institution Kosar,finance,1.2.7
+406,Sabadban,11,4.5,5,1,500,6622422,0,,Sefr-Yek. Co.,finance,1.0.0
+407,Check Man,19,4.4,5,1,1000,3776503,0,Offers IAP purchases,shahab salami,finance,1.6
+408,Rahavard 365,176,3.5,5,1,2000,14043548,0,,mabnadp,finance,1.6.0
+409,City Payam Resan,17,4.2,5,1,5000,5794358,0,,ADP Digital,finance,1.0.0
+410,Snapp Driver | اسنپ رانندگان,851,4.2,5,1,50000,5987965,0,,snapp,transportation,2.3.3
+411,Snapp | اسنپ,36999,4.9,5,1,200000,11379619,0,,snapp,transportation,3.0.2
+412,Tehran Metro,8867,4.6,5,1,200000,5696124,0,,fardad,transportation,1.3.6
+413,لیست کامل خلافی خودرو,1973,4.4,5,1,200000,2153561,0,Offers IAP purchases,راهی,transportation,4
+414,Sygic,23401,4.2,5,1,500000,39364731,0,,Sygic.,transportation,16.4.9
+415,Car Assistant,5949,4.6,5,1,50000,6687515,0,Offers IAP purchases,Serendip,transportation,4.0.0
+416,KISH PLUS,25,4.6,5,1,1000,1882297,0,,firon,travel-local,2.1
+417,Shemiran Parvaz,30,5,5,1,2000,7827086,0,,shpiran,travel-local,1.2
+418,Haminvara | Best City Guid,51,4.2,5,1,1000,11522004,0,,haminvara,travel-local,1.4
+419,Parvaz Iran,17,4.5,5,1,2000,3507098,0,,Farzad Farahmand,travel-local,0.0.1
+420,BAM - Accessibility Database,7,4.9,5,1,100,1725990,0,,Mani Razavizadeh,travel-local,V1.0.0
+421,CafeGardesh,34,4.3,5,1,1000,2871986,0,,MabnaCo,travel-local,1.5.2c
+422,Kharidon,58,3.2,5,1,2000,3824373,0,,Kharidon,travel-local,1.1.1
+423,گردشکده,12,3.9,5,1,500,7932041,0,,mojaddady,travel-local,1.1.5
+424,Kashan Map,20,4.2,5,1,500,8954845,0,,Ashid Group,travel-local,3.6.0
+425,Anaseir,32,4.1,5,1,2000,2839887,0,,AppSA,travel-local,1.1
+426,Nazdiktarinha,49,4,5,1,2000,6782638,0,,skywave,travel-local,1.0.6
+427,carevan,67,4.4,5,1,2000,6978397,0,,Kvan Pouryavar,travel-local,0.2.3
+428,Sepehr360(bilit charter havapeima),1158,4.5,5,1,50000,4249214,0,,sepehr 360,travel-local,1.2 CB
+429,Airplane Ticket,40,4.1,5,1,10000,2688943,0,,Atigh Gasht Isfahan,travel-local,1.0.1
+430,blityab,23,4,5,1,5000,2775891,0,,blityab,travel-local,4.4
+431,Travel to Semnan,26,4.2,5,1,500,4827533,0,,hamgardi,travel-local,1.8.8 Semnan
+432,Samt,563,3.8,5,1,10000,19958197,0,,ARCA SIMAP,travel-local,2.1
+433,mr Bilit,199,4,5,1,20000,906241,0,,Atigh Gasht Isfahan,travel-local,1.3.1
+434,beheshte gomshode,9,5,5,1,200,33952892,0,,Almas Studio,travel-local,1.0.1
+435,rahsepar,6,4.3,5,1,200,19847384,10000,,soroushasadi,travel-local,1.2.2
+436,قزوین‌ گرد,114,4.6,5,1,200,4545792,0,,akkamco,travel-local,1.4
+437,shiraz information,26,4.7,5,1,2000,1918066,0,,bazarbashe,travel-local,1.5
+438,Hamgardi,2848,4.5,5,1,50000,3533426,0,,hamgardi,travel-local,3.5.3 C
+439,Iran  361°,2142,4.2,5,1,10000,7989207,0,Offers IAP purchases,Mousa Akbari,travel-local,4.5
+440,Kish Map,96,4.3,5,1,5000,9416802,0,,Neshan,travel-local,2.0.3
+441,safargardi,1449,4.6,5,1,10000,5016369,0,,iraneasytravel,travel-local,1.6.4
+442,Traveller Tabriz,99,4.6,5,1,2000,29709964,0,,Process,travel-local,1.7.7
+443,Zanjangardi,54,4.3,5,1,1000,10901273,0,,adakco,travel-local,1.4.6
+444,Travel to Qeshm,205,4.5,5,1,2000,4986121,0,,hamgardi,travel-local,1.8.8 Qeshm
+445,arak,42,4.4,5,1,1000,2094649,0,,hisoft,travel-local,1
+446,Bandar 24,24,4.5,5,1,200,1045303,0,,jonoub,travel-local,1.1.1.7
+447,Mashhad App&Map,88,4.3,5,1,1000,45811138,0,,ashbir,travel-local,1.1.6
+448,Travel to Ahvaz,291,4.2,5,1,5000,4945305,0,,hamgardi,travel-local,1.8.8 Ahvaz
+449,LEEPAK | Tourism Social Network,117,3.8,5,1,2000,7595782,0,,leepak,travel-local,0.9.13
+450,Travel to Kashan,137,4.6,5,1,2000,5026047,0,,hamgardi,travel-local,1.8.8 Kashan
+451,Travel to Hamedan,165,4.5,5,1,2000,4863839,0,,hamgardi,travel-local,1.8.8 Hamedan
+452,Travel to Antalya,26,4.3,5,1,1000,5013635,0,,hamgardi,travel-local,1.8.8 Antalya
+453,Paris,103,4.8,5,1,2000,15615914,0,,ZORAQ.com,travel-local,2
+454,راهنمای سفر به ترکیه,39,4.1,5,1,2000,13150839,0,,yekta system hooshmand,travel-local,1
+455,TripAdvisor,5767,4.3,5,1,2000000,45677584,0,,TripAdvisor,travel-local,19.0.1
+456,راهنمای سفر به تایلند,15,4.7,5,1,1000,8898581,0,,yekta system hooshmand,travel-local,1
+457,Dubai,206,4.5,5,1,2000,12178728,0,,ZORAQ.com,travel-local,2
+458,Travel to Vienna,8,4.8,5,1,200,5041156,0,,hamgardi,travel-local,1.8.8 Vienna
+459,Couchsurfing,134,4.3,5,1,10000,5792836,0,,couchsurfing-inc,travel-local,4.7.2
+460,Stay.com,5,4,5,1,200,14314294,0,,Stay.com,travel-local,4.3.1
+461,Triposo,33,4.5,5,1,500,37533999,0,,triposo-inc,travel-local,4.4.1
+462,Tourism,721,4.5,5,1,5000,3132612,0,,bartarinha,travel-local,2.1
+463,Travel to Berlin,7,5,5,1,200,4934648,0,,hamgardi,travel-local,1.8.8 Berlin
+464,Travel to London,22,4.5,5,1,500,4957608,0,,hamgardi,travel-local,1.8.8 London
+465,World Around Me,19,4.7,5,1,1000,8927819,0,,WT InfoTech,travel-local,3.2
+466,Tourist,186,3.8,5,1,1000,3391142,0,,redstudio,travel-local,1.2
+467,آنتالیا,69,4.6,5,1,1000,10936551,0,,ZORAQ.com,travel-local,1
+468,چمدان,690,4.4,5,1,10000,1224002,0,,ZORAQ.com,travel-local,1.1
+469,141,2131,4.2,5,1,100000,7364031,0,,Iran Road Management Center,transportation,3.1.6
+470,iBenzin,487,4.2,5,1,10000,1828616,0,,Code Studio,travel-local,1.1.0
+471,Havashenas 3,30181,4.4,5,1,500000,4222130,0,Offers IAP purchases,Farhad Shirzad,weather,3.4
+472,Havashenasi,4724,4.2,5,1,20000,7208301,0,,atfdeveloper,weather,1.2
+473,"Havakadeh, Forecast & Widgets",271,3.9,5,1,20000,13689588,0,,6thSolution,weather,1.1.0
+474,Weather & Clock Widget,10742,4.5,5,1,200000,10684844,0,,Devexpert.NET,weather,5.9.1.2
+475,Weather,7704,4.6,5,1,200000,2655411,0,,MacroPinch,weather,3.2.1
+476,اپلیکیشن هواشناسی,10831,4.3,5,1,20000,19965765,50000,,MilaD Faraji,weather,2.5.4
+477,Weather,5477,4.5,5,1,100000,22893201,0,,Yahoo,weather,1.6.3
+478,GO Weather EX,4475,4.5,5,1,100000,13323674,0,,go-dev-team-x,weather,5.733
+479,Sense flip clock & weather,633,4.4,5,1,10000,17738175,0,,machapp-software-ltd,weather,2.80.01
+480,Digital clock & weather,230,4.4,5,1,5000,16205898,0,,machapp-software-ltd,weather,2.00.01
+481,3D flip clock & weather,447,4.3,5,1,5000,17952805,0,,machapp-software-ltd,weather,2.52.04
+482,Transparent weather clock,1888,4.6,5,1,100000,18152308,0,,machapp-software-ltd,weather,0.92.01.08
+483,The Weather Channel,1775,4.4,5,1,50000,50531129,0,,The Weather Channel,weather,7.4.1
+484,google_libs,3519,4.6,5,1,20000,11895099,0,,amber-mobile-limited,weather,3.2.7
+485,YoWindow,1558,4.6,5,1,20000,35612841,0,,RepkaSoft,weather,1.29.3
+486,Weather,2340,4.3,5,1,5000,9639396,50000,,hadi-karimi,weather,4.1
+487,easy forecast,8529,4.3,5,1,20000,261863,0,,sunofgod7,weather,2
+488,Weather Live,1500,4.5,5,1,20000,32659948,0,,Apalon Apps,weather,5.1
+489,Irimo Weather,1279,3.8,5,1,50000,1232127,0,,GAMA,weather,1.1
+490,وضعیت آب و هوا,0,0,0,0,100,4923659,0,,mothertereza,weather,1
+491,برنامه دماسنج همراه,3,2,5,1,1000,4015174,0,,elnaz vejdani,weather,1
+492,Nika Weather,1,1,5,1,100,2672352,10000,,nikatech,weather,1.2.1
+493,weather forecasting,2,3,5,1,1000,2588673,0,,rezapoorzare,weather,1.7
+494,آب و هوا شناسی,1,1,5,1,1000,4861408,0,,NamakPash,weather,1
+495,Havashenasi pishrafte,399,4.3,5,1,10000,5867504,0,,soshiadev,weather,SOSHIADEV
+496,Mazandaran PROVINCE MET,7,3.5,5,1,2000,5765250,0,,aseman32325140,weather,
+497,Havashenasi roz,86,3.8,5,1,5000,510508,0,,palizban,weather,1.1
+498,Ab va havaye shahre man,22,3.8,5,1,5000,2879633,0,,zeyton,weather,A-SH.4.1
+499,Havayar,0,0,0,0,100,1333574,10000,,Hamed Rezaee,weather,1
+500,Meteorology oramanat,11,4,5,1,2000,1712335,0,,zahedamini,weather,2.0.0.0
+501,Bris,22,4.5,5,1,100,18432390,20000,,breathe,weather,1.5.7
+502,AccuWeather,5954,4.5,5,1,200000,30867279,0,,accuweather,weather,4.3.7-free
+503,ChandDarMiad (Currency Converter),39,4.1,5,1,500,1010570,0,,dansa,travel-local,1.1
+504,دنگ سفر,949,4.6,5,1,5000,3405539,0,,Morteza hashemi,travel-local,1.1
+505,Iran Offline Map,7815,4.3,5,1,100000,53466449,0,,farhad kargaran,transportation,5.5
+506,Compass,648,4.3,5,1,20000,3021112,0,,Smart Tools co.,tools,1.7.4
+507,Maps,83086,4.4,5,1,29000000,39937218,0,,Google Inc.,travel-local,9.42.3
+508,Rahad Offline Map & Routing,53010,4.4,5,1,100000,5999232,0,Offers IAP purchases,Rahad Team,travel-local,1.4.7
+509,Currency,38,4.3,5,1,2000,2806375,0,,ExtraAndroary,finance,2.4.0
+510,آدرس یاب و نقشه آفلاین تمام دنیا,29060,4.3,5,1,50000,2316473,40000,,smart team,travel-local,1.15
+511,Booking.com Hotels,250,4.6,5,1,200000,27419002,0,,bookingcom-hotel-reservations,travel-local,11.7
+512,Sepehr Maps,116265,4.6,5,1,200000,5053828,0,Offers IAP purchases,sepehr_group,travel-local,7.3.2
+513,MAPS.ME,755,4.6,5,1,100000,32339424,0,,mycom-bv,travel-local,6.5.4-Google
+514,"IMAP(routers, address, offline map)",67043,4.4,5,1,100000,5124473,0,Offers IAP purchases,pishtazan_android,travel-local,2.4
+515,fine iran & world Map,2935,4.2,5,1,20000,3312409,40000,,ARA Group,travel-local,1.11
+516,Mashhad Map,1796,4.5,5,1,100000,19422554,0,,mashhadmap,travel-local,6.0.5
+517,آدرس بده رو نقشه ببین,5367,4.2,5,1,10000,2275184,50000,,smart team,travel-local,2.26
+518,Dunro,7675,4.4,5,1,50000,7245848,0,,Dunro,travel-local,0.9.0
+519,LastSecond,2635,4.3,5,1,100000,1541092,0,,LastSecond,travel-local,2.2.0
+520,GPS Status,1037,4.4,5,1,50000,4064819,0,,MobiWIA - EclipSim,travel-local,7.4.160
+521,Tehran Offline Map,1143,4.1,5,1,100000,18207102,0,,System Avaran Sadra,travel-local,2.6
+522,baby health,0,0,0,0,100,5300263,0,,iranapple,health-fitness,1
+523,good food!!,0,0,0,0,100,6780437,0,,iranapple,lifestyle,1
+524,Family Doctor,322,4.6,5,1,5000,17318901,0,Offers IAP purchases,tadbirstudio,medical,1.5
+525,TATAK2,107,4.2,5,1,2000,42438044,0,Offers IAP purchases,mahdi darabi,medical,2.9.4
+526,دکتر ساینا,76,4.6,5,1,5000,8719315,0,,drsaina,medical,1.2.2
+527,دکتر دارو,10,3.6,5,1,5000,4191311,0,,AppWizard,medical,1.6
+528,ShafaDoc,68,4,5,1,2000,6981090,0,,Aftabe Shafa,medical,1.4.1.0
+529,Doctorin - Specialist doctors DB,30,4.8,5,1,1000,2346308,0,,Raze Simurg,medical,0.9.0
+530,Melitus ( Sadra Diabetes House),6,4.5,5,1,1000,26730530,0,,appiLux,medical,1.1
+531,darmangaran,49,4.6,5,1,2000,6164833,0,,zhillamo,medical,0.8.9.1
+532,TeleTeb - Dermatology & Beauty,728,4.6,5,1,5000,5534200,0,,teleteb,medical,1.3.2
+533,Parsiteb,215,4.3,5,1,2000,4674491,0,,parsiteb,medical,1
+534,herbal tea /Dam noosh,46767,4.7,5,1,200000,2812486,0,,Narvan Soft,medical,3.8
+535,Medical-Pharmacy,2344,4.4,5,1,20000,16632353,30000,,sepidpor,medical,15.5.2
+536,Drug and illness reference,1534,4.3,5,1,20000,3216294,40000,,ARA Group,medical,2.6
+537,Drug illness reference,6644,4.6,5,1,200000,2898946,0,,ARA Group,medical,2.15
+538,Noskhehaye Ostad Ziyaei,9426,4.6,5,1,10000,2018592,20000,,Narvan Soft,medical,1.3
+539,Chista Drugs,1350,4.4,5,1,10000,675091,20000,,vira_chista,medical,4
+540,I Am Pregnant,3300,4.7,5,1,100000,4378487,0,,hamsane,medical,2.3
+541,مرجع جواب آزمایش,6750,4.6,5,1,100000,2747881,0,,i-andriod-studio,medical,1
+542,Niniban,2649,4.6,5,1,50000,1373278,0,,bartarinha,medical,1.2
+543,Herbal traditional medicine,235,4.7,5,1,50000,6808130,0,,samira,medical,1
+544,ﻣﺮﺟﻊ ﺩﺍﺭﻭﻫﺎ (ﮐﺎﻣﻞ),1239,3.5,5,1,50000,1299550,20000,,toolfa,medical,1.1
+545,Persian Herb,301,4.2,5,1,10000,3905324,20000,,vira_chista,medical,2.9
+546,Pharmacist and doctor,10055,4.6,5,1,50000,2607874,0,Offers IAP purchases,alip0ur2492,medical,3.2
+547,پزشکی سلامت,223,4.5,5,1,50000,6119384,0,,pouriya,medical,1.2
+548,Masaj Darmani,2357,4.5,5,1,5000,4088813,20000,,Narvan Soft,medical,1.3
+549,دورهمی,10219,4.6,5,1,5000,14673288,0,Offers IAP purchases,paneiz_app,social,3.6
+550,Slim Magazine,6600,4.6,5,1,20000,3470004,0,,paneiz_app,health-fitness,2.8
+551,Archery King,30,4.5,5,1,10000,54467821,0,,Miniclip.com,sports-game,1.0.9
+552,Flip King,0,0,0,0,100,31539100,0,,qwiboo-ltd,arcade,1.1
+553,Mobile Combat,52,4.4,5,1,2000,67578381,0,Offers IAP purchases,baziline,action,1.0.8
+554,Gun Strider,8,4.5,5,1,1000,41293494,0,,dreamotion-inc,arcade,1.02.387
+555,FoxOne Special Missions,10,4.2,5,1,5000,80480007,0,,skyfox,action,1.5.24.8
+556,Tiny Tanks War,17,4.4,5,1,1000,76973090,0,Offers IAP purchases,bluerabbit,action,1.0.8
+557,War Machines,108,4.1,5,1,10000,49225078,0,,Fun Games For Free,action,1.8.4
+558,Shadow Blade: Reload,42,4.2,5,1,500,358050547,60000,,fanafzar,action,1
+559,Alpha Operations,716,4.1,5,1,10000,23655087,0,Offers IAP purchases,emcgames,action,1.05
+560,Special Force,2617,4.5,5,1,50000,53684584,0,Offers IAP purchases,tbmgames,action,1.11
+561,Zombie Age 2,101,4.4,5,1,10000,27050539,0,,divmob,action,1.1.9
+562,Rush,8,3.5,5,1,500,89902454,0,,muro-studios,action,1.2
+563,Western Mini Shooter,5,3,5,1,2000,49406970,0,,imax-games,action,1.4
+564,Warplane,72,4.3,5,1,10000,47423397,0,,bravetale,arcade,1.0.4
+565,Thunderbolt,6647,4.5,5,1,50000,60415648,0,,nahajacg,action,1.01
+566,WW1 Air War,1231,4.3,5,1,50000,39686915,0,Offers IAP purchases,baziline,action,1.0.24
+567,8th Invasion 2,14822,4.4,5,1,100000,67893536,0,Offers IAP purchases,Papata Game Studio,action,1.4
+568,Zombie Frontier 3,1903,4.1,5,1,100000,48374109,0,Offers IAP purchases,medrick-fze-r,action,1.4
+569,Temple Run 2,20502,4.4,5,1,500000,53300272,0,,Imangi Studios,action,1.31.2
+570,Enemy Nightmare,74891,4.6,5,1,200000,104880721,0,Offers IAP purchases,memorymakers,action,1
+571,Mayhem,5816,4.7,5,1,200000,40458047,0,,[adult swim] games,action,103
+572,Shadow Blade,1499,4.7,5,1,20000,125255279,40000,,fanafzar,action,1.0.1
+573,Dragon Hills,3389,4.8,5,1,100000,52630485,0,,Rebel Twins,action,1.2.4
+574,Aliens Drive Me Crazy,4303,4.7,5,1,100000,51209848,0,,Rebel Twins,action,3.0.0
+575,Modern Sniper,8995,4.5,5,1,200000,11318781,0,,Candy Mobile,action,1.1
+576,Zombie Highway,6627,4.5,5,1,100000,23459133,0,,Auxbrain Inc,action,1.10.7
+577,Sniper X,17252,4.5,5,1,100000,53029540,0,,Glu,action,1.7.1
+578,Simorgh,1527,4.7,5,1,10000,64356525,20000,,bluerabbit,action,1.3
+579,Fighting Tiger,2242,4.5,5,1,100000,51627441,0,,Jiin Feng,action,2.3.2
+580,Shadow Fight 2,18097,4.2,5,1,200000,89737555,0,,NEKKI,action,1.9.26
+581,8th Invasion,49676,4.6,5,1,100000,59760920,0,Offers IAP purchases,Papata Game Studio,action,1.83
+582,میکی موس شیطون,0,0,0,0,100,7992014,0,,Parvane Team,action,1
+583,POTTERJUMP,0,0,0,0,100,2918968,10000,,SAEED J,action,3
+584,بازی با ماهی قوی,0,0,0,0,100,2047524,0,,Bartar Designers,action,1
+585,بتمن قهرمان,0,0,0,0,100,5250876,0,,mothertereza,action,1
+586,بازی با کاپیتان قهرمان,0,0,0,0,100,2533668,0,,sabadroid,action,1
+587,hot Sleight !(demo),0,1,5,1,100,16573538,0,,am_screenroid,action,v4.0
+588,Vegas Mafia Criminal Squad,0,0,0,0,100,46214074,10000,,gameskade,action,1.1
+589,Pepsiman,0,3.7,5,1,100,22969445,0,Offers IAP purchases,arvin_shk,action,2
+590,Blood Beach Sniper 3D,0,0,0,0,100,20164669,10000,,amini-chermahini,action,1.2
+591,Jungle Run,0,0,0,0,100,27868704,10000,,homeless_studio,action,1
+592,مامور مخفی,1,5,5,1,100,52605779,10000,,gameskade,action,1
+593,shekarchi,0,0,0,0,100,8615217,10000,,iman248,action,1.2
+594,بازی با هواپیمای قدرتمند,0,0,0,0,100,2572111,0,,Simin Banoo,action,1
+595,سقوط مارپیچی,0,0,0,0,100,1464515,0,,zibadev,action,1
+596,Tekken 6,0,1,5,1,100,36641843,40000,,Gooroh Azadi,action,9.9
+597,Riding,1,5,5,1,100,42103536,0,Offers IAP purchases,yussuf,action,1.4
+598,Stickman Base Jumper 2,12,4.7,5,1,1000,99212623,0,,Djinnworks GmbH,action,1.0.1
+599,Dancing Line,0,5,5,1,200,40693008,0,,cheetah-games,music,1.0.0.3
+600,Bezan Bokosh,19,3.9,5,1,200,30429290,0,Offers IAP purchases,mahdi gharahkhani,arcade,1.0.9.30
+601,Potion Punch,2,4.5,5,1,500,74294737,0,,monstronauts-inc,arcade,3.1
+602,Shoot Anar,4,4.8,5,1,200,15021970,0,,tractrix,arcade,1.2
+603,Masky,1,5,5,1,100,42613815,0,,Digital Melody,arcade,1.0.31
+604,S P E E D Y,4,4.8,5,1,100,48587390,0,,rain_man,arcade,1.1
+605,White Cells,12,4.9,5,1,100,20170800,0,Offers IAP purchases,mahdi saeedi,arcade,1.10.6
+606,Avoid It,1,1,5,1,100,58244265,50000,,GamesOn,adventure,1.2.0
+607,Time Locker,7,4.4,5,1,500,27458664,0,,sotaro-otsuka,arcade,1.4
+608,Flip,15,5,5,1,2000,26382616,0,,Ketchapp,arcade,1.03
+609,Drop It Down,20,4.5,5,1,1000,16134622,0,,Searino Games,arcade,1
+610,Thinkrolls Kings & Queens,1,5,5,1,100,65127337,0,,avokiddo,puzzle,1.0.3
+611,RGB Express,2,4,5,1,1000,30416128,0,,bad-crane,puzzle,1.4.7
+612,Crazy Neighbor,29,3.8,5,1,500,5665423,0,Offers IAP purchases,unides,puzzle,1.1
+613,PicrossLUNA,4,4,5,1,200,26544467,0,,floralmong-company,puzzle,1.2.5
+614,Time Turner,7,4.4,5,1,500,37146314,0,,one-pixel-developers,puzzle,1.09.25
+615,Titan Brawl,26,4,5,1,2000,72901378,0,,omnidrone,action,1.6
+616,tetris,41,3.9,5,1,2000,17271163,0,Offers IAP purchases,softwareco,word,1.2.0
+617,Lizard,39,4.8,5,1,1000,25404475,0,Offers IAP purchases,Happy Tech,word,1.4
+618,find me,12,2.2,5,1,500,11670385,0,,masoud bolhassani,board,1
+619,لیمویی (بازی آنلاین),612,4.5,5,1,10000,36298259,0,Offers IAP purchases,skrsoft,arcade,1.2
+620,ZooPin,23,4.8,5,1,500,52481252,0,Offers IAP purchases,NSF Games,trivia,1.3
+621,Success Game,11,2.1,5,1,200,14588683,0,,Success Game,board,2.0.1
+622,Footy,40,3.8,5,1,200,4467808,0,,Raze Simurg,sports-game,0.8.1
+623,what_sport,67,4.5,5,1,5000,7151196,0,Offers IAP purchases,shegerdha,trivia,1.4
+624,OlympicDan,322,4.5,5,1,1000,17027267,0,Offers IAP purchases,riragroup,sports-game,1.2.1
+625,Arshit,126,3.8,5,1,1000,26454397,0,Offers IAP purchases,bobardo,trivia,1.2
+626,کلمپوت,145,4.4,5,1,200,17823757,0,Offers IAP purchases,sarina98,puzzle,1.0.5
+627,Albert,2092,4.5,5,1,10000,8541117,0,Offers IAP purchases,AtlasNet,trivia,5.4
+628,Footbaliga,1398,4.3,5,1,5000,17163543,0,,yoozgames,sports-game,1.5
+629,آناتومی نتر سر و گردن,2,5,5,1,100,50900116,0,Offers IAP purchases,med-study,education,4
+630,kando,16,4.7,5,1,200,99189051,0,Offers IAP purchases,mim,education,1.5
+631,medad Exam Maker,20,4.5,5,1,1000,2050488,0,,pgl,education,1.4.5
+632,Axe,3,5,5,1,200,3083526,0,,geekop,education,1.1
+633,Wonderful Kafshdoozak,53,4.8,5,1,100,16443670,50000,Offers IAP purchases,Kafshdoozak,education,1.0.1
+634,Geometric Land,5,5,5,1,1000,22343273,0,Offers IAP purchases,choobshoor,education,1.0.2.0
+635,504 for 24 hours,85,4.4,5,1,1000,15840005,0,Offers IAP purchases,tarannom-2014-2015,education,2
+636,shahre danesh Spelling dialog 4,4,4.8,5,1,100,34539545,50000,,shahre-danesh,education,1.45
+637,Mathemagics 1,1,5,5,1,100,8864141,30000,,Fardin Saeedi Ranjbar,education,1
+638,فیلم های کنکوری(ریاضی،تجربی،انسانی),108,4.9,5,1,2000,2433871,0,,sanatisharif,education,1.0.3
+639,Ready4GRE,2,5,5,1,200,43184587,0,,ready4,education,7.112.3323
+640,مقطع دهم,111,4.4,5,1,5000,2443593,0,,sanatisharif,education,1.0.3
+641,Ninth Grade Literature,80,4.7,5,1,5000,2521696,0,,Gaj,education,1
+642,the second grade Farsi book,10,4.2,5,1,1000,36514884,0,Offers IAP purchases,Tina pardazesh mehr pars,education,1.3
+643,Ghanoon Madani Flash Cards,2,5,5,1,200,6294398,0,Offers IAP purchases,arman-college,education,1.3
+644,MaxOn(english konkur),10,5,5,1,500,6231710,0,Offers IAP purchases,sadrayi,education,1.2
+645,Chocolearn,11,4.7,5,1,100,18344781,40000,,farno,education,1.3
+646,MioPino,21,4.1,5,1,10000,31594573,0,Offers IAP purchases,skywave,music,1.0.6
+647,Tick 8 504 1100 toefl Highschool,100,4.7,5,1,1000,4505002,0,Offers IAP purchases,Parbaz,education,1.3.5
+648,Casco,13204,4.7,5,1,50000,12328576,0,Offers IAP purchases,tutsplan,education,3.7
+649,Memrise,3964,4.7,5,1,50000,18695298,0,,Memrise,education,2.9_3901_memrise
+650,504 Essential Words,3776,4.6,5,1,200000,751183,0,,hamrahyar,education,0.8
+651,English Village,644,4.6,5,1,20000,11714961,0,Offers IAP purchases,alleece,education,1.13.2
+652,American English Slang,587,4.6,5,1,10000,1130712,0,Offers IAP purchases,آپکیپ,education,1.54
+653,professor word,218,4.1,5,1,2000,10528170,0,Offers IAP purchases,sbsoft,education,1.4
+654,Auto English,93,4,5,1,2000,5932157,0,Offers IAP purchases,313appiran,education,3.2
+655,مکالمه هوشمند انگلیسی,2363,4.1,5,1,10000,7624456,0,Offers IAP purchases,tutsplan,education,2.21
+656,Convo-speaking training with movies,1503,4.3,5,1,10000,21563887,0,Offers IAP purchases,AppEngine,education,2.3
+657,English Conversation,2866,4.3,5,1,50000,36285670,0,Offers IAP purchases,hspardis,education,2.0.1
+658,(Pre - High) Dictionary,52,3.7,5,1,5000,3331435,0,Offers IAP purchases,tak_team,education,نسخه اولیه
+659,English Listening,154,4.2,5,1,10000,3983845,0,,yobimi-group,education,3.0.3
+660,language teaching - Leitner Zabanak,10021,4.5,5,1,20000,16581477,0,,mfaridi,education,8.2.8
+661,Golden Formula - Study,398,4.5,5,1,2000,5084841,0,Offers IAP purchases,appoolication,education,1.2
+662,504 Viber (Words),852,4.5,5,1,2000,786158,0,Offers IAP purchases,appoolication,education,1.1.2
+663,Creative Home,439,4.5,5,1,20000,24285623,0,,appoolication,lifestyle,1.1
+664,100 Books To Read Before You  Die,38,3.3,5,1,1000,3907897,10000,,appoolication,books-reference,1
+665,English Songs 2,152,4.6,5,1,2000,15223276,20000,,appoolication,education,1.1
+666,Ism,114,4.7,5,1,2000,9103525,0,,appoolication,books-reference,1.0.0
+667,English Songs 3,168,4.7,5,1,1000,15305018,20000,,appoolication,education,1
+668,English Songs 1,3520,4.3,5,1,20000,13876534,0,Offers IAP purchases,appoolication,education,2.4.4
+669,hiroo learn english,600,4.3,5,1,5000,6640494,0,Offers IAP purchases,manesht,education,2.3
+670,English Book Reader,456,4.3,5,1,5000,6844907,0,Offers IAP purchases,bitik,books-reference,2.3
+671,آزمون آیین نامه رانندگی(قبولی ۱۰۰٪),7880,4.4,5,1,50000,9729847,20000,Offers IAP purchases,firefighter-1986,education,آبان 95
+672,کدها و رازهای مخفی اندروید,12572,4.1,5,1,50000,8200689,400000,,Mohsen Jahani,education,7.5
+673,Marja Ashpazi,11410,4.6,5,1,200000,19375368,0,Offers IAP purchases,DibmehrApps,education,3.3
+674,Ghanoon,10553,4.5,5,1,20000,3727539,150000,,gandomco,education,7.1.2
+675,Student dictionary,15927,4.3,5,1,200000,12008928,0,Offers IAP purchases,گروه برنامه‌نویسی دانشجو,education,نسخه‌ی ۲.۰
+676,Telegram Pro + 17000 Sticker,6428,4.5,5,1,20000,5598400,90000,,twentygroup,education,1.8
+677,The Holy Imams,12116,4.8,5,1,50000,1673067,0,,Imperium,education,2.7.0.0
+678,راهنمایی و رانندگی,1517,4.5,5,1,100000,12596009,0,,farinidea,education,1
+679,Kid Mode,346,3.9,5,1,200000,22342654,0,,Zoodles,education,4.6.9
+680,اطلاعات عمومی,20672,4.5,5,1,100000,4856796,0,Offers IAP purchases,parsihaa,education,2.2
+681,Ghanune Jazb,3442,4.8,5,1,5000,1751724,20000,,Narvan Soft,education,3.1
+682,Duolingo,4179,4.7,5,1,50000,12306533,0,,Duolingo,education,3.39.1
+683,!English To Swallow,1344,4.3,5,1,100000,3219054,0,Offers IAP purchases,azmooneh,education,3.8.1
+684,Best Clash maps,33188,4.2,5,1,100000,37493194,0,,ebi_f-0000,education,2.5
+685,504 Tick 8,1433,4.7,5,1,50000,436764,0,,droidking,education,1.07
+686,Fruits properties,4831,4.6,5,1,50000,8821832,0,,bayan,education,3.1
+687,Clash Maps Pro (Daily Update),2231,4.1,5,1,20000,610225,20000,,apk_FA Programming Group,education,6
+688,Learning Telekinesis,1024,4.2,5,1,10000,4087744,20000,,IDEA Team,education,2.4
+689,پس زمینه زنده ساعت 3D a,6530,4.7,5,1,20000,7297318,0,Offers IAP purchases,lotus,live-wallpaper,3.5
+690,TAREMI,525,4.5,5,1,20000,725394,0,,mehdi19,live-wallpaper,1
+691,متن نوشته ها,10920,4.4,5,1,20000,10072548,0,,shayanb,live-wallpaper,1.9.0
+692,آیت الله خامنه ای,394,4.4,5,1,20000,5541037,0,,kolbadinc,live-wallpaper,1
+693,گالری بهشت,6246,4.5,5,1,20000,28937883,0,,shayanb,live-wallpaper,1.0.0
+694,ساعت زنده الله,702,4.4,5,1,20000,8888098,0,,androidplas,live-wallpaper,6.2.1.0
+695,Snowy Day,503,3.7,5,1,50000,1651571,0,,padra,live-wallpaper,1
+696,Abshar-Z,274,3.9,5,1,20000,1106226,0,,padra,live-wallpaper,1
+697,goleden clock live wallpaper,6695,4.7,5,1,10000,9306838,0,Offers IAP purchases,lotus,live-wallpaper,1.5.0
+698,Barcelona - Live Wallpaper,395,3.9,5,1,20000,1109502,0,,آپکیپ,live-wallpaper,1
+699,Karbala LiveWallpaper,332,3.8,5,1,20000,4446292,0,,aviny,live-wallpaper,1.26
+700,RONALDO7,138,4.1,5,1,20000,445156,0,,abasgholi mirzaei,live-wallpaper,1
+701,theme,182,4.2,5,1,10000,1991910,0,,reza keikhosrokiani,live-wallpaper,1
+702,تصویر زمینه رونالدو,83,3.9,5,1,20000,2202260,0,,alireza718b,live-wallpaper,1.66
+703,3D iCar,539,3.9,5,1,20000,33344486,0,,Mohsen Farsi,live-wallpaper,2
+704,HD Silver Ant Live Wallpaper,0,0,0,0,100,3276494,10000,,Gold Studio Game,live-wallpaper,1
+705,پس زمینه متحرک برف نمک آبرود,0,0,0,0,100,19572105,0,,farhad khezel,live-wallpaper,1
+706,پس زمینه زنده آدم برفی,0,0,0,0,100,7044751,10000,,maziyar,live-wallpaper,1
+707,پس زمینه زنده روز و شب,0,0,0,0,100,7307318,10000,,maziyar,live-wallpaper,1
+708,Wallpaper,0,0,0,0,100,5247758,0,,hasan hasanpour,live-wallpaper,0.1
+709,والپیپر مسابقه اتومبیل,0,0,0,0,100,3628186,10000,,rudabnews,live-wallpaper,0.1
+710,beauty and the beat HD,2,5,5,1,100,5338633,0,,jafarteam,live-wallpaper,Remove link
+711,پس زمینه زنده ساحل,0,5,5,1,100,9482372,10000,,maziyar,live-wallpaper,1
+712,پس زمینه زنده چراغ و برف,0,0,0,0,100,3225451,10000,,maziyar,live-wallpaper,1
+713,Peace Live Wallpaper 34,24,4.8,5,1,200,1772393,0,,lotus,live-wallpaper,1.0.0
+714,Cat Picture,0,0,0,0,100,58194881,0,,hashem_broushaki,live-wallpaper,1
+715,The Walking Dead Live Wallpaper,1,5,5,1,200,4721466,0,,Gold Studio Game,live-wallpaper,1
+716,پس زمینه زنده عروس دریایی,0,0,0,0,100,11043143,10000,,maziyar,live-wallpaper,1
+717,Dandelion and butterfly wallpaper,0,0,0,0,100,603773,0,,.group of co,live-wallpaper,1
+718,HD Bee Live Wallpaper,1,5,5,1,200,2297170,0,,Gold Studio Game,live-wallpaper,1
+719,wallpaper yas,4,5,5,1,100,3615425,0,,jafarteam,live-wallpaper,1.2
+720,Tasvir zamine zende saatha,12,4.2,5,1,1000,6896584,0,,tokabook,live-wallpaper,TOKA
+721,Peace Live Wallpaper 33,84,4.7,5,1,500,1911516,0,,lotus,live-wallpaper,1.0.0
+722,Tasavir paszamine material,2,5,5,1,200,14383679,0,,soshiadev,live-wallpaper,SOSHIADEV
+723,پس زمینه غروب خورشید,62,4.5,5,1,1000,8268656,0,,hazratgol,live-wallpaper,1.0.0
+724,Bicycle Picture,3,3.3,5,1,100,41694472,0,,hashem_broushaki,live-wallpaper,1
+725,Peace Live Wallpaper 32,240,4.7,5,1,1000,2474909,0,,lotus,live-wallpaper,1.0.0
+726,Emam Reza,23,4.6,5,1,500,70313859,0,,hashem_broushaki,live-wallpaper,1
+727,هفت سین باستانی نوروز 95,6,5,5,1,100,17211873,0,,anz_app,live-wallpaper,1.8
+728,Super LINE,29852,4.3,5,1,10000,4911916,0,,anz_app,communication,2.1
+729,Shazam,3320,4.5,5,1,500000,25325720,0,,Shazam Entertainment Limited,music-audio,7.4.0-161216
+730,Santoor,2443,4.6,5,1,50000,13210909,50000,,Mahdi Jafarzadeh,music-audio,1.4.3
+731,Music Player,4903,4.6,5,1,200000,2629622,0,,accountstudio,music-audio,1.2.8
+732,bandari,5585,4.5,5,1,20000,39057011,90000,Offers IAP purchases,masih vahida,music-audio,10
+733,Musixmatch,11664,4.7,5,1,200000,13022090,0,,musixmatch,music-audio,6.6.0
+734,key board,5211,4.1,5,1,20000,52352910,90000,Offers IAP purchases,vahida,music-audio,13.1
+735,۱۸۲ زنگ موبایل,6800,4.5,5,1,200000,45081443,0,,Shayan Hashemi,music-audio,1.1.3
+736,TuneIn Radio,2327,4.5,5,1,200000,16232428,0,,TuneIn Inc,music-audio,17.1
+737,jetAudio,4455,4.6,5,1,200000,14493270,0,,Team Jet,music-audio,8.0.1
+738,SoundHound,2149,4.4,5,1,200000,32604166,0,,SoundHound Inc.,music-audio,7.3.0
+739,Music Player,1620,4.5,5,1,100000,3352664,0,,Mobile_V5,music-audio,2.9.8
+740,Headphone,18114,4.5,5,1,100000,5810675,0,Offers IAP purchases,Beeptunes,music-audio,1.6.0
+741,آهنگ زنگ مذهبی,1268,4.4,5,1,10000,4062143,50000,,narsis,music-audio,5
+742,Santoor pro-demo,443,4.3,5,1,100000,1830792,0,,amir hossein noori,music-audio,1
+743,ارگ شاد ایرانی,1660,4.5,5,1,10000,16716014,20000,,saeedhd2,music-audio,1.2.1
+744,موزیک پلیر حرفه ای,0,0,0,0,100,1709080,0,,parnian hasanzade,music-audio,1
+745,ترانه و قصه های کودکانه,0,0,0,0,100,11812755,10000,,shirmohammadi,music-audio,1
+746,ساز بلز برای کودکان,0,0,0,0,100,1785616,0,,elnaz vejdani,music-audio,1
+747,Santoor 2017 Free,1,5,5,1,100,19232842,0,,eslami68,music-audio,1.2
+748,Santoor 2017,0,0,0,0,100,20375605,30000,,eslami68,music-audio,1.2
+749,Fast audio music player,0,0,0,0,100,4274193,50000,,mahdi_rezaali,music-audio,1.4
+750,آهنگ زنگ موبایل سامسونگ,0,0,0,0,100,11420981,10000,,تیم برنامه نویسی تاپ,music-audio,1
+751,آهنگ زنگ موبایل تک,0,0,0,0,100,42500003,30000,,تیم برنامه نویسی تاپ,music-audio,1
+752,Sound Recording Studio,0,0,0,0,100,13102132,50000,,satyasoft,music-audio,1.0.0
+753,شعر شعر ترانه,0,0,0,0,200,24307055,0,,shahkardroid,music-audio,1
+754,Musical Studio 2,8,3,5,1,500,3645208,0,Offers IAP purchases,rezafarnoudfar,music-audio,v5_MS2
+755,Royal Piano Pro,0,0,0,0,100,6436456,50000,,satyasoft,music-audio,1.0.0
+756,ZangMobile,32,3.7,5,1,200,3424470,0,Offers IAP purchases,mahnaz,music-audio,2.1
+757,ham-ahang,20,3,5,1,10000,12697313,0,Offers IAP purchases,Hoodadtech,music-audio,2.3.9.21
+758,org irani,5,1.8,5,1,500,10338086,0,,shamameh,music-audio,0.1.1
+759,ویرایش آهنگ طلایی,0,0,0,0,200,2416898,0,,shaghayegh mobasher,music-audio,2
+760,ضبط صدای هوشمند,2,5,5,1,500,3222146,0,,khalifeh,music-audio,1.2.2
+761,guitar,0,0,0,0,100,17345678,20000,,nima balanehmanesh,music-audio,1.0.0
+762,موزیک پلیر حرفه‌ای,0,0,0,0,100,4255843,10000,,گروه برنامه نویسی مهمیز,music-audio,1.8.1
+763,بخواب کوچولو,0,0,0,0,500,7130022,0,,Najmeh,music-audio,1
+764,three note gitar soltan ghalbha,0,0,0,0,100,4691391,30000,,mobina-varmazyar-103,music-audio,5
+765,guitar notes,1,5,5,1,100,10942851,0,Offers IAP purchases,majid sadeghikia,music-audio,v1.01
+766,پخش آهنگ ساده,12,4.9,5,1,500,1575917,0,,yaghuti,music-audio,1.24
+767,LivePad Trap,9,5,5,1,100,21574510,0,,Ramin Rillex,music-audio,1
+768,iPhone6 Ringtone & Wallpaper,3916,4.6,5,1,10000,17096958,0,,anz_app,music-audio,1.5
+769,عاشورای حسینی,94,4.6,5,1,200,11253773,0,,anz_app,live-wallpaper,2
+770,Ford Challenger 3D,295,4.5,5,1,200,12023326,0,Offers IAP purchases,anz_app,live-wallpaper,1.2
+771,جزیره آسیاب بادی,218,4.5,5,1,200,11119520,0,Offers IAP purchases,anz_app,live-wallpaper,1.2
+772,my old clock,3344,4.6,5,1,2000,10742855,0,Offers IAP purchases,anz_app,live-wallpaper,5.3
+773,جنگل گیلان,1056,4.6,5,1,2000,12763118,0,Offers IAP purchases,anz_app,live-wallpaper,1.5
+774,نقاشی کودکانه,115,4.5,5,1,200,10271873,0,Offers IAP purchases,anz_app,live-wallpaper,1.4
+775,بزک زنگوله پا,5,5,5,1,100,18400876,40000,,zigool,family,1
+776,Colouring,3,4.8,5,1,1000,75881615,0,,Teazel Ltd,entertainment,2.0.22
+777,Esteghlal Kit,178,4.7,5,1,5000,6234869,0,,pasargadpt,entertainment,4.7.7
+778,Perspolis Kit,292,4.5,5,1,5000,7407400,0,,pasargadpt,entertainment,6.9.8.8
+779,Mafia God,118,3.7,5,1,2000,3738588,0,,moslem-deris,entertainment,1.7.3.15
+780,Comic Baz,977,4.5,5,1,5000,7268951,0,Offers IAP purchases,comicbaz,comics,2
+781,Mirror,82,4.3,5,1,2000,3185929,0,,Erixe Group,entertainment,1.1
+782,Milad Tower virtual tour,61,3.9,5,1,2000,51958788,0,,3dxvision,entertainment,0.0.1
+783,Football Sticker,582,3.8,5,1,2000,4957774,0,Offers IAP purchases,raadwinco,entertainment,1.0.3
+784,Manzoom,2908,4.8,5,1,20000,3717148,0,,manaseh,entertainment,0.9.6
+785,Netray,410,3.9,5,1,20000,9024239,0,Offers IAP purchases,netray,entertainment,1.18057
+786,ZirGonbadKabood,1725,4.3,5,1,10000,39628202,0,Offers IAP purchases,Boojik Studio,family,1.4
+787,MadLipz,361,3.9,5,1,50000,14909169,0,,madlipz,entertainment,1.7.0
+788,Mandalas coloring pages,118,4.8,5,1,10000,19754955,0,,quarzo-apps,productivity,1.1.3
+789,تعبیر خواب بنفش,17237,4.6,5,1,1000000,3796731,0,Offers IAP purchases,spread,entertainment,4.1.1
+790,گنجینه پیام,34110,4.4,5,1,500000,5277302,0,Offers IAP purchases,Mohammad Sadegh Mozafari,entertainment,5.7.1
+791,TypeGraphi,14862,4.5,5,1,200000,11288021,0,,ace_dev,entertainment,2.2.1
+792,Fale Anbia,53832,4.6,5,1,200000,2107119,0,,shalamrood,entertainment,2
+793,My Tombstone,5845,4.4,5,1,20000,16322051,30000,,mobileware,entertainment,1.5.3
+794,DubShow,10866,4.7,5,1,200000,12355593,0,Offers IAP purchases,parsin,entertainment,0.5.1
+795,PlayStation App,2265,4.4,5,1,200000,8524316,0,,PlayStation Mobile Inc.,entertainment,4.20.5
+796,Blood Preesure,41737,4.2,5,1,200000,3493525,0,,ebi_f-0000,entertainment,1.5
+797,ضبط صدا رو فیلم,6553,4.3,5,1,20000,3071674,20000,,nargil,entertainment,3.1
+798,Classic Crossword Puzzle,21582,4.7,5,1,100000,2822257,0,Offers IAP purchases,Jalil,entertainment,2.2.5
+799,Payamestan (SMS),8066,4.4,5,1,200000,5919391,0,Offers IAP purchases,tookantech,entertainment,1.6.1
+800,کلوب خنده و سرگرمی,2230,4.7,5,1,10000,7062749,10000,,mohammad ahmadi,entertainment,1.7
+801,تعبیر خواب بنفش ۲,1077,4.4,5,1,100000,4362064,0,,spread,entertainment,1.2
+802,متن رو عکس,14732,4,5,1,200000,707974,0,,ma-na,entertainment,4.1
+803,بانک پیامک و سرگرمی,2934,4.5,5,1,10000,14134313,10000,,paneiz_app,entertainment,2
+804,i love you (sms),0,5,5,1,100,2647902,0,,novinapps,entertainment,1
+805,آیا موثرین ؟,0,0,0,0,100,2363320,0,,sabadroid,entertainment,1
+806,nini phone,0,5,5,1,100,11505881,0,,mohammad hoseinnasab,entertainment,1
+807,السای نقاش,0,0,0,0,100,3716900,0,,Sponge Bob,entertainment,1
+808,کودکانه شاد از پرنسسها,0,0,0,0,100,11846792,0,,alidroid,entertainment,1
+809,پو کوچولو (جورچین),0,0,0,0,100,3912279,0,,mahzoon,entertainment,1
+810,falehafez,0,0,0,0,100,1911561,10000,,maryam hasanzadeh,entertainment,1
+811,shabe yalda sms stiker picture,20,4.3,5,1,100,5539580,0,,mohammadreza_rezaei_ardakani-1370,entertainment,v3.0
+812,shabe yalda sms stiker picture,13,4.6,5,1,100,5539600,0,,sima-salehzade-1345,entertainment,v3.0
+813,Table,4,4.5,5,1,100,13645489,0,Offers IAP purchases,ali1370,entertainment,2.1.2
+814,پکیج یلدایی,0,0,0,0,100,12126543,0,,amir nazmieh,entertainment,JoApp FREE
+815,پیامک شب یلدا,2,3.5,5,1,100,1327095,0,,duman93,entertainment,1
+816,خانه شکلاتی,0,0,0,0,100,2867409,0,,sanazdroid,entertainment,1
+817,Street Slang,2,5,5,1,100,2633766,0,,unique-app,education,1
+818,Slang_full,5,5,5,1,100,2503477,10000,,unique-app,education,1.1
+819,Remote Room,15,2.9,5,1,500,10381348,30000,,unique-app,entertainment,1.2
+820,600 Essential Slang,13,3.5,5,1,100,6665646,10000,,unique-app,education,2.2
+821,Flash,60,4,5,1,1000,1626577,0,,unique-app,entertainment,1
+822,600 Essential Slang (Free Version),20,4.4,5,1,2000,2172930,0,,unique-app,education,1.1
+823,ScreenLight,23,3.3,5,1,500,2132954,0,,unique-app,productivity,2
+824,R_C_Control,0,1,5,1,100,10064432,30000,,unique-app,entertainment,1
+825,کمیک جانگو جلد 2,0,0,0,0,100,8865192,10000,,amir F,entertainment,1
+826,sms,19,4.8,5,1,500,8118575,0,,parse13570,entertainment,1.1
+827,تغییر صدا,0,0,0,0,200,4076128,0,,studioandisheh,entertainment,1
+828,رنگ آمیزی برای بچه ها,0,0,0,0,100,2826107,0,,babaie,entertainment,1
+829,نقاشی با سبزک,0,0,0,0,100,2963314,0,,atacom,entertainment,4
+830,Kabotar,0,0,0,0,100,2965003,10000,,behroozahmadi,entertainment,v1.003
+831,dep,0,0,0,0,100,6132342,20000,,samaneh,entertainment,v1.0
+832,بیسیم پلیس110,0,0,0,0,100,2348397,20000,,mohammadg,entertainment,1
+833,Fale Hafez,59,4.8,5,1,1000,5330483,0,,azgomi,entertainment,1
+834,honarmandan bakhtiyari,10,4.9,5,1,100,36444343,0,,alzapp,productivity,2
+835,khanande sho (morteza pashaei),4,3,5,1,100,34434208,0,,alzapp,music-audio,1
+836,ختم قرآن برای فرج,47,4.9,5,1,2000,7151326,0,,masaf,religious,1
+837,Bank Ahadis,17,5,5,1,500,6082895,0,,Montazeran Mahdi AJ,religious,V2.0.0
+838,ساکنان بهشت,13,4.9,5,1,200,10462142,0,,Sarchahan Soft,religious,1.0.0
+839,سوره انعام با قلم هوشمند,65,4.7,5,1,2000,21366273,0,,zenderoid,religious,1
+840,AmardDoa,382,4.5,5,1,5000,8936498,0,Offers IAP purchases,yas_madineh,religious,b4.0.1
+841,Tolou (Arbaeen Hosseini),1,5,5,1,200,11535558,0,,Golden Tech,religious,1.42
+842,Radio Arbaeen,10,5,5,1,500,4331296,0,,Qmery,religious,0.5
+843,Dar Masir Eshgh,16,4.8,5,1,500,5985074,0,,ainolhayat,religious,1.0.3
+844,Mahestan,8,3.6,5,1,500,10748652,0,,mediana,religious,2.8baazar
+845,Love way,1,4,5,1,200,122113046,0,,Hoodadtech,religious,1.6
+846,قلم هوشمند سفر عتبات,21,5,5,1,2000,30136372,0,,Sabapp,religious,2
+847,Travel Guide to Arbaein,228,4.7,5,1,2000,3444222,0,,hamgardi,travel-local,1.0.1 Arbaein
+848,لبیک یا حسین ۲ (اربعین 95),3301,4.6,5,1,50000,13535615,0,Offers IAP purchases,makeen,religious,2.9.1
+849,پخش زنده تمام اماکن مذهبی,489,4.5,5,1,2000,7368712,0,Offers IAP purchases,first_ghoghnoos1_group,religious,نسخه طلایی
+850,Ziyarat Ashura,190,4.8,5,1,5000,6915440,0,,elteja,religious,0.8.6
+851,Islamic Wallpapers HD,66,4.6,5,1,2000,3815691,0,,YasinMedia,religious,1
+852,quran fanrezy,59,4.7,5,1,2000,39681364,0,Offers IAP purchases,tarannom-2014-2015,religious,4
+853,lohoof,29,4.3,5,1,5000,18207382,0,,Rayaneh Sabz Ghaem,religious,1.5
+854,safineye nejat,14,4.2,5,1,1000,52098996,0,,tarannom-2014-2015,religious,2
+855,NoorNegar,495,4.5,5,1,2000,5602932,0,,montazer,productivity,1.3
+856,Abarat ( Moharam ),225,4,5,1,5000,7096459,0,Offers IAP purchases,hamipardazco,religious,1.6
+857,Tebyan Talavat,5,4.6,5,1,1000,8170092,0,,tebyan,religious,1.3
+858,مفاتیح هوشمند,612,4.4,5,1,10000,8694966,0,Offers IAP purchases,گروه فرهنگی هنری پارسیان,religious,1.0.5
+859,BadeSaba Calendar,1055472,4.7,5,1,6000000,8227085,0,,mojehamrah,religious,Paeiz - 7.5
+860,Quran HablolMatin,189255,4.7,5,1,1000000,11087871,0,Offers IAP purchases,mojehamrah,religious,5.0.5
+861,Mafatih-Al-Jinan,8167,4.6,5,1,1000000,11205249,0,,Mobin Moblie,religious,2.5
+862,BabonNaeim,106961,4.7,5,1,1000000,7128494,0,Offers IAP purchases,mojehamrah,religious,3.0.1
+863,QuranMobin,5238,4.7,5,1,500000,21570375,0,,Mobin Moblie,religious,2
+864,Ziarat -e- Ashura,3986,4.7,5,1,500000,6425621,0,,ali_abdolahi,religious,3.3.1
+865,Mafatih Nafis,10056,4.7,5,1,500000,4956433,0,Offers IAP purchases,haghayeghi,religious,2.1
+866,Ashura,1641,4.8,5,1,200000,4146392,0,,seyed mohammad lajooie,religious,3
+867,Nahjol Balagheh,4732,4.7,5,1,200000,2987906,0,Offers IAP purchases,omidomidi,religious,5.2
+868,ayatolkorsi,1910,4.8,5,1,200000,3193861,0,,ehsan arabpour,religious,1
+869,Quran,42582,4.7,5,1,200000,3052065,0,,Mohsen Pirbani,religious,5.3.7
+870,MyQuran,4760,4.5,5,1,200000,6144647,0,,Mojtaba Mahamed,religious,1.2
+871,Bayan Quran,7579,4.8,5,1,200000,9433991,0,,Bayan Group,religious,1.3
+872,تعبیر خواب حرفه ای,34982,4.6,5,1,200000,2021050,0,,sandbad,religious,1.2
+873,Kimiya,19235,4.7,5,1,200000,10087735,0,Offers IAP purchases,mojehamrah,religious,1.0.4
+874,قلب قرآن,669,4.8,5,1,100000,3285026,0,,xedteam,religious,1
+875,At the end Audicommentary Offline,0,0,0,0,100,68028620,30000,,mehran13725,religious,1
+876,tartile jame quran,0,0,0,0,100,6737652,0,Offers IAP purchases,tarannom-2014-2015,religious,2
+877,hafiz,0,4,5,1,100,89668925,0,Offers IAP purchases,mahdi hasani  hafez quran,religious,1.0.1
+878,دعای مجیر,0,0,0,0,100,9742909,0,,sanazdroid,religious,1
+879,دعای عهد (صوتی),0,0,0,0,100,5981865,0,,Shadow Games,religious,3
+880,تعقیبات نماز,0,0,0,0,100,6255459,0,,alidroid,religious,1
+881,Wills Imam Khomeini,1,5,5,1,100,12081547,0,Offers IAP purchases,yousofvand,religious,v1.0
+882,همه چیز در مورد جن,0,0,0,0,100,990285,0,Offers IAP purchases,zaheri,religious,v2.0
+883,popular invocalions of,0,0,0,0,100,2323069,70000,,iran star,religious,1.1
+884,غسل بانوان,0,0,0,0,100,5671288,10000,,ya zamen ahoo,religious,v1.0
+885,سوره مبارکه شمس صوتی,0,0,0,0,100,2216016,0,,roya hasanzade,religious,1
+886,زیارت پیامبر,1,5,5,1,100,12978255,0,,mahzoon,religious,1
+887,ayatul kursi,3,4.6,5,1,1000,15719828,0,,parse13570,religious,1.1
+888,doaa,0,0,0,0,100,4480364,0,,sivan,religious,v 1.3
+889,"کلام الله (جزء 6-11 )",0,0,0,0,100,283525193,0,,razdabi,religious,v2.0
+890,komeil doa with meaning,0,0,0,0,100,2480134,0,,alireza hosseingholizadeh,religious,2.0.0
+891,زیارت آل یاسین,0,0,0,0,100,8766176,0,,monadev,religious,1
+892,ashaar,1,5,5,1,100,1358606,20000,,qeshm android,religious,v3.0
+893,Special questions sentences,1,5,5,1,200,1680606,0,,zahra912197,religious,v1.0
+894,Defenders shrine,0,0,0,0,100,20571927,10000,,shayan ashoouri,religious,v2
+895,احکام ویژه بانوان,2,5,5,1,100,4754317,10000,,ya zamen ahoo,religious,v1.0
+896,دعای آیت الکرسی,0,0,0,0,100,4266922,0,,elnaz vejdani,religious,2
+897,استخاره با قرآن,0,0,0,0,100,2119531,0,,Mahboobe Del,religious,1
+898,Pilgrimage and prayer,0,0,0,0,100,5569496,10000,,mostafa2016,religious,v1.0
+899,madahi 95 majid bani fateme,3,5,5,1,200,49757140,0,,alzapp,religious,1
+900,madahi 95 mahmod karimi,6,2.8,5,1,200,68948682,0,,alzapp,religious,2
+901,milad heydari,13,4.6,5,1,500,6460502,0,,alzapp,music-audio,2
+902,channel bakhtiyari telegram,166,4.5,5,1,1000,1345342,0,,alzapp,communication,12
+903,ziyarate ashora,288,4.6,5,1,5000,44455699,0,,alzapp,religious,4
+904,مداحی شام غریبان 1394,17,4.5,5,1,200,30492499,0,,alzapp,religious,1
+905,hosein keshtkar,36,4.3,5,1,200,12856619,0,,alzapp,religious,4
+906,gholam koweyti por,132,4.1,5,1,1000,16780251,0,,alzapp,religious,6
+907,madahi 94 javad moghadam,0,0,0,0,100,50844620,20000,,alzapp,religious,1
+908,madahi 1394 mir damad,0,0,0,0,100,67950883,20000,,alzapp,religious,1
+909,derbi payetakht,25,3.4,5,1,200,1308373,0,,alzapp,sports,3
+910,korosh asad por,21,4.3,5,1,500,59775978,0,,alzapp,music-audio,2
+911,esfndiyar ranjbari,3,4.7,5,1,100,7302747,0,,alzapp,music-audio,2
+912,char bonicheh,6,5,5,1,100,3060747,0,,alzapp,travel-local,1
+913,didar mahmodi,11,4.5,5,1,100,861497,0,,alzapp,music-audio,1
+914,ali tajmiri,9,3.9,5,1,100,1149701,0,,alzapp,music-audio,1
+915,manochehr zangene,80,4.3,5,1,1000,50576129,0,,alzapp,books-reference,4
+916,sardar asad khan,38,4.6,5,1,200,39058755,0,,alzapp,books-reference,2
+917,ali abdolmaleki,80,4,5,1,2000,51893649,0,,alzapp,music-audio,2
+918,adiye ramezan,4,5,5,1,100,4552330,0,,alzapp,religious,1
+919,naser abdolahi,57,4.6,5,1,1000,39834088,0,,alzapp,music-audio,4
+920,shabe yalda,2,3.5,5,1,100,4997305,0,,alzapp,entertainment,3
+921,Mafia,59,3.4,5,1,1000,3925735,20000,,anz_app,entertainment,2.1
+922,HTC M9 Ringtone & Wallpaper,244,4.1,5,1,500,23371629,0,,anz_app,music-audio,1.2
+923,Traditional haft sin live wallpaper,182,4.6,5,1,500,15783805,30000,,anz_app,live-wallpaper,3
+924,ایده های عاشقانه,695,4.6,5,1,1000,12218099,0,,anz_app,education,3.3
+925,windows xp install tutorials,79,4.5,5,1,200,9149863,10000,,anz_app,education,1.4
+926,windows 8 install tutorials,76,4.2,5,1,200,8191472,10000,,anz_app,education,2.1
+927,windows 7 install tutorials,340,4.4,5,1,1000,14706001,10000,,anz_app,education,1.5
+928,IRAN live wallpaper,138,4.2,5,1,500,8258623,0,,anz_app,live-wallpaper,2
+929,Malavan Live Wallpaper,291,4.8,5,1,100,10327984,0,,anz_app,live-wallpaper,3.1
+930,hafez live wallpaper,104,4.7,5,1,200,12135562,10000,,anz_app,live-wallpaper,2.1
+931,super Instagram,3600,4.3,5,1,10000,4055623,10000,,anz_app,education,2
+932,math food,27271,4.7,5,1,50000,6250123,0,,msbookdabirestan,education,3.0.2
+933,free fall,12,4.7,5,1,100,9544191,0,Offers IAP purchases,mohsenapp,arcade,1.2
+934,Empire War,19,4.1,5,1,1000,68443013,0,Offers IAP purchases,medrick-fze-r,strategy,4.247.1
+935,Ark of War,16,4.3,5,1,500,89057515,0,,seven-pirates,strategy,1.2.9
+936,Toy Defense 2,33,4,5,1,10000,95559141,0,Offers IAP purchases,Melesta,strategy,2.12
+937,Polytopia,40,4.4,5,1,1000,29381530,0,,midjiwan-ab,strategy,Myriad Android
+938,دنیای اساطیر - آنلاین,2547,4.4,5,1,20000,32367211,0,Offers IAP purchases,OXIN GAMES,strategy,1.2.5
+939,CastleStorm,536,4.6,5,1,20000,420194532,0,Offers IAP purchases,nitrotech,strategy,1.92
+940,Tower Crush,575,4.5,5,1,50000,77363401,0,,impossible-apps,arcade,1.1.4
+941,GrowCastle,1706,4.5,5,1,100000,28450837,0,,RAON GAMES,arcade,1.10.4
+942,Auralux 2,54,4.2,5,1,500,99533123,0,,War Drum Studios,strategy,1.0.0.6
+943,Dragon Ninjas,555,4,5,1,20000,24567393,0,Offers IAP purchases,FanGames,strategy,11.3.2506-ETC
+944,Clash Royale,80951,4.5,5,1,1000000,95141288,0,Offers IAP purchases,supercell,strategy,1.7.1
+945,aa 2,3624,4.4,5,1,50000,5942204,0,,general-adaptive-apps-pty-ltd,strategy,1.2.8
+946,ao,543,4.3,5,1,20000,6141752,0,,general-adaptive-apps-pty-ltd,strategy,1.0.9
+947,rl,1722,4.6,5,1,20000,6081744,0,,general-adaptive-apps-pty-ltd,strategy,1.0.9
+948,th,1985,4.4,5,1,20000,6089005,0,,general-adaptive-apps-pty-ltd,strategy,1.1.0
+949,rr,2513,4.4,5,1,20000,6090827,0,,general-adaptive-apps-pty-ltd,strategy,1.1.2
+950,ff,4381,4.5,5,1,100000,6081677,0,,general-adaptive-apps-pty-ltd,strategy,1.1.1
+951,aa,44751,4.5,5,1,500000,8763497,0,,general-adaptive-apps-pty-ltd,strategy,1.6.0
+952,Fort Conquer,10566,4.6,5,1,200000,25832571,0,,DroidHen,strategy,1.2.1
+953,Clash of Zombies  - کلش آف زامبی,31115,4.7,5,1,100000,45832233,0,Offers IAP purchases,naringames,strategy,2.4
+954,Chess Live,3990,4.5,5,1,100000,3318403,0,,Italy Games,strategy,2.5
+955,"Operation Fox, Fight for Homeland",1372,4.6,5,1,10000,34947166,40000,,kadusdev,strategy,1.0.3
+956,Unblock Car,1752,4.4,5,1,100000,5106416,0,,Mouse Games,strategy,2
+957,My Pocket Army,19364,4.6,5,1,50000,18362928,0,Offers IAP purchases,simiyaworld,strategy,3.5
+958,Alien Creeps,4950,4.4,5,1,100000,99089993,0,,Outplay Entertainment Ltd,strategy,2.8.0
+959,Boom Beach,22608,4.1,5,1,100000,79796622,0,,Supercell,strategy,28.262
+960,Pocket Troops,5301,4.8,5,1,50000,161857052,0,Offers IAP purchases,medrick-fze-r,strategy,1.19.0
+961,Battlefish TD,28993,4.6,5,1,50000,38981952,0,Offers IAP purchases,plus9games,strategy,1.7.01
+962,Townsmen,2051,4.4,5,1,50000,51929681,0,Offers IAP purchases,Handy Games,strategy,1.8.2
+963,بازی فکری,0,0,0,0,100,1405170,0,,shahkardroid,strategy,1
+964,بازی جنگ ستارگان,0,0,0,0,100,1638288,0,,mona mousavi,strategy,2
+965,بیلیارد,0,0,0,0,100,998028,10000,,ayat etanavar,strategy,3.2.0
+966,علائدین,0,0,0,0,100,1114880,10000,,ayat etanavar,strategy,3.2.0
+967,فضانوردان,0,0,0,0,100,1186075,10000,,ayat etanavar,strategy,3.2.0
+968,فیل کوچولو,0,0,0,0,100,1114483,10000,,ayat etanavar,strategy,3.2.0
+969,کریکت,0,0,0,0,100,1081131,10000,,ayat etanavar,strategy,3.2.0
+970,بازی وروجک,0,0,0,0,100,1082240,10000,,ayat etanavar,strategy,3.2.0
+971,بازی تانک یادش بخیر,0,0,0,0,100,921317,10000,,ayat etanavar,strategy,3.2.0
+972,بازی چویجین جتگی میکرو,0,0,0,0,100,1042154,10000,,ayat etanavar,strategy,3.2.0
+973,بازی تنیس,0,0,0,0,100,994400,10000,,ayat etanavar,strategy,3.2.0
+974,بازی گلگسین میکرو,0,0,0,0,100,929630,10000,,ayat etanavar,strategy,3.2.0
+975,بازی میک میک,0,0,0,0,100,910657,10000,,ayat etanavar,strategy,3.2.0
+976,جان سخت,0,0,0,0,100,1048936,10000,,ayat etanavar,strategy,3.2.0
+977,جنگجوی پیشرو,0,0,0,0,100,1130824,10000,,ayat etanavar,strategy,3.2.0
+978,tanks,249,4,5,1,5000,17953264,0,Offers IAP purchases,mohsenapp,strategy,1.2.3
+979,parvaresh,104,3.9,5,1,1000,2513735,0,Offers IAP purchases,mohsenapp,business,v3.1
+980,lezat potoshop,209,3.2,5,1,1000,9594681,0,Offers IAP purchases,mohsenapp,education,v2.1
+981,amozeh jame computer,156,4.6,5,1,2000,11074585,0,,mohsenapp,education,v3.1 (䓎堣͏揩
+982,gamemaker,0,0,0,0,100,2773533,0,,mohsenapp,education,0.1
+983,Teaching a variety of hat scarf 95,0,0,0,0,100,4102438,20000,,javad_talebi1366,education,v1.0
+984,Draw Christmas,0,0,0,0,100,16028928,0,,sweefit-studios,education,4.2
+985,Radyab hoshmand bedone nasb,0,5,5,1,100,2478431,20000,,sky filip,education,1.3
+986,Mechanical auto attendant,0,0,0,0,100,22591132,60000,,Mahdi banajani,education,1.1
+987,Repair hardware and mobile software,0,0,0,0,100,2161460,20000,,Ahmadreza mollahoseyni,education,v1.0
+988,پلوپز(آشپزی),0,0,0,0,100,3083339,0,,danial nobakht,education,1
+989,Benefits and harms of mint,0,5,5,1,100,953602,0,,Momo1370,education,v3.0
+990,بستنی قیفی,0,0,0,0,100,2796841,0,,mona mousavi,education,1
+991,memari pelan meghiyas,0,0,0,0,100,5893902,0,,mohamad hosein khalaji,education,1
+992,گوشیتو خودت تعمیر کن,0,0,0,0,100,2390894,0,,hanadroid,education,1
+993,آموزش آسان کانفینگ مودم,0,5,5,1,100,4297516,0,Offers IAP purchases,سافت رایانه,education,
+994,نصب درب اتومات پارکینگ,0,5,5,1,100,3102531,0,Offers IAP purchases,تعمیرگاه تخصصی همراه,education,
+995,هنر قلاب بافی,0,0,0,0,100,2752303,0,,Hakimaneh,education,1
+996,telegram.p.h.d,0,0,0,0,100,15485971,120000,,shahrzad learning group,education,v2.0
+997,دسر ایرانی,0,0,0,0,100,2813270,0,,mehrdad alimi,education,1
+998,مکالمه حرفه ای انگلیسی,0,0,0,0,100,2712016,0,,Najmeh,education,1
+999,Ashpazoneh,0,0,0,0,100,6999468,20000,,fmd-13755731,education,V20.2
+1000,Konur,0,0,0,0,100,3200473,10000,,alpha group,education,1.1
+1001,قانون جذب برای رسیدن آرزو,0,0,0,0,100,2512808,10000,,pishkaman khalagh,entertainment,1
+1002,Radyab +tarfand,0,0,0,0,100,2390860,20000,,barname saz 98,education,1
+1003,آرایش ملایم,0,0,0,0,100,2771706,0,,elhamdroid,education,1
+1004,Delester,0,5,5,1,100,941601,0,,Momo1370,education,v2.0
+1005,آموزش سنتور,1,5,5,1,100,2749016,0,,elmiraapps,media-video,1
+1006,خیاط خونه,0,0,0,0,100,2857619,0,,elmiraapps,education,1
+1007,برنامه سانسور ساز عکس,1,1,5,1,200,1756088,0,,elmiraapps,photography,1
+1008,مداحی های عبدالرضا هلالی,0,0,0,0,100,2862064,0,,elmiraapps,religious,1
+1009,ماریو زبل,0,0,0,0,200,2395148,0,,elmiraapps,arcade,1
+1010,عکس شما در آسمان,3,4.3,5,1,1000,5194575,0,,elmiraapps,photography,30.1.1
+1011,ملوسک,0,0,0,0,100,6682327,0,,elmiraapps,arcade,1
+1012,قفل برنامه ها,3,1,5,1,2000,3280053,0,,elmiraapps,productivity,2.6.0
+1013,آزمون خواننده ها,2,1,5,1,100,4405346,0,,elmiraapps,entertainment,1
+1014,ادیت موزیک,6,3,5,1,1000,1729960,0,,elmiraapps,productivity,1
+1015,مبدل تاریخ,0,0,0,0,100,2762382,0,,elmiraapps,tools,20
+1016,شهر شادی,0,0,0,0,100,59570064,50000,,rendev,educational,1.0.0
+1017,Pocket Planet,3,5,5,1,100,37564150,20000,,credosoft,educational,1.02
+1018,تینا و سینا,3,3.7,5,1,200,50403139,50000,,rendev,educational,1.0.0
+1019,Numbers Land,334,4,5,1,20000,22875857,0,Offers IAP purchases,choobshoor,educational,1.0.2.0
+1020,THE HOUR (504 WORDS BATTLE),0,0,0,0,100,21805492,20000,,shabahang,educational,2
+1021,Master of add,309,4.3,5,1,2000,3772363,0,,miladesign,arcade,0.83
+1022,Memorisation of the Quran,2249,4.3,5,1,20000,6799299,0,Offers IAP purchases,algorithmgostarenoor,educational,4
+1023,-,43,3.9,5,1,1000,3180991,0,Offers IAP purchases,hamaz,casual,1.1
+1024,Shu's Garden,40,4,5,1,1000,42399987,0,,jason-rt-bond,educational,1.7.1
+1025,Kids Math,465,4.2,5,1,20000,20640068,0,Offers IAP purchases,armiksoft94,educational,1.0.1
+1026,My lil' toolbox,2,3,5,1,100,51010745,30000,,3dduo,family,2
+1027,Zou,0,0,0,0,100,483929453,30000,,3dduo,family,7
+1028,The Sansoucis shaped,0,0,0,0,100,197858721,30000,,3dduo,family,1
+1029,EnglishForKids,50,3.6,5,1,5000,19495930,0,,defective123,educational,1.6
+1030,Happiness Train,22846,4.3,5,1,200000,21690683,0,Offers IAP purchases,royagaran,educational,2.2.0
+1031,My Boo,9170,4.6,5,1,200000,64321592,0,,tapps-games,educational,2.2
+1032,CookingMama,1984,4.3,5,1,100000,59276372,0,,office-create-corp,educational,1.17.0
+1033,LEGO Juniors Create Cruise,845,4.3,5,1,100000,55047811,0,,lego-system-as,educational,6.2.1008
+1034,Very Fairy Birthday Party,1348,4.5,5,1,50000,41738219,0,,salontm,educational,1.3
+1035,CakeSalon,1028,4.2,5,1,100000,43557318,0,,Libii,educational,1.0.5
+1036,Happiness School,3778,4.5,5,1,50000,25867331,0,Offers IAP purchases,royagaran,educational,1.0.7
+1037,Moy 3,1932,4.5,5,1,50000,17357427,0,,Frojo Apps,educational,2.11
+1038,Mermaid Doris,1035,4.3,5,1,50000,50425749,0,,Libii,educational,1
+1039,بچه ها الفبا پیش دبستانی اول دبستان,3506,4.3,5,1,50000,25436322,0,Offers IAP purchases,armiksoft94,educational,1.8.6
+1040,My Ice Cream,589,4.2,5,1,50000,26837295,0,,Tapps - Top Apps and Games,educational,1.0.7
+1041,Quran for kid - Sure nas,3813,4.5,5,1,20000,3057539,0,Offers IAP purchases,raimon,educational,2.6
+1042,زبان کوچولو-آموزش زبان انگلیسی کودک,2609,4.4,5,1,20000,50848982,0,Offers IAP purchases,narmafzarsazan,educational,4.2
+1043,Bohlool And Haroon 1,200,3.9,5,1,5000,38309928,20000,,abolhassan-nikoo,educational,BohloolVaHaroon
+1044,Animals Farm for Kids,667,4.4,5,1,20000,68477590,0,,kids-games-projects,educational,4.62
+1045,Working Holiday,263,3.8,5,1,10000,37139811,0,,iprom-games,educational,1.2
+1046,Farangestoon,1711,4.2,5,1,10000,17750413,0,Offers IAP purchases,goodzilla,educational,1.3
+1047,sabzestan,176,3.9,5,1,10000,15149606,0,,felani,educational,1
+1048,بازي آموزش حيوانات - فارسي,58,3.6,5,1,10000,15696736,0,Offers IAP purchases,gunaystudio,educational,1.3
+1049,سیفون,3853,4.6,5,1,2000,14566437,0,Offers IAP purchases,adamden,educational,1.2
+1050,نقاشی دخترونه,0,0,0,0,100,4416281,0,,mona mousavi,educational,1
+1051,Creative Child,4,4.8,5,1,100,10764171,0,Offers IAP purchases,blue_orbit,educational,v6.0
+1052,tarikh adabiat game,1,5,5,1,100,29560405,10000,,hamidrezabadrlo,educational,1.0.0.0
+1053,Science Self Learner Grade 7,0,2,5,1,200,19324284,0,Offers IAP purchases,DPSHA,educational,7
+1054,نی نی ها,0,0,0,0,100,35179598,50000,,rendev,educational,1.0.0
+1055,LIMBO GAME,1,5,5,1,100,1120861,0,,warninghossein,educational,v1.0
+1056,Game Guide machinarium (demo),3,3.7,5,1,100,1399488,0,,warninghossein,educational,v1.0
+1057,رنگ آمیزی با السا,0,0,0,0,200,5606047,0,,Matin Patin,educational,1
+1058,lombo game,0,0,0,0,100,1122415,10000,,warninghossein,educational,v1.0
+1059,پاستاکده,0,0,0,0,100,2917244,0,,zahedapp,education,1
+1060,تام رو به جری برسون,1,1,5,1,100,1868497,0,,zahedapp,puzzle,1
+1061,آموزش Access(ویدیو),0,0,0,0,100,2961593,0,,zahedapp,education,1
+1062,هالک خشمگین,2,3,5,1,100,2659515,0,,zahedapp,casual,3
+1063,پروفایل زیبای تلگرام,0,0,0,0,100,3872884,0,,zahedapp,productivity,1
+1064,شرک شجاع,2,3,5,1,100,4645270,0,,zahedapp,puzzle,1
+1065,چیستان بچگونه,1,5,5,1,500,3675814,0,,zahedapp,trivia,1
+1066,Qr اسکنر,0,0,0,0,100,2914966,0,,zahedapp,productivity,1
+1067,نقاش کوچولو,0,0,0,0,100,2779433,0,,zahedapp,media-video,1
+1068,بازی تو در تو,0,0,0,0,100,883022,0,,zahedapp,casual,2
+1069,بازی با آنجلا و تام,2,1,5,1,200,8676872,0,,zahedapp,puzzle,2
+1070,ساخت عروسک(ویدیو),0,0,0,0,100,2989800,0,,zahedapp,education,1
+1071,آنای سرآشپز,1,1,5,1,500,5074462,0,,zahedapp,casual,1
+1072,آشپزی سنتی,0,0,0,0,100,2801968,0,,zahedapp,education,1
+1073,قفل برنامه هوشمند,0,0,0,0,100,2658894,0,,zahedapp,productivity,2.6.0
+1074,پینوکیو (پازل),0,0,0,0,100,4576190,0,,zahedapp,puzzle,1
+1075,نکات مدیریتی(ویدیو),0,0,0,0,100,2583805,0,,zahedapp,business,1
+1076,تزیین خارق العاده کیک,0,0,0,0,200,2819125,0,,zahedapp,lifestyle,1
+1077,رازهای زیبایی,0,0,0,0,100,2768436,0,,zahedapp,lifestyle,1
+1078,کمیک پلنگ صورتی,2,3,5,1,500,6538213,0,,zahedapp,comics,1
+1079,طالع ازدواج,0,0,0,0,100,2242206,0,,zahedapp,books-reference,1
+1080,عکس نوشته ساز خودمونی,4,1,5,1,500,3985222,0,,zahedapp,photography,1
+1081,عجایب علم پزشکی,0,0,0,0,100,2511112,0,,zahedapp,medical,1
+1082,تفریح و ریاضی,0,0,0,0,100,1537304,0,,zahedapp,educational,1
+1083,دورا رو بکش,0,0,0,0,200,6484438,0,,mehrdad alimi,educational,1
+1084,Game Guide machinarium,0,0,0,0,100,1399570,10000,,warninghossein,educational,v1.0
+1085,بازی جمع سرعتی اعداد,0,0,0,0,100,2876934,0,,Farzaneh Team,educational,1
+1086,بازی با ریاضی,0,0,0,0,100,4288456,10000,,shirmohammadi,educational,2.0.0
+1087,جدول ضرب,0,0,0,0,100,2754964,10000,,shirmohammadi,educational,1.0.0
+1088,حیوانات بامزه و باب,0,0,0,0,100,3752758,0,,Simin Banoo,educational,1
+1089,حدس بزن شهرها رو,0,0,0,0,100,6591903,0,,Mrs Shima,educational,1
+1090,Ways of getting Legendaty,0,0,0,0,100,2268308,10000,,warninghossein,educational,v2.0
+1091,تمرین ریاضی برای کودکان,0,0,0,0,200,3895650,0,,danial nobakht,educational,1
+1092,نقطه نقطه تا مردعنکبوتی,0,0,0,0,200,6561184,0,,Mrs Shima,educational,1
+1093,بازی جمع اعداد,0,0,0,0,100,3286337,0,,Bartar Designers,educational,1
+1094,رنگ آمیزی حیوانات,0,0,0,0,500,3314650,0,,mehrnooosh,educational,1
+1095,تفاوت یاب کارتونی,2,1,5,1,200,2919392,0,,mehrnooosh,educational,1
+1096,نقاشی گام به گام با السا,5,1,5,1,1000,9999666,0,,bigdeveloper1,educational,1
+1097,رنگ آمیزی ماشینی,1,5,5,1,200,1944973,0,,elmiraapps,educational,1
+1098,سونیک,5,5,5,1,1000,4224776,0,,elmiraapps,adventure,1
+1099,ماریو,4,1.2,5,1,500,2122843,0,,elmiraapps,role-playing,2
+1100,بافتنی از صفر تا 100(ویدیو),1,1,5,1,100,2913646,0,,elmiraapps,education,1
+1101,پیکسل,11,4.4,5,1,500,4593640,0,,maday,personalization,1.2.0
+1102,Wallpi,55,4.2,5,1,500,2204466,0,,penguinsgroup,personalization,1.0.1
+1103,Arrow Launcher,30,4.6,5,1,5000,8371067,0,,Microsoft Corporation,personalization,2.9.0.28644
+1104,Smart Launcher,22,4.4,5,1,10000,5279422,0,,smart-launcher-team,personalization,3.24.10
+1105,GO Launcher Z,27028,4.5,5,1,200000,13531975,0,,go-dev-team-android,personalization,2.23
+1106,Nova Launcher,1803,4.6,5,1,50000,7714471,0,,TeslaCoil Software,personalization,5
+1107,Google Now Launcher,639,4.6,5,1,50000,15269701,0,,Google Inc.,tools,1.3.large
+1108,CM Launcher,3286,4.4,5,1,100000,11231592,0,,cheetah-mobile-inc,personalization,3.29.3
+1109,Apex Launcher,1176,4.4,5,1,50000,4924567,0,,Android Does,personalization,3.1.0
+1110,Solo Launcher,5299,4.6,5,1,20000,8741169,0,,newborntown,personalization,2.7.0.2
+1111,Hola Launcher,4345,4.6,5,1,50000,5136875,0,,holaverse,personalization,3.0.4
+1112,Aviate,853,4.6,5,1,2000,19166086,0,,Yahoo (Formerly ThumbsUp Labs),personalization,3.2.12.3
+1113,Launcher 8,1069,4.6,5,1,2000,12669070,0,,xinyi-dev-team,personalization,3.4.4
+1114,Action Launcher 3,150,4.3,5,1,2000,28058234,0,,Chris Lacy,personalization,3.12.2
+1115,Next Launcher 3D Lite,721,4.3,5,1,20000,24420634,0,,go-dev-team-android,personalization,3.7.5.1
+1116,GO Keyboard Lite,17262,4.4,5,1,500000,23324696,0,,GO Dev Team,personalization,3.02
+1117,گاهشمار خورشیدی ژوبین,1127,4.5,5,1,500000,5905514,0,,Meysam Tefagh,personalization,2.05.0
+1118,APUS,18193,4.5,5,1,200000,8514497,0,,Apus Group,personalization,3.0.5
+1119,iKeyboard,8850,4.6,5,1,200000,17657971,0,,ikeyboard-team,personalization,4.7.7.492
+1120,Backgrounds,5280,4.7,5,1,200000,7300629,0,,OGQ,personalization,4.8.14
+1121,WhatsApp Wallpaper,4921,4.1,5,1,500000,5131674,0,,WhatsApp Inc.,personalization,2
+1122,Wallpapers QHD,2323,4.7,5,1,50000,4734359,0,,CATPLE,personalization,2.63
+1123,Solo Locker,4354,4.7,5,1,50000,7381799,0,,newborntown,personalization,6.0.2.5
+1124,CLauncher,2392,4.5,5,1,50000,8030956,0,,c-launcher-team-fast-smart-launch,personalization,3.9.13
+1125,ZERO,11750,4.5,5,1,50000,4259905,0,,go-dev-team,personalization,3
+1126,Sun Rise Live Wallpaper - Free,1002,4.5,5,1,50000,5620969,0,,Teragon,personalization,4.6.2
+1127,Flashlight,801,4.6,5,1,50000,2913076,0,,APUS Group,personalization,1.5.4
+1128,Plus Themes,1836,4,5,1,200000,6153225,0,,rafa,personalization,1.3.5
+1129,TSF Launcher,38,4.9,5,1,50000,10614572,0,,launcher-3d-pro,personalization,3.8.5
+1130,عکس دخترونه,0,0,0,0,100,2194974,0,,farzanehdev,personalization,2
+1131,Merry Christmas,0,0,0,0,100,3708217,0,,design-world,personalization,1.1.4
+1132,auto background changer,0,0,0,0,100,10747388,0,,naserkarimi,personalization,2.3
+1133,قاب یلدایی,0,0,0,0,100,11739598,0,,parnian hasanzade,personalization,30.1.1
+1134,والپیپر یلدا,0,0,0,0,100,4629421,0,,parnian hasanzade,personalization,0.0.10
+1135,هواشناسی حرفه ای,0,0,0,0,100,3789666,0,,sabadroid,personalization,2
+1136,قاب دوتایی یلدا,0,0,0,0,100,7400931,0,,sabadroid,personalization,30.1.1
+1137,قاب عکس میلاد حضرت رسول,0,0,0,0,100,16714726,0,,alidroid,personalization,30.1.1
+1138,والپیپر انار,0,0,0,0,100,2965161,0,,farzanehdev,personalization,1
+1139,قاب دو تایی میلاد حضرت رسول,0,0,0,0,100,9126616,0,,negarmobi,personalization,30.1.1
+1140,Call Of Duty theme GOLauncher Theme,0,0,0,0,100,3598919,10000,,SADRA system,personalization,v1.0
+1141,والپیپرهای زمستانی,1,5,5,1,100,7629767,0,,alidroid,personalization,1
+1142,والپیپر کریسمس,0,0,0,0,100,3869432,0,,Nasim Bahar,personalization,0.0.10
+1143,رینگتون های کلاسیک,0,0,0,0,100,9836762,0,,mahzoon,personalization,2
+1144,تصاویر زمینه مقام معظم رهبری,2,3.7,5,1,100,4097635,0,,memora,personalization,1
+1145,Joker,0,5,5,1,100,5929575,0,,erfansadeghi,personalization,1.0.0
+1146,Wallpapers Patrol,0,0,0,0,100,3912789,0,,sungroupapp,personalization,1
+1147,Wallpapers Ferrari,0,0,0,0,100,4996417,0,,sungroupapp,personalization,1
+1148,Milad Tower,0,0,0,0,100,3704953,0,,sungroupapp,personalization,1
+1149,Azadi Tower,0,0,0,0,100,5516319,0,,sungroupapp,personalization,1
+1150,Astykrmfhvmy,0,0,0,0,100,5482645,0,,sungroupapp,personalization,1
+1151,xpreia-winter,0,0,0,0,100,5192095,10000,,sadegh76sh,personalization,1.0.0
+1152,Google theme (androud7) unofficial,0,0,0,0,100,2725278,10000,,SADRA system,personalization,1.6.5
+1153,عکس خانوادگی من (قاب عکس),0,0,0,0,100,7216828,0,,Haleh Noor,personalization,30.1.1
+1154,xperia blur,0,0,0,0,100,6262959,10000,,Mohammad ali sadeghian,personalization,2.0.0
+1155,sky,0,0,0,0,100,34463909,20000,,Mohammad ali sadeghian,personalization,2.1.1
+1156,هدیه عید قربان,0,0,0,0,100,5971389,0,,elmiraapps,personalization,1
+1157,والیبالیست (تصویری),1,5,5,1,100,2733568,0,,elmiraapps,sports,1
+1158,بارون پاییزی,1,5,5,1,100,6705608,0,,elmiraapps,personalization,1
+1159,باربی خوشگله,2,1,5,1,2000,5325887,0,,elmiraapps,puzzle,1
+1160,گریم حرفه ای صورت,1,1,5,1,500,3412640,0,,elmiraapps,education,1
+1161,TEDxTehran,0,0,0,0,200,1922839,0,,Eventbox,news-magazines,1.1.1
+1162,Digiro,15,4.3,5,1,2000,2192417,0,,digiro,news-magazines,1.5
+1163,KhoshKhabar,129,4.5,5,1,1000,4467627,0,Offers IAP purchases,chaharpaye,news-magazines,3.8
+1164,Shohada Salehin,9,4.7,5,1,200,11949025,0,,miladnaderi,news-magazines,1.2
+1165,"Ponila, World of Interests",486,4.6,5,1,2000,7771718,0,,ponila,news-magazines,1.4.4
+1166,IRIB News,20,4.3,5,1,5000,3185250,0,,hosein yousefifar,news-magazines,1.0.2
+1167,MIMT,3,3.7,5,1,500,4634365,0,,resaneh,news-magazines,1.5903
+1168,Yazd News,7,4.4,5,1,500,6056781,0,,xedteam,news-magazines,1.5.2
+1169,Flipboard,7918,4.3,5,1,4000000,8633564,0,,Flipboard,news-magazines,3.4.15
+1170,akharinkhabar,21248,4.6,5,1,1000000,5208641,0,,khcai,news-magazines,2.6.4
+1171,Bartarinha,14226,4.6,5,1,200000,3481712,0,,bartarinha,news-magazines,3.7
+1172,HotNews,21097,4.6,5,1,100000,3093770,0,,bartarinha,news-magazines,3.8
+1173,Khabargardi,39714,4.6,5,1,100000,2557008,0,Offers IAP purchases,Khabargardi,news-magazines,3.3.2
+1174,News Republic,258,4.7,5,1,100000,16370444,0,,News Republic,news-magazines,6.9.2
+1175,NYTimes,183,4.1,5,1,100000,11673050,0,,The New York Times Company,news-magazines,6.08.1
+1176,7 Sobh Newspaper,627,4.5,5,1,20000,5370204,0,,Karina Mobile Solutions,news-magazines,3.9.2
+1177,PressReader,230,4,5,1,50000,17516910,0,,PressReader,news-magazines,5.0.16.1214
+1178,GSM,2152,4.6,5,1,20000,10545143,0,,GSM,news-magazines,1.3
+1179,Dakke News Reader,422,4.4,5,1,20000,6223057,0,,Dakke,news-magazines,1.7
+1180,tag (Newslife),7590,4.5,5,1,20000,5100220,0,,ُُُSmart Land Solutions,news-magazines,3.0.3
+1181,خامنه ای دات آی آر,1622,4.8,5,1,10000,25160441,0,,www.khamenei.ir,news-magazines,1.2.5.9
+1182,گلـچین,416,4.8,5,1,10000,1346330,0,,Boys marked,news-magazines,1.1
+1183,Beroozresani,507,4.3,5,1,20000,3531162,0,,Beroozresani,news-magazines,1.0.9
+1184,Assistant Imam,0,0,0,0,100,10724178,0,,yousofvand,news-magazines,1
+1185,Toomaar Magazines,0,0,0,0,100,6160873,20000,,baghernia,news-magazines,1.0.2
+1186,hachirud,0,0,0,0,100,10138889,0,,keivan faghih,news-magazines,1
+1187,Mehregan News,0,0,0,0,100,10525576,0,,NewsFeeder,news-magazines,2s.v1
+1188,kanemoonnews,2,5,5,1,100,4541018,0,,shahin_abmk,news-magazines,1
+1189,طلوع آنلاین,11,5,5,1,100,3291195,0,,SAEED AFROOGH,news-magazines,1.4.705-5
+1190,Cinema Iran,0,0,0,0,100,5296332,0,,Pooyan Majd,news-magazines,1
+1191,Ekbatan Online,39,5,5,1,100,3682969,0,,ekbatan online,news-magazines,1.0.0
+1192,Electronic Magazine Clash Royale,8,4,5,1,100,10637638,0,,tehtech,news-magazines,1
+1193,فان روز,1,5,5,1,100,3315756,0,,python,news-magazines,1.4.705-3
+1194,Pishro Khabar,5,4,5,1,100,3346553,0,,emavara,news-magazines,1.4.705-1
+1195,NiazeJahan.Net,1,5,5,1,100,3334202,0,,niazejahan,news-magazines,1.4.705-7
+1196,حوزه علمیه خراسان(غیر رسمی),3,4.3,5,1,100,10742281,0,,javanenghelabi,news-magazines,1.1
+1197,Urban Center,1,5,5,1,100,3225868,0,,Urban Center official group,news-magazines,1.3-2
+1198,Eram,3,2.3,5,1,500,5865137,0,,FCEO,news-magazines,1.0.5
+1199,Tourisj,5,5,5,1,100,928175,0,,Tourisj,news-magazines,1.0.0.0
+1200,Webgardi,5,4.2,5,1,100,3721122,0,,Mohsen Dehghani,news-magazines,1
+1201,nicesource,4,4.2,5,1,100,10346631,0,,javad mohammadi,news-magazines,1
+1202,Berouztarin akhbar,11,3.9,5,1,500,2667828,0,,berouztarin,news-magazines,V1.0.4
+1203,The Grandtour Magazine,7,4.9,5,1,100,4466336,0,Offers IAP purchases,ehsan_zareie-1,news-magazines,1.91
+1204,اخبار اقتصادی و نرخ آنی ارز و طلا,6,5,5,1,500,3091765,0,,bonyanteam,news-magazines,1.1
+1205,کانون خبر,6,5,5,1,100,1596020,0,,meisam shirazi,news-magazines,1
+1206,بزرگان مرز و بوم,0,0,0,0,100,3757266,0,,elmiraapps,news-magazines,1
+1207,قطعه سازی در گریم,0,0,0,0,100,1832429,0,,elmiraapps,education,1
+1208,آموزش ویدیویی بافت شال گردن,1,1,5,1,500,2390772,0,,elmiraapps,business,5
+1209,گلدان مصنوعی,0,0,0,0,100,2903569,0,,elmiraapps,education,1
+1210,Bubbles,11,3.1,5,1,1000,32924670,0,,Mojtaba Hajivandian,education,1.0.0
+1211,حدس سیاستمدار,64,3.8,5,1,200,9360530,0,Offers IAP purchases,delvapa30,trivia,1
+1212,what_place,4756,4.4,5,1,5000,4869647,0,Offers IAP purchases,shegerdha,trivia,2.0.2
+1213,حدس پرچم,102,4.4,5,1,2000,6422684,0,Offers IAP purchases,babaei229,puzzle,1.0.0.1
+1214,Parchamestan,504,4.3,5,1,2000,13650406,0,Offers IAP purchases,shahram goharchin,puzzle,1.4.1
+1215,what_fruit,24098,4.5,5,1,20000,4366029,0,Offers IAP purchases,shegerdha,trivia,2.3
+1216,Guess Film,37881,4.6,5,1,10000,9470748,0,Offers IAP purchases,Xalopex,trivia,1.4
+1217,100 Percent,13301,4.6,5,1,10000,37273218,0,Offers IAP purchases,arvandstudio,trivia,1.8
+1218,serialyad,35676,4.5,5,1,10000,6201376,0,Offers IAP purchases,shegerdha,trivia,6.2
+1219,Quranology,1041,4.7,5,1,5000,18200882,0,Offers IAP purchases,najm7,trivia,1.1
+1220,ِDoon Doon,2160,4.4,5,1,10000,3995048,0,Offers IAP purchases,four team,trivia,1.0.5
+1221,هشت جوابی,550,4.4,5,1,10000,7493418,0,Offers IAP purchases,jonesdev,trivia,beta-4
+1222,You Know,17376,4.5,5,1,5000,11457440,0,Offers IAP purchases,peyman,trivia,1.4
+1223,مغز متفکر,2264,4.1,5,1,2000,9807022,0,Offers IAP purchases,milad,trivia,1.4.194
+1224,Pipe Maze,62,3.8,5,1,2000,30020723,0,,hkfranhk,trivia,1.1
+1225,هوش برتر (رقابت انلاین ),76,4.5,5,1,500,8101019,0,Offers IAP purchases,lolo khan programer gruop,trivia,1.5.0
+1226,Rabia,31,4.5,5,1,100,3769964,0,Offers IAP purchases,Ehsan fathian,trivia,1.0.0.2
+1227,معماهای کودکانه,0,0,0,0,100,4939663,0,,Najmeh,trivia,1
+1228,what_english,20,4.4,5,1,2000,7182051,0,Offers IAP purchases,shegerdha,trivia,1.2
+1229,چیستان خوشگلا,4,3.8,5,1,1000,3424077,0,,parnian hasanzade,trivia,1
+1230,tiles wars,2,5,5,1,200,534811,0,Offers IAP purchases,salvador,trivia,2.1
+1231,بگو آره یا نه؟,32,2.1,5,1,2000,1371689,0,,Elahe Banoo,trivia,1
+1232,Intelligence Football 2,8,2.5,5,1,500,4959841,0,Offers IAP purchases,reza-najafi2016,trivia,1.0.1
+1233,what_actor,94,4.3,5,1,10000,5699961,0,Offers IAP purchases,shegerdha,trivia,1.5.1
+1234,Gamaj,14,4.5,5,1,500,6922366,0,Offers IAP purchases,shekamsalam,trivia,1.2
+1235,معماهای جالب انگیز,5,3.4,5,1,1000,5290089,0,,farzanehdev,trivia,1
+1236,gavab bedeh,102,3.8,5,1,1000,7299779,0,,sivan,trivia,2
+1237,fourplus,1009,4.3,5,1,20000,13365867,0,Offers IAP purchases,RSynergy,trivia,1.1.0
+1238,Naughty Monster Story,17,4.3,5,1,2000,77295030,0,,SGN,puzzle,1.4.5
+1239,Flappy Golf 2,1,5,5,1,200,84240695,0,,Noodlecake Studios Inc,action,2.0.0
+1240,Bachehaie kucheh,141,3.6,5,1,5000,44288270,0,Offers IAP purchases,Zoobin Game Studio,board,1.01
+1241,The King of Food,1252,3.9,5,1,10000,40115695,0,Offers IAP purchases,shekamsalam,casual,1.8
+1242,کي پولدار تره؟,7104,4.4,5,1,20000,20797330,0,Offers IAP purchases,behcomstudio,casual,1.1.6.4
+1243,Star Farm the wonderland,781,4.3,5,1,20000,26900563,0,Offers IAP purchases,nitrotech,simulation,1.1.6
+1244,Santoori Game,6245,4.2,5,1,50000,43232557,0,Offers IAP purchases,glimgames,action,1.24
+1245,My Talking Angela,9868,4.7,5,1,1000000,92776072,0,Offers IAP purchases,Flexion Mobile Limited,casual,2.8.1.47
+1246,Pou,59169,4.5,5,1,1000000,21498345,0,Offers IAP purchases,Zakeh,casual,1.4.70
+1247,Candy Crush Saga,26007,4.4,5,1,1000000,82255043,0,,King,casual,1.90.0.6
+1248,Farm Heroes Saga,5780,4.7,5,1,200000,47627790,0,,King,casual,2.9.10
+1249,My Talking Tom,11471,4.3,5,1,500000,76139436,0,Offers IAP purchases,Flexion Mobile Limited,casual,3.9.2.139
+1250,Bubble Shoot,2237,4.5,5,1,200000,5252985,0,,RUNNERGAMES,casual,1.3
+1251,Candy Crush Soda,7253,4.5,5,1,200000,86163496,0,,King,casual,1.80.6
+1252,My Emma,9466,4.5,5,1,200000,85018834,0,,CrazyLabs,casual,2.5.1
+1253,Baby Dino,3250,4.6,5,1,100000,25695706,0,,Frojo Apps,casual,1.3
+1254,Hay Day,43902,4.4,5,1,200000,92703276,0,,Supercell,casual,1.32.74
+1255,Pottery,9292,4.4,5,1,200000,36262236,0,,Infinite Dreams,casual,1.61
+1256,The Guest,113701,4.3,5,1,200000,23598887,0,Offers IAP purchases,emcgames,casual,1.13
+1257,Where is My Water,3195,4.4,5,1,100000,50110756,0,Offers IAP purchases,vsun2015,casual,1.16.0
+1258,Wrestle Jump,2085,4.4,5,1,100000,12432041,0,,Otto-Ville Ojala,casual,1.01
+1259,Doctor Kids,1181,4.3,5,1,100000,20869018,0,,Bubadu,casual,1.25
+1260,Moy 4,2169,4.7,5,1,50000,26867094,0,,Frojo Apps,casual,1.91
+1261,فکر و رنگ,0,0,0,0,100,758570,0,,Matin Patin,casual,1
+1262,Candy memory,0,0,0,0,100,6909580,20000,,stringapp,casual,1.0.1
+1263,صف ماشین,0,0,0,0,100,3658633,0,,alidroid,casual,1
+1264,Delicious,5,1.2,5,1,100,34631213,0,,GameHouse,casual,15
+1265,crow gelagh,0,0,0,0,100,5882570,10000,,z-back33,casual,1
+1266,بازی زیگزاگی هوشمند,0,0,0,0,100,1722177,0,,Sara Barati,casual,1
+1267,Taprunner,0,0,0,0,100,21154677,20000,,hadi janati,casual,1
+1268,VAKONESH,0,0,0,0,100,2350569,0,,SAEED J,casual,1
+1269,پلنگ صورتی قهرمان,0,0,0,0,100,7368327,0,,Fariba Banoo,casual,1
+1270,تامی و کیتی کوچولو,0,0,0,0,100,1695086,0,,Maedeh,casual,3
+1271,سه کله پوک,0,0,0,0,100,1051738,10000,,ayat etanavar,casual,3.2.0
+1272,مرد ماجراجو,0,0,0,0,100,979948,10000,,ayat etanavar,casual,3.2.0
+1273,مجموعه بازیهای میکرو,0,0,0,0,100,22373955,10000,,ayat etanavar,casual,3.2.1
+1274,persian ninja,0,0,0,0,100,14682550,10000,,nima balanehmanesh,casual,1.0.0
+1275,PicBall,0,0,0,0,100,16443995,10000,,barane hasti,casual,1
+1276,tic-tac-toe,14,4.7,5,1,200,279761,0,,Pkap,casual,1
+1277,Forever,24,4.2,5,1,5000,65521798,0,,Seriously Digital Entertainment Ltd.,casual,2.3.1
+1278,Nonstop,351,4.3,5,1,5000,64349583,0,,flaregames,role-playing,1.7.3
+1279,FFEXVIUS,35,3.8,5,1,1000,90255772,0,,"SQUARE ENIX Co.,Ltd.",role-playing,1.3.0
+1280,Skilltree Saga,2,1,5,1,100,137398957,90000,,medrick-fze-r,role-playing,3.82
+1281,Rostam BoM,259,4,5,1,5000,29439761,0,Offers IAP purchases,defective123,adventure,1.4
+1282,Joe Dever's Lone Wolf Complete,2,5,5,1,100,14103368,350000,,Bulkypix,role-playing,1
+1283,Tap Titans,87,4,5,1,1000,78918679,0,,Game Hive Corporation,role-playing,4.1.1
+1284,Spellstone,179,4.2,5,1,2000,62311862,0,,Kongregate,role-playing,2.3.6
+1285,D Dungeons,215,4.1,5,1,10000,50369908,0,,Monstro,role-playing,1.8.9
+1286,Devils & Demons,135,4.3,5,1,1000,150824633,0,Offers IAP purchases,Handy Games,role-playing,1.1.2
+1287,Hunter,70,4.1,5,1,500,45454108,0,,NHN Entertainment Corp.,role-playing,2.3.2.00
+1288,Earthcore,12,1.9,5,1,200,37202078,0,,tequila-games,casual,1.8.3
+1289,League of Angels - Fire Raiders,312,4,5,1,500,98960532,0,,GTarcade,role-playing,3.9.4.10
+1290,Star Girl,12382,4.6,5,1,100000,56900013,0,,Animoca,role-playing,4.0.1
+1291,Baby Hazel Doctor Play,788,4,5,1,50000,15633052,0,,Axis Entertainment,role-playing,11
+1292,Pocket Heroes,999,4.7,5,1,20000,27762136,0,,Elite Games,role-playing,2.0.5
+1293,Devils & Demons Premium,76,4,5,1,5000,150421938,40000,Offers IAP purchases,Handy Games,role-playing,1.1.2
+1294,Microbes War,3775,4.6,5,1,10000,19118386,0,Offers IAP purchases,simiyaworld,role-playing,1.1.2
+1295,Block Story,534,4.3,5,1,5000,53502468,0,,Mindblocks,role-playing,11.2.1
+1296,Krafteers,536,4.3,5,1,2000,14296616,0,,"MadSkill Game Studios, LLC.",role-playing,1.11
+1297,Arcane Legends,2856,4.1,5,1,5000,92698709,0,,Spacetime Games,role-playing,1.5.8
+1298,Reaper,381,4.5,5,1,2000,37194965,0,,hexage,role-playing,1.4.13
+1299,Darkness Reborn,1821,4.2,5,1,2000,63425442,0,,GAMEVIL,role-playing,1.4.5
+1300,Epic,2133,3.6,5,1,10000,40757173,0,,Rovio Entertainment Ltd.,role-playing,1.5.7
+1301,Heroes Charge,996,4.5,5,1,2000,33218199,0,,uCool,role-playing,2.1.48
+1302,Precision and skill,2649,4.2,5,1,2000,49256393,0,Offers IAP purchases,abproduct,role-playing,1.8
+1303,بازی دیو و دلبر,0,0,0,0,100,4399983,0,,Shadow Games,role-playing,2
+1304,Anti-terror,0,0,0,0,100,10714639,30000,,mohammadps,role-playing,1.0.0.0
+1305,Looney Tunes - Sheep Raider,0,0,0,0,100,271288426,0,,ali samsam heidari,role-playing,1
+1306,گارفیلد شیطون,1,4,5,1,200,8090544,0,,mehrdad alimi,role-playing,4
+1307,هالک قهرمان,0,0,0,0,100,7240781,0,,shahkardroid,role-playing,1
+1308,مزرعه دار (Harvest Moon),4,2.5,5,1,100,108047502,0,Offers IAP purchases,shkak0912,role-playing,1.2
+1309,تنها در خانه,2,1,5,1,100,1587608,0,,jamalidroid,role-playing,61
+1310,spider man 2,2,2,5,1,1000,56032483,0,,ali samsam heidari,role-playing,1
+1311,spider man 1,0,0,0,0,500,53923207,0,,ali samsam heidari,role-playing,1
+1312,Harry Potter and the Philosopher,18,3.7,5,1,200,483075692,0,Offers IAP purchases,shkak0912,role-playing,3.9
+1313,بازی علاالدین و غول چراغ,2,4,5,1,200,5510418,0,,danial nobakht,role-playing,1
+1314,Hercules,2,3,5,1,200,35877189,0,,ali samsam heidari,role-playing,1
+1315,Desert Strike,3,3.3,5,1,200,2973333,0,,ali samsam heidari,role-playing,1
+1316,Shinobi,1,5,5,1,100,3027620,0,,ali samsam heidari,role-playing,1
+1317,قایم موشک با ماریو,5,4.2,5,1,500,2074561,0,,elhamdroid,role-playing,1
+1318,Legendary,22,3.8,5,1,1000,63095865,0,,n3twork-inc,role-playing,1.7.6
+1319,Hidden Objects: Thief's Mystery,0,0,0,0,100,55242631,30000,,Inlogic Software,puzzle,1.0.2
+1320,Reflection,2067,4.6,5,1,20000,3352857,0,Offers IAP purchases,ranar,puzzle,1
+1321,4 Direction,19,4.8,5,1,200,19284053,0,Offers IAP purchases,Lime Games,casual,1.3
+1322,Roofbot,13,4.8,5,1,1000,48733455,0,,double-coconut,puzzle,2.0.0
+1323,Freeze! 2,2,5,5,1,100,52961032,40000,,Thumbstar Games Ltd,puzzle,1
+1324,8 Queen Puzzle,13,4.9,5,1,1000,3118260,0,Offers IAP purchases,mohre,puzzle,2.1.1
+1325,Ferfereh (Online),2881,4.3,5,1,5000,32680299,0,Offers IAP purchases,cafevas,arcade,1.1
+1326,Aftabe,35218,4.6,5,1,200000,4777321,0,Offers IAP purchases,RSynergy,puzzle,1.4.3
+1327,2048,1110,4.6,5,1,100000,1575825,0,,Gabriele Cirulli,puzzle,1.0.2
+1328,Candy Crush Jelly,1173,4.4,5,1,100000,71856332,0,,King,puzzle,1.32.4
+1329,Bad Piggies,5704,4.5,5,1,100000,67221856,0,,Rovio Entertainment Ltd.,puzzle,2.2.0
+1330,Flow Free,1090,4.6,5,1,50000,10773064,0,,Big Duck Games LLC,puzzle,3.5
+1331,Cut the Rope: Time Travel,145,4.7,5,1,10000,42604016,40000,,ZeptoLab UK Limited,puzzle,1.4.4
+1332,Sudoku Fun,1826,4.7,5,1,50000,7177250,0,,smoote-mobile,puzzle,1.5
+1333,Best Fiends,1250,4.7,5,1,50000,60240744,0,Offers IAP purchases,Flexion Mobile Limited,puzzle,1.9.0
+1334,Fruits Legend,928,4.3,5,1,100000,7961852,0,,appgo,puzzle,5.0.107
+1335,Noghte Khat,2187,4.4,5,1,100000,619625,0,,Masoud Androidi,puzzle,1.2
+1336,∞ Loop,1768,4.6,5,1,50000,6586945,0,,infinity-games,puzzle,5.14
+1337,Crazytarium,897,4.5,5,1,10000,29585378,40000,,Afzar Studio,puzzle,0.1
+1338,Cut the Rope 2,277,4.6,5,1,5000,41350826,40000,,ZeptoLab UK Limited,puzzle,1.3.3
+1339,2048,439,4.7,5,1,50000,2523874,0,,digiplexin,puzzle,2.7.2
+1340,Construction City,1802,4.3,5,1,100000,8262035,0,,HeavyFall Studio,puzzle,2.0.1
+1341,MasterMind,0,1,5,1,100,5850959,0,,OmidNegar,puzzle,1.1
+1342,پازل آنجلا ی زیبا,0,0,0,0,100,9606244,0,,Roya arefi,puzzle,1
+1343,پاتریک رو به باب برسون,0,0,0,0,100,1554546,0,,shirinmobi,puzzle,1
+1344,شیر شاه کوچولو,0,0,0,0,100,4966874,0,,mona mousavi,puzzle,1
+1345,السا مهربون,0,0,0,0,100,6305545,0,,sosha,puzzle,1
+1346,مین یاب,0,0,0,0,100,2761078,0,,jamalidroid,puzzle,2
+1347,بازی دوز (xo),0,0,0,0,100,3174183,0,,shaghayegh mobasher,puzzle,1
+1348,game differing portrayals,0,0,0,0,100,21266950,10000,,alihasani,puzzle,1
+1349,Puzzle Cat,1,5,5,1,100,1365847,0,,hashem_broushaki,puzzle,2
+1350,باب اسفنجی (جورچین),0,0,0,0,100,1068958,0,,sepidehdev,puzzle,1
+1351,دختر عروسکی,2,5,5,1,200,5941441,0,,roya hasanzade,puzzle,1
+1352,Symmetria,0,4,5,1,100,26783014,0,,platonic-games,puzzle,1.0.2
+1353,Rento Monopoly,9,5,5,1,500,46347805,0,Offers IAP purchases,baziline,board,3.4.7
+1354,My Talking Elly,19,3.9,5,1,10000,40001895,0,Offers IAP purchases,medrick-fze-r,casual,2.5
+1355,My Talking Lady Dog,234,4.4,5,1,20000,78710520,0,Offers IAP purchases,medrick-fze-r,casual,3.3
+1356,Paper Wings,20,4.5,5,1,2000,16693050,0,,fil-games,arcade,0.1.3
+1357,Infantimals,928,3.8,5,1,20000,17501279,0,Offers IAP purchases,LootShake,arcade,1.0.6
+1358,Township,19150,4.6,5,1,100000,108399579,0,Offers IAP purchases,Playrix,family,3.8.4
+1359,Name & Family,449,4.1,5,1,20000,2884310,10000,,Process,family,2.1
+1360,Enchanted Forest,413,4.1,5,1,10000,10755838,30000,,Xalopex,family,1.2
+1361,Prom Makeover Salon,2147,4.3,5,1,50000,33976596,0,,limetoy,family,1.0.1
+1362,Green Farm 3,1303,4.3,5,1,20000,21161937,0,Offers IAP purchases,Gameloft,family,4.0.2
+1363,Clouds & Sheep,3765,3.8,5,1,50000,32537666,0,Offers IAP purchases,sabagames,family,1.9.10
+1364,Paria Jungle,189,3.8,5,1,2000,36957994,20000,,Spiral Design Center,family,1
+1365,Zir e Gonbad e Kabood,646,4.3,5,1,10000,14257267,0,,zir-e-gonbad-e-kabood,family,1
+1366,"""Mahalle BaSafa"" The Game",706,4.2,5,1,5000,73779727,0,Offers IAP purchases,"Mehad ,  Isalamic Games & Entertainments",family,1.0.5
+1367,Ranginkamoon,307,4.1,5,1,2000,25825556,0,Offers IAP purchases,parhoonco,family,2.0.5
+1368,name family wifi,25,4.4,5,1,200,2923139,20000,,GADA,family,1
+1369,ساندویچ سلام,0,4.3,5,1,100,25268958,0,Offers IAP purchases,shekamsalam,family,1.03
+1370,Chelle Neshini,0,0,0,0,100,7506429,0,,behzadvi,family,1.0.3
+1371,آنجلا و کلاه زمستونی,0,0,0,0,100,2396961,0,,Shadow Games,family,1
+1372,Yalda Tournament,2,5,5,1,100,9921531,0,Offers IAP purchases,tirnam,family,1.2.0
+1373,اسم فامیل آنلاین,27,3.9,5,1,200,7915658,0,Offers IAP purchases,kandooj,family,1.29
+1374,istgahi,15,4.5,5,1,100,8707617,0,Offers IAP purchases,difone-app,sports,5
+1375,شارژ خوان همراه,0,0,0,0,100,19291225,20000,,difone-app,tools,2.3
+1376,shansRoBash,2,3,5,1,100,7525211,0,Offers IAP purchases,difone-app,family,1.0.0
+1377,Bede Baghali,14,4.1,5,1,500,15587768,0,,tractrix,family,1
+1378,سیندرلا و قصر طلایی,4,4,5,1,500,2311340,0,,Mis Narges,family,1
+1379,My Colourings,0,0,0,0,100,32353696,20000,,3dduo,family,1
+1380,ترانه های شاد کودکانه,0,0,0,0,500,6165106,0,,reyhaneh,family,1
+1381,هاپو کوچولو,0,0,0,0,100,2059728,0,,Haleh Noor,family,1
+1382,Interactive La Fontaine's Fables,0,0,0,0,100,92556379,50000,,3dduo,family,1
+1383,Chal Peshgeli,3,5,5,1,100,29236251,0,Offers IAP purchases,softrun,family,1.0.1
+1384,نقاشی سوفیا,0,0,0,0,500,3586283,0,,danial nobakht,family,1
+1385,مرد عنکبوتی مبارز,0,0,0,0,200,6604674,0,,Mrs Shima,family,2
+1386,Talking Tom Gold Run,1739,4.6,5,1,200000,54077354,0,Offers IAP purchases,Flexion Mobile Limited,family,1.3.5.575
+1387,Piano Tiles 2,10214,4.7,5,1,500000,29000211,0,,cheetah-games,arcade,3.0.0.230
+1388,Motori,229491,4.7,5,1,200000,55590600,0,Offers IAP purchases,glimgames,arcade,1.71.0
+1389,Smash Hit,9984,4.7,5,1,200000,83190686,0,,Mediocre,arcade,1.4.0
+1390,Angry Birds,5780,4.5,5,1,200000,48385049,0,,Rovio Entertainment Ltd.,arcade,2.6.2
+1391,Cooking Fever,8134,4.7,5,1,200000,78387543,0,,Nordcurrent,arcade,2.2.3
+1392,Sonic Dash,4445,4.5,5,1,200000,46541818,0,,SEGA of America,arcade,1.14.0.Go
+1393,Zombie Tsunami,3318,4.7,5,1,200000,64876542,0,,Mobigame S.A.R.L.,arcade,3.4.0
+1394,Vector,17719,4.5,5,1,200000,93456515,0,,NEKKI,arcade,1.2.0
+1395,PASSAGE,3490,4.1,5,1,50000,35176630,10000,,Armina,arcade,1.0.0
+1396,Rail Rush,3109,4.5,5,1,200000,46706419,0,,Miniclip.com,arcade,1.9.10
+1397,PASSAGE2,2174,4.2,5,1,20000,40602989,10000,,Armina,arcade,1.0.1
+1398,Wild Hunter,2890,4.6,5,1,100000,20926476,0,,Italy Games,arcade,1.0.6
+1399,Rooster Wars,120762,4.5,5,1,100000,87541726,0,Offers IAP purchases,Yara Games,arcade,2.0.53
+1400,مارپیچ,0,0,0,0,100,3137619,0,,Maedeh,arcade,1
+1401,ماشا وروجک,0,2,5,1,100,2579227,0,,Sponge Bob,arcade,1
+1402,آنجلا و ماشا,0,0,0,0,100,1751229,0,,sanazdroid,arcade,1
+1403,دوستان کارتونی,0,4,5,1,100,1197181,0,,Fariba Banoo,arcade,1
+1404,بره ناقلا کو,0,0,0,0,100,2241610,0,,Sponge Bob,arcade,1
+1405,بزن به هدف,0,0,0,0,100,1426319,0,,mona mousavi,arcade,2
+1406,لاک پشت پرنده,0,0,0,0,100,3408764,0,,sanazdroid,arcade,1
+1407,پرنسس ها,0,0,0,0,100,1574991,0,,mona mousavi,arcade,1
+1408,مک کویین و دوستانش,0,0,0,0,100,6600411,0,,negarmobi,arcade,1
+1409,Hobatra,0,0,0,0,100,34590565,0,,decapitary,arcade,1.2
+1410,مینیون قایم موشکی,0,0,0,0,100,2220708,0,,sabadroid,arcade,1
+1411,مگامن,0,0,0,0,100,1518765,0,,Sponge Bob,arcade,1
+1412,Aghaye Record,0,0,0,0,100,15942243,0,,threem-77ashkezar,arcade,0.0.1
+1413,جوجه رنگی,0,0,0,0,100,1269359,0,,zibadev,arcade,1
+1414,خرگوش هویج خور,0,0,0,0,100,5297713,0,,Fariba Banoo,arcade,2
+1415,Tricorn,15,4.6,5,1,100,19114873,0,Offers IAP purchases,app_ol0lo-94,arcade,1.0.4
+1416,KharWar,7,4.4,5,1,100,22836650,0,Offers IAP purchases,app_ol0lo-94,arcade,1.0.5
+1417,ShootRun,14,4.2,5,1,1000,38836506,0,Offers IAP purchases,app_ol0lo-94,arcade,1.0.1
+1418,Soccer Shootout,59,3.9,5,1,10000,52857916,0,,Gamegou Limited,sports-game,0.8.0
+1419,super goal,76,4.2,5,1,2000,24788117,0,Offers IAP purchases,XROBOX,sports-game,1
+1420,Baseball Mania Derby Slugfest,1,1,5,1,100,18111413,30000,,medrick-fze-r,sports-game,1
+1421,Stickman Basketball 2017,591,4.5,5,1,50000,60655597,0,,Djinnworks GmbH,sports-game,1.1.2
+1422,Basketball Street Hero,0,0,0,0,100,15672965,40000,,medrick-fze-r,sports-game,1
+1423,Real Boxing,653,4,5,1,50000,312248835,0,Offers IAP purchases,medrick-fze-r,sports-game,1.1.3
+1424,Hoops Puzzler,10,3.9,5,1,500,26594549,0,,GOLDLOG,puzzle,1
+1425,Modern Volleyball 2016,32181,4.4,5,1,200000,45493582,0,Offers IAP purchases,Diaco Games,sports-game,2.1
+1426,Sport Games,145,4.4,5,1,10000,24729354,0,,Ketchapp,sports-game,2.01
+1427,Rio 2016 Olympic Games,1214,4.1,5,1,20000,85287640,0,,neowiz-games-corporation,sports-game,1.0.42
+1428,Sports Hero,806,4.3,5,1,20000,28589100,0,,cherrypick-games,sports-game,1.0.3
+1429,Wrassling,52,4.5,5,1,1000,10402550,0,,kappsule,sports-game,1.3.5
+1430,Dunkers,46,4,5,1,5000,10805427,0,,kappsule,sports-game,1.2.6
+1431,Score! Hero,7668,4.6,5,1,500000,102867020,0,,First Touch,sports-game,1.41
+1432,Soccer Stars,35845,4.6,5,1,500000,39372261,0,,Miniclip.com,sports-game,3.4.2
+1433,Archery Master 3D,7276,4.6,5,1,500000,18651863,0,,TerranDroid,sports-game,2.2
+1434,8 Ball Pool,16311,4.7,5,1,200000,42378974,0,,Miniclip.com,sports-game,3.8.6
+1435,Score!,12298,4.6,5,1,200000,52189677,0,,First Touch,sports-game,2.75
+1436,Tennis 3D,6509,4.6,5,1,200000,14640683,0,,Mouse Games,sports-game,1.7.1
+1437,Pool Billiards Pro,3469,4.5,5,1,200000,6504892,0,,TerranDroid,sports-game,3.5
+1438,Stickman Soccer 2014,5620,4.6,5,1,100000,29145487,0,,Djinnworks GmbH,sports-game,2.1
+1439,Perfect Kick,18592,4.6,5,1,100000,84171319,0,,Gamegou Limited,sports-game,2.1.4
+1440,Virtual Table Tennis 3D,4030,4.5,5,1,100000,5296435,0,,Clapfoot Inc.,sports-game,2.7.8
+1441,Flick Shoot 2,8742,4.8,5,1,50000,51717981,0,,MobileCraft,sports-game,1.26
+1442,Stickman Soccer,2655,4.6,5,1,50000,24860857,0,,Djinnworks GmbH,sports-game,2.8
+1443,Virtual Table Tennis,3547,4.6,5,1,50000,49575627,0,,SenseDevil Games,sports-game,1.1.2
+1444,Pro VolleyBall,9085,4.2,5,1,100000,31886769,0,Offers IAP purchases,yousefsystem,sports-game,2.2
+1445,Tennis,0,0,0,0,100,71274710,0,,ali samsam heidari,sports-game,1
+1446,football 2013,7,2.6,5,1,100,26718237,0,Offers IAP purchases,arvin_shk,sports-game,2
+1447,فوتبالیست شناس 2,2,5,5,1,200,35809734,0,,seyed sina shojaeefar,sports-game,1.1
+1448,Mat Hoffman's Pro BMX,0,0,0,0,100,463292348,0,,ali samsam heidari,sports-game,1
+1449,BALL HALL,0,0,0,0,100,14431701,10000,,Mohammad javad gholamian,sports-game,0.1
+1450,all star tennis 2000,0,0,0,0,100,73200450,0,,ali samsam heidari,sports-game,1
+1451,fotbaall99persia,17,3.6,5,1,100,240315362,0,Offers IAP purchases,arvin_shk,sports-game,2
+1452,hot Sleight !,2,5,5,1,100,64142815,20000,,am_screenroid,sports-game,v2.0
+1453,Mortal Kombat 3,0,0,0,0,200,5045947,0,,shkak0912,sports-game,1.1.0
+1454,Dini Soccer,0,0,0,0,100,2992810,0,,arvin_shk,sports-game,1
+1455,Tom and Jerry3,0,0,0,0,200,1823529,0,,shkak0912,sports-game,1.1.0
+1456,بازی های آبی,0,0,0,0,100,1904750,0,,shkak0912,sports-game,1.1.0
+1457,بازی شکار مرغابی میکرو,0,0,0,0,100,1450821,0,,parinaz heydar,sports-game,1
+1458,football 2016 ferdosi poor,2,5,5,1,100,111973844,10000,,future games,sports-game,1
+1459,sport for people of disabled,3,5,5,1,200,6934743,0,,shamdani,sports-game,1.0.0
+1460,toop360,15,4.9,5,1,200,10493979,0,Offers IAP purchases,toop360,media-video,0.0.50
+1461,mobocup,27,4.5,5,1,500,6239895,0,,mfaridi,sports,2.5.2
+1462,SportDownload,17,4.5,5,1,1000,4075218,0,,SportDownload,sports,1.4.1
+1463,IranHockey,18,4.2,5,1,200,1523890,0,,avrudi,sports,1
+1464,HadsOn,3198,4.5,5,1,20000,4394540,0,,appson,sports,1.4.cb
+1465,Navad,5441,4.2,5,1,500000,5506980,0,,ADP Digital,sports,2.4.0
+1466,FotMob,21751,4.8,5,1,200000,15452214,0,,norapps-as,sports,48.0.2681
+1467,اخبار پرسپولیس,34653,4.8,5,1,100000,3492110,0,,masoud rezapour,sports,1.9
+1468,TOOP,7379,4.7,5,1,100000,8151018,0,Offers IAP purchases,persheh,sports,3.5.2
+1469,اخبار فوتبالی,4810,4.5,5,1,50000,3249271,0,,Bado Group,sports,16
+1470,Tarafdari LiveScore,3255,4.8,5,1,50000,3906706,0,,tarafdari,sports,1.3.0
+1471,Tarafdari,21310,4.6,5,1,50000,5400613,0,,tarafdari,sports,2.4.6
+1472,Sport News,5752,4.5,5,1,50000,2686196,0,,bartarinha,sports,2.1
+1473,Esteghlal News,2506,4.7,5,1,20000,11109247,0,,Mohammad Hossein Nafisi,sports,3.6.10
+1474,Laghari,479,4.6,5,1,20000,2706025,0,,morteza1366,sports,1
+1475,SofaScore,780,4.9,5,1,10000,18616638,0,,sofascore,sports,5.32.1
+1476,تالار فوتبال,13807,4.6,5,1,20000,3970175,0,,Alireza Rezvani,sports,4
+1477,LiveScore,758,4.5,5,1,20000,8605239,0,,LiveScore Ltd.,sports,2.1.11
+1478,دنیای کنگ فو,0,0,0,0,100,2689797,0,,bigdeveloper1,sports,1
+1479,آموزش دفاع شخصی,0,0,0,0,100,2534396,0,,Farzaneh Team,sports,1
+1480,sport knowledge,0,0,0,0,100,5381844,0,,stellar team,sports,1
+1481,آموزش پرورش اندام,0,0,0,0,100,1002361,50000,,Ata Programmer,sports,v1.0
+1482,SportsCarGT,0,0,0,0,100,13757179,20000,,mah_por,sports,1.1
+1483,thin waist,0,0,0,0,100,14488974,10000,,Momo1370,sports,v4.0
+1484,Fitness and exercises cycling,1,5,5,1,100,21651554,0,Offers IAP purchases,Tina pardazesh mehr pars,sports,1.3
+1485,Workouts for entire body,1,5,5,1,200,19847820,0,Offers IAP purchases,Tina pardazesh mehr pars,sports,1.3
+1486,(ساخت مکمل بدنسازی(دمو,0,0,0,0,200,801392,0,,arminb,sports,1
+1487,استعدادیاب فوتبال,5,3.8,5,1,200,2872734,0,Offers IAP purchases,shahkarfc,sports,
+1488,batarinhaye football,1,5,5,1,100,19425041,10000,,ash93,sports,1.2
+1489,آموزش سوارکاری,2,3,5,1,100,2423275,0,,KianoReeves,sports,1
+1490,Abdomen workouts in fitness,1,5,5,1,500,31060664,0,Offers IAP purchases,Tina pardazesh mehr pars,sports,1.3
+1491,Chest workouts in fitness,2,3,5,1,200,32260036,0,Offers IAP purchases,Tina pardazesh mehr pars,sports,1.3
+1492,nostalgia football,2,5,5,1,100,19124874,10000,,sina mohammadi,sports,v1.0
+1493,RooForm (Body Building scheduling),50,4.7,5,1,1000,16964793,0,Offers IAP purchases,F Heidari,sports,1
+1494,کمانداران جهان,2,1,5,1,200,2775626,0,,shahkardroid,sports,1
+1495,آموزش سوارکاری(ویدیو),2,5,5,1,200,2839593,0,,sosha,sports,1
+1496,tractorchi,44,5,5,1,500,4641859,0,,dmatteam,sports,2.4.3
+1497,sad goler top history football,3,4.7,5,1,500,13057728,0,,AMiNiMA BAND,sports,1
+1498,Mansour Pourheidari unofficial,8,4.9,5,1,100,1352209,0,,erfansadeghi,sports,1.0.0
+1499,آموزش بسکتبال حرفه ای,1,5,5,1,100,8324998,0,Offers IAP purchases,shapark,sports,1.1
+1500,fitness,0,0,0,0,100,1927902,10000,,reza abedini,sports,1.0.2
+1501,Football Clubs Logo 2,4,3.5,5,1,200,13579130,0,,Mohammad Reza Fazel,sports,1.1
+1502,بدنسازی همراه,15728,4.7,5,1,50000,9282939,0,,paneiz_app,sports,2.2
+1503,فالستون ( فال ابجد+ فال روزانه+...),27617,4.6,5,1,100000,2852443,0,,paneiz_app,lifestyle,2.6
+1504,فال روزانه,622,4.4,5,1,10000,2498551,0,,paneiz_app,lifestyle,1
+1505,تناسب اندام بانوان,2148,4.6,5,1,5000,1590813,0,,paneiz_app,health-fitness,1.5
+1506,عاشقانه ها,1189,4.6,5,1,5000,16299818,10000,,paneiz_app,entertainment,2.4
+1507,Diseases,31,4.2,5,1,1000,1591892,10000,,paneiz_app,medical,1.3
+1508,Biography,224,3.8,5,1,5000,4636297,0,,paneiz_app,social,1.3
+1509,My Account,15,3,5,1,200,952972,10000,,paneiz_app,business,1.2
+1510,Ziba Kalaam,19,4.4,5,1,1000,642177,10000,,paneiz_app,lifestyle,1.2
+1511,طالع بینی ازدواج,2194,4.1,5,1,5000,946258,0,,paneiz_app,lifestyle,1.2
+1512,چهره خوانی,1039,3.7,5,1,2000,871856,0,,paneiz_app,lifestyle,1.1
+1513,پازل 15 حرفه ای,1058,4.6,5,1,10000,496718,0,,paneiz_app,board,1.1
+1514,پیشگیری بهتر از درمان,22,4.4,5,1,200,3819115,10000,,paneiz_app,medical,1
+1515,آموزش حل سودوکو,659,4.5,5,1,2000,709784,0,,paneiz_app,education,1
+1516,Clinic,205,4.4,5,1,5000,1442511,10000,,paneiz_app,medical,1.3
+1517,250 زنک اس ام اس,234,4,5,1,2000,13611040,10000,,paneiz_app,music-audio,1
+1518,Fat Magazine,142,4.4,5,1,2000,2286857,0,,paneiz_app,health-fitness,1.1
+1519,Iran Hotel,25,2.6,5,1,1000,1199723,10000,,paneiz_app,travel-local,1
+1520,معجزه ادویه ها,3211,4.6,5,1,50000,3074582,0,,paneiz_app,medical,1.4
+1521,بیماری های کودکان,0,0,0,0,100,1444920,0,,android-sara94,medical,1
+1522,معرفی بیماری ها,0,5,5,1,100,1988481,0,,altay app,medical,1
+1523,دندان صدفی,0,0,0,0,100,3046944,0,,Mr Farshid,medical,1
+1524,دیابت,0,0,0,0,100,2381090,30000,,ebishk,medical,1
+1525,خوب شدن سرماخوردگی,0,0,0,0,100,10887245,10000,,ali sepahi,medical,1
+1526,Serch drug shortage,0,0,0,0,100,2993018,0,,PENDAR PAJOUH,medical,0.0.4
+1527,قانون چاقی یا لاغری,0,0,0,0,100,957392,10000,,mostafa ghassabi,medical,1
+1528,دانستنی های پزشکی,2,3,5,1,100,1421569,0,,altay app,medical,1
+1529,درمان فشار خون,0,0,0,0,100,1433750,0,,android-sara94,medical,1
+1530,Goftarnama,0,0,0,0,100,11898854,0,,Zamen Salamati,medical,1.1.5
+1531,1000 Medical Facts,0,0,0,0,100,5226254,10000,,reza Akbari,medical,1
+1532,The Complete Guide to Pregnancy,0,0,0,0,100,5934563,20000,,mohajeri,medical,v2.0
+1533,دکتر بیماری های عفونی,0,5,5,1,100,1491707,0,,aban,medical,1
+1534,Prescription  Medical imaging,0,0,0,0,100,3657765,50000,,ali reza radpour,medical,v1.6
+1535,Islamic medicine,1,5,5,1,100,3852656,10000,,soheyl farzane,medical,v1.0.5
+1536,clinic iran,0,0,0,0,100,4972999,0,,oaksoft.ir,medical,1.2
+1537,موادغذایی مفیدکبد,0,0,0,0,100,3110695,30000,,hamidi_saeede,medical,1
+1538,Zarbina,0,0,0,0,100,19706447,80000,,Parvaz Software Group,medical,12.1
+1539,bimarihaye kodakan,0,0,0,0,100,4016383,10000,,vahidhasani66,medical,1
+1540,راز جوانی,0,0,0,0,100,2770598,0,,negarmobi,medical,1
+1541,DarokhaneGeneral,5,5,5,1,100,22223167,10000,,ebookgeneral,medical,1.2
+1542,آزمایشگاه,0,0,0,0,100,2800223,10000,,alpha group,medical,1.1
+1543,سرطان,0,0,0,0,100,2375636,0,,shahkardroid,medical,1
+1544,آشنایی با سیستم روده ها,0,0,0,0,100,2331063,0,,Elhambakhsh,medical,1
+1545,Zang Goosh,3,5,5,1,100,4335823,0,,iranapple,medical,1
+1546,Darman Bikhabi,1,5,5,1,100,4342239,0,,iranapple,health-fitness,1
+1547,zed pof cheshm,1,5,5,1,100,4287293,0,,iranapple,lifestyle,1
+1548,Beutifull Face,1,1,5,1,100,4330314,0,,iranapple,health-fitness,1
+1549,Hairfull Eyebrows,6,3.2,5,1,1000,4364401,0,,iranapple,lifestyle,1
+1550,Zed Qelune!,0,0,0,0,100,4341786,0,,iranapple,health-fitness,1
+1551,Headache therapy,3,4.3,5,1,200,4321036,0,,iranapple,medical,1
+1552,No Bad Breath,2,1.5,5,1,100,4427222,0,,iranapple,lifestyle,1
+1553,Lavashak,5,4.8,5,1,100,7135910,0,,iranapple,education,1
+1554,Make Jam!,4,5,5,1,500,4840904,0,,iranapple,lifestyle,1
+1555,Technology Magazine,3,4.7,5,1,100,7056060,0,,iranapple,news-magazines,1
+1556,Football History,0,0,0,0,100,3943774,0,,iranapple,books-reference,1
+1557,Footsal rules,10,4.6,5,1,200,3999200,0,,iranapple,sports,1
+1558,BasketBall Rules,5,5,5,1,100,4017920,0,,iranapple,sports,1
+1559,Volleyball Rules,17,4.4,5,1,200,4048807,0,,iranapple,sports,1
+1560,Withe Tooth,13,4.9,5,1,500,4090409,0,,iranapple,health-fitness,1
+1561,Treatment a cold,10,3.6,5,1,500,4006989,0,,iranapple,medical,1
+1562,zed rizesh mo,9,5,5,1,500,6475326,0,,iranapple,lifestyle,1
+1563,anty hack clash,0,0,0,0,100,4250357,30000,,iranapple,education,1
+1564,anty hack whats app,5,4.6,5,1,100,5189557,30000,,iranapple,education,1
+1565,iran tourist places,0,0,0,0,100,11759269,0,,iranapple,travel-local,1
+1566,khosrogerd,0,5,5,1,100,3088132,0,,sadegh khosrojerdi,travel-local,1
+1567,anbaranvillage,0,5,5,1,100,9358225,0,,farhadvalizadeh,travel-local,v10.0
+1568,Eligasht,3,4,5,1,200,6391395,0,,Eligasht,travel-local,1.13.2
+1569,Kerman Vocal Tourism,1,5,5,1,100,23913070,0,,barsam_sabbagh,travel-local,v2.0
+1570,Translator,0,0,0,0,100,2879737,10000,,Arash zarei,travel-local,1. 0
+1571,مسیریاب هوشمند,0,0,0,0,100,418943,20000,,Arsenal1455,travel-local,2.1
+1572,Khosroshah,8,3.5,5,1,200,9615508,0,,arat-ap,travel-local,1
+1573,مسیریاب و آدرس یاب,0,0,0,0,100,3131836,50000,,mahyarazimi,travel-local,3
+1574,دفتر سفر,0,0,0,0,100,4236418,0,,rimadroid,travel-local,1
+1575,Peakbagger,1,5,5,1,200,9410577,0,,mountainside,travel-local,1.15.1
+1576,جاذبه دیدنی تهران,0,0,0,0,100,2615593,0,,Hasti App,travel-local,1
+1577,تهران را بهتر بشناسیم,0,0,0,0,100,2324227,0,,KianoReeves,travel-local,1
+1578,ghorvecity,0,0,0,0,100,3409984,10000,,vahidhasani66,travel-local,1
+1579,Pave Teenagers Avramanat,3,5,5,1,100,5557064,0,,Momo1370,travel-local,v1.1
+1580,Iran Gard,0,0,0,0,500,11026179,0,,pishtazan_android,travel-local,1.1
+1581,KhodroYar,2359,4.4,5,1,10000,4502128,0,Offers IAP purchases,Serendip,travel-local,1.9.1
+1582,Rah Rah,164,4.6,5,1,200,3920017,0,Offers IAP purchases,Serendip,puzzle,1.3
+1583,Khalafi va Jadvale jarayem,22890,4.5,5,1,100000,3112801,0,Offers IAP purchases,Serendip,transportation,3.2.0
+1584,Eybyabie Khodro,4615,4.6,5,1,10000,2983971,20000,,Narvan Soft,transportation,12.1
+1585,TAP30 - Passenger App,595,3.9,5,1,200000,13836353,0,,tap30,transportation,1.3.0
+1586,Waze,401,4.4,5,1,50000,49700115,0,,Waze,transportation,4.16.0.1
+1587,Tehran Official Traffic Map,1827,4.2,5,1,100000,25457984,0,,tehranmap,transportation,2.3.1
+1588,HERE WeGo,1166,4.2,5,1,50000,41681043,0,,here-apps-llc,transportation,2.0.11036
+1589,Ulysse Speedometer,2439,4.5,5,1,50000,6680419,0,,binarytoys,transportation,1.9.39
+1590,Iran Metro,495,4.6,5,1,20000,22841585,0,,Code Lovers,transportation,1.5.8
+1591,NetC - Driver,0,0,0,0,100,3090340,0,,netc,transportation,3
+1592,Xuber,7,5,5,1,100,2262134,0,,arya67,transportation,2.0004
+1593,NetC - Passenger,3,3.7,5,1,100,3062032,0,,netc,transportation,3
+1594,HUD SPEED METER,2,5,5,1,100,2956638,0,,armin khademi,transportation,Limited
+1595,خلافی بگیر,114,4.4,5,1,1000,2707407,0,Offers IAP purchases,overcode_group,transportation,1.0.1
+1596,dehyari zibadasht farokhabad,1,5,5,1,100,3604718,0,,idea process,transportation,6
+1597,Installing Sport Exhaust,0,0,0,0,100,5077733,10000,,mrbalvardi,transportation,1
+1598,زربار - بنگاه,0,0,0,0,100,5503144,0,,Ahmad Abdolahi,transportation,0.9
+1599,Ride,6,3,5,1,500,6066369,0,,Ride,transportation,0.945
+1600,Xuber Driver,10,4.4,5,1,100,3205623,0,,arya67,transportation,1.03
+1601,Khalafi Khodro,24,4.4,5,1,2000,4588122,0,Offers IAP purchases,Mehdi Fardid,transportation,1.0.7
+1602,Taxima - passenger,1,5,5,1,100,2845988,0,,Taxima,transportation,1
+1603,contrary vehicle and driver,36,3.9,5,1,500,2110361,0,Offers IAP purchases,Abidar Software Group,transportation,1.5
+1604,خلافی خودرو+پرداخت جریمه,514,4.5,5,1,20000,2278779,0,Offers IAP purchases,salsal,transportation,1.4
+1605,Abrisham,3,5,5,1,100,2993607,0,,Tiny pro,transportation,1.0.6
+1606,AAC(Taxi),5,4.2,5,1,200,5065901,0,,Ali Farahbod,transportation,Alfa
+1607,Taksi Daneshju,5,3.4,5,1,100,4535873,0,,sarafraz,transportation,2
+1608,AloPeyk - On-Demande Delivery,25,3.9,5,1,1000,5968781,0,,alopeyk,transportation,1.0.7
+1609,1880 taxi driver app,1,3,5,1,100,3312735,0,,mohsen mostafaei,transportation,1.0.1
+1610,اتوموتو,1,5,5,1,100,4626949,0,,yekta system hooshmand,transportation,1.5.9
+1611,Autol,59,3.5,5,1,1000,3466118,0,Offers IAP purchases,Mahan App,transportation,3.1
+1612,وانت بار یاب تهران,0,0,0,0,100,4291435,0,,yekta system hooshmand,transportation,2.5.8
+1613,receive police bill,63,3.7,5,1,2000,2605417,0,,nick_parsiyan,transportation,1.1
+1614,Darbast,9,3.2,5,1,200,689071,0,,mehavira,transportation,1.7.26
+1615,Bank Finder,102,4.5,5,1,5000,7169239,0,,Amin Design Group,transportation,1.1.2
+1616,Hamrah personal accountant,151,4.4,5,1,2000,10972876,0,Offers IAP purchases,next-bit,finance,2.25
+1617,Arianpal,13,3.8,5,1,200,4559056,0,,Arian Pal,finance,2.0.0
+1618,EstlahEghtsadi,0,0,0,0,100,12943041,50000,,mehdimyadi,books-reference,1
+1619,Hooshmandsahm,26,3.9,5,1,500,4224925,0,Offers IAP purchases,graham,finance,0.9.6.7
+1620,Online Price,26,4,5,1,1000,4481740,0,,online price,finance,1.5.0
+1621,HafHashtad (*780#),1236,3.9,5,1,200000,10281081,0,,Haf Hashtad,finance,1.2.01
+1622,eranico,7,5,5,1,1000,2702116,0,,eranico,business,1.0.4
+1623,Qeroon,806,4.4,5,1,2000,13133255,0,Offers IAP purchases,Rouster Group,finance,1.25
+1624,Bilan,12,4.1,5,1,200,5638160,20000,,material-design,finance,1.1
+1625,Sharjeman,328,4.3,5,1,2000,4671496,0,,sharjeman,finance,1.2.4
+1626,Storehouse Manager,34,4.1,5,1,1000,17708710,0,,Mohammad Omidvar,finance,3.9.2
+1627,bahamta,104,4,5,1,5000,4264622,0,,bahamta,finance,2.4.2
+1628,حسابداری آسان,391,4,5,1,2000,1496273,0,,mohammad-rezazadeh,finance,4
+1629,Asan Pardakht,25703,4.2,5,1,1000000,8457738,0,,AP,finance,2.0.2
+1630,Pasargad Mobile Bank,2794,4.5,5,1,200000,3158487,0,,Bank Pasargad,finance,6.3.1
+1631,Refah Mobile Bank,3404,4.2,5,1,200000,2138066,0,,Refah Bank,finance,1.2.1
+1632,حسابداری شخصی هلو,6803,4.2,5,1,200000,2552635,0,,Torfeh Negar,finance,3.0.1
+1633,Ansar Mobile Bank,3947,4.4,5,1,100000,10675168,0,,Ansar  Bank,finance,2.5.2
+1634,Hesabdar,6162,4.6,5,1,100000,621620,0,,Ghaisar Davar,finance,1
+1635,Refah Pardakht,919,4.4,5,1,100000,5310576,0,,Refah Bank,finance,2.0.42
+1636,Parmis Mobile Accounting(Free),11275,4.7,5,1,50000,6482643,0,,Parmis IT CO,finance,4.9.5
+1637,Interest Calcaulator,493,4.5,5,1,100000,331076,0,,Andromeda Digital Solutions,finance,2
+1638,Hesabdar+,1086,4.2,5,1,10000,3759549,40000,,Ghaisar Davar,finance,2.2.1
+1639,سه سوت!,920,4.2,5,1,100000,6952886,0,,se soot,finance,3.1.2
+1640,Cheque Manager,1240,4.2,5,1,10000,2310856,30000,,Sepehr,finance,2.1
+1641,Pasargad Mobile Payment,650,4.6,5,1,50000,2927365,0,,Bank Pasargad,finance,5.3.2
+1642,Resalat MBanking,497,4,5,1,100000,1759122,0,,resalat qard alhasan bank,finance,5.1.1
+1643,DangiDongi,0,0,0,0,100,1656902,10000,,dMob,finance,1.02
+1644,Mobile banking,20,1.8,5,1,1000,1474438,0,Offers IAP purchases,گروه نرم افزاری اندروپلاس,finance,v1.1
+1645,ava,1,5,5,1,100,8257856,0,,seyed ali alavi Matin,finance,1.0.0
+1646,chechvasafte,0,0,0,0,100,3476603,10000,,vahidhasani66,finance,1.1
+1647,My Shop,0,0,0,0,100,1246815,80000,,kazemi72,finance,2.6
+1648,تبدیل ریال تومان محاسبه درصد تخفیف,8,3.6,5,1,100,1719917,0,Offers IAP purchases,hessam71d,finance,1.04
+1649,Kif anvae kart,1,5,5,1,200,3166887,0,,zeyton,finance,K-A-1.2
+1650,گربه اشرافی,1,1,5,1,200,7405192,0,,mitraapps,action,3
+1651,انجلا رو پیدا کن,0,0,0,0,100,2590819,0,,mitraapps,arcade,2
+1652,توپ جادویی,1,1,5,1,100,749834,0,,mitraapps,action,1
+1653,خونه سازی,0,0,0,0,200,13179777,0,,mitraapps,arcade,1.8.2
+1654,آموزش آرایش عربی(ویدیو),1,5,5,1,100,2959714,0,,mitraapps,education,1
+1655,ضربان قلب,0,0,0,0,100,1315271,0,,mitraapps,medical,1
+1656,بازی حلقه ها,1,1,5,1,200,1049241,0,,mitraapps,casual,1
+1657,هشدار,0,0,0,0,100,2605864,0,,mitraapps,productivity,1
+1658,تهیه غذای دریایی(ویدیو),0,0,0,0,100,2731130,0,,mitraapps,education,1
+1659,آموزش قلاب بافی,1,1,5,1,200,3154235,0,,mitraapps,business,1
+1660,Tehran Traffic,37,4.2,5,1,500,43362422,20000,,team-95,racing,1
+1661,Call Of Honor,908,3.9,5,1,10000,61990859,0,Offers IAP purchases,MGH,racing,2.0.0
+1662,Hill Climb Racing 2,2666,4.1,5,1,50000,72029928,0,,Fingersoft,racing,1.1.8
+1663,Valley Parking 3D,445,4.3,5,1,100000,69705400,0,,waldschrat-studios,racing,1.03
+1664,Swag Racer,11,4.6,5,1,2000,28171585,0,,Bluesky Game Studio,racing,1.3.5
+1665,ProParking 2,3578,4.3,5,1,200000,50792616,0,Offers IAP purchases,magicalworld-studio,simulation,1.3.4
+1666,Shadow Racer,10994,4.6,5,1,100000,150972522,0,Offers IAP purchases,NOA Games,racing,1.0.1.2
+1667,IRAN Hill Climb 1395,264,3.9,5,1,10000,61790790,0,Offers IAP purchases,gamelof,simulation,1.7.9
+1668,HC: Takedown,51,4.3,5,1,5000,37041648,0,,high-score-hero-llc,racing,1.3.3
+1669,MMX Hill Climb,554,4.2,5,1,50000,65258874,0,,Hutch Games,racing,1.0.3937
+1670,Big Bang,146,4.3,5,1,5000,98334831,0,,traplight-ltd,racing,3.1.7
+1671,Traffic Tour,579,3.8,5,1,20000,61902430,0,,wolves-interactive,racing,1.1.12
+1672,Faily Brakes,113,4.2,5,1,10000,70258619,0,,spunge-games-pty-ltd,arcade,1.49
+1673,Drag Duel,1672,4.1,5,1,20000,113085499,0,Offers IAP purchases,FanGames,racing,1.1.0.9969
+1674,2nd Gear,40795,4.6,5,1,200000,168795049,0,Offers IAP purchases,fanafzar,racing,1.8.2
+1675,Traffic Racer,40721,4.5,5,1,1000000,52301222,0,,Soner Kara,racing,2.3
+1676,Dr. Driving,25577,4.5,5,1,500000,10451660,0,,SUD Inc.,racing,1.48
+1677,Extreme Car Driving Simulator,14263,4.5,5,1,500000,60141817,0,,axesinmotion-racing,racing,4.12
+1678,Deal For Speed 1.8,41449,4.6,5,1,500000,17210073,0,,gunaystudio,racing,1.8
+1679,Racing Fever,13316,4.8,5,1,200000,55960446,0,,Gameguru,racing,1.5.17
+1680,Road Riot,31447,4.6,5,1,200000,72899107,0,,Tango,racing,1.28.05
+1681,RacingMoto,14497,4.3,5,1,500000,6942234,0,,Top Casual Games,racing,1.2.8
+1682,City Racing 3D,5960,4.6,5,1,200000,44479771,0,,3DGames,racing,2.9.108
+1683,Angry Gran Run,4332,4.3,5,1,200000,32709657,0,,Ace Viral,racing,1.45
+1684,Hill Climb Racing,934,4.6,5,1,100000,45521116,0,Offers IAP purchases,Flexion Mobile Limited,racing,1.30.0
+1685,Table Top Racing,1037,4.6,5,1,10000,127382827,80000,Offers IAP purchases,playrisedigital,racing,1.03
+1686,Bike Rivals,1234,4.5,5,1,100000,49863464,0,,Miniclip.com,racing,1.5.2
+1687,Salar,78137,4.6,5,1,100000,24764077,0,Offers IAP purchases,Sizak,racing,1.28
+1688,Iran Drift,2278,4.2,5,1,20000,47414372,10000,,rabiee8848385,racing,1.4
+1689,Motocross Mania 2,0,0,0,0,100,75714036,0,,ali samsam heidari,racing,1
+1690,ماشین سواری السا,1,3,5,1,500,6497945,0,,Shadow Games,racing,1
+1691,Street Racer 3D,0,0,0,0,100,36261054,30000,,Inlogic Software,racing,1.0.1
+1692,ghan ghan,1,3,5,1,100,134268084,20000,,javad agha,racing,1
+1693,Police Driver,23,4.3,5,1,1000,23879513,0,,omidstudio,racing,1
+1694,Monaco Grand Prix,0,0,0,0,100,32139523,10000,,Black Studio,racing,1
+1695,دنیای دختر توت فرنگی,0,0,0,0,200,2350993,0,,jamalidroid,racing,1
+1696,ford racing,0,0,0,0,100,10024563,10000,,Nice Game,racing,1
+1697,RallyNeedDrift,3,3.3,5,1,100,108393433,10000,,PG,racing,1.2
+1698,pepsi man,7,4.4,5,1,2000,9894393,0,,ali samsam heidari,racing,1
+1699,DESERT STORM 2,2,5,5,1,200,28929658,0,Offers IAP purchases,shabahang,racing,two
+1700,ماشین سواری ماریو,10,1.8,5,1,5000,1736265,0,,Shadow Games,racing,1
+1701,Half clutch,10,3.8,5,1,100,91693675,10000,,PG,racing,1.3
+1702,Crash Team Racing,5,4,5,1,2000,54545435,0,,ali samsam heidari,racing,1
+1703,driver 2,11,4.2,5,1,2000,43643740,0,,ali samsam heidari,racing,1
+1704,بازی توپ های سه تایی,0,0,0,0,100,4148457,0,,mitraapps,racing,1
+1705,آموزش ساخت گل,1,1,5,1,500,2822312,0,,mitraapps,education,1
+1706,روضه محرم,0,0,0,0,200,2576320,0,,mitraapps,religious,1
+1707,طراحی ناخن بدون ابزار,1,5,5,1,100,2772526,0,,mitraapps,lifestyle,1
+1708,آموزش ویدئویی پریمیر,0,0,0,0,100,1945029,0,,mitraapps,education,2
+1709,غذاهای سوخاری(تصویری),2,2.5,5,1,500,2110880,0,,mitraapps,media-video,2
+1710,کارتون جذاب سونیک,6,2.5,5,1,1000,1914556,0,,mitraapps,media-video,2
+1711,خواص میوه ها (ویدیویی),0,0,0,0,100,2101089,0,,mitraapps,health-fitness,2
+1712,کارتون تام و جری,18,2.9,5,1,2000,2131047,0,,mitraapps,media-video,2
+1713,رینگتون های عاشقانه,4,4.2,5,1,1000,14545071,0,,mitraapps,music-audio,1
+1714,پیشگویی حافظ,0,0,0,0,100,6372041,0,,mitraapps,entertainment,1
+1715,بازی حدس تصویر بازیگرها,3,3.7,5,1,200,3771373,0,,mitraapps,puzzle,1
+1716,عکس نوشته بساز,3,4.3,5,1,1000,2999639,0,,mitraapps,photography,1
+1717,مدیریت پول,1,4,5,1,200,3018650,0,,mitraapps,finance,30
+1718,amozesh kasb o kar emrooozi,0,0,0,0,100,1210644,50000,,mehdishahraki,finance,1.1
+1719,حسابدار دانشجو,0,0,0,0,100,927543,30000,,parizadgroup,finance,1
+1720,ماشین حساب کیتی,1,1,5,1,100,2901701,0,,parnian hasanzade,finance,1
+1721,طلب,1,4,5,1,100,3807315,0,Offers IAP purchases,Hamid Keykhosravi,finance,1.1
+1722,Zar Hesaab,1,4,5,1,100,1868941,10000,,Andro One,finance,1.5
+1723,Manage costs by bank card,2,3,5,1,100,2230445,0,Offers IAP purchases,arlabbafi,finance,1.2
+1724,Professional picture Maker,1,1,5,1,100,6332918,20000,,mj_68_appdous,photography,1.01
+1725,عکس خاص,3,1.3,5,1,100,6560383,20000,,mj_68_appdous,photography,1.01
+1726,pic2Carpetmap,2,1,5,1,100,2470383,0,,mj_68_appdous,productivity,1.02
+1727,shortstories,58,4.1,5,1,200,32712635,20000,,mj_68_appdous,education,1.2
+1728,HesabdariFH,39,2.8,5,1,500,3979539,20000,,mj_68_appdous,finance,1.1
+1729,Shotr Stories,3,1,5,1,100,5247385,0,,mj_68_appdous,education,1
+1730,HesabDftari,20,2.9,5,1,500,6064998,0,,mj_68_appdous,business,1.02
+1731,Accounting and Warehousing,13,4.6,5,1,100,3922727,100000,,mj_68_appdous,finance,1.1593
+1732,چرتکه,1,1,5,1,100,2997162,20000,,asr1992,finance,1
+1733,Modiriyate mali bashgah,26,5,5,1,100,1381625,0,,Meysam Golzar,finance,3.1
+1734,BankMan,2,4.5,5,1,100,1085306,0,,ahmadpoor,finance,1.5
+1735,حسابرسی وام,0,0,0,0,100,2469429,0,,mona mousavi,finance,1
+1736,Top Leader,0,0,0,0,100,46800219,20000,,Hamied Reza Marzbani,finance,1.2
+1737,Kontor Nevis Bargh-کنتور برق مستاجر,2,4,5,1,100,2008851,20000,,khoshrang,finance,2
+1738,accounting standard,9,3.8,5,1,500,10041972,0,,zarvangroup,finance,1
+1739,کارت بانک,14842,4.4,5,1,50000,9778112,50000,,Hanista Group,finance,5.2
+1740,LastPass,251,4.3,5,1,2000,12660392,0,,LastPass,productivity,4.1.781
+1741,aWallet Password Manager,170,4.2,5,1,2000,2809155,0,,Synpet,productivity,7.0.2
+1742,AppLock,12310,4.6,5,1,200000,3448839,0,,SpSoft,tools,6.8.4
+1743,AppLock,17227,4.4,5,1,1000000,4278411,0,,DoMobile Lab,tools,2.21.3
+1744,LOCX,1301,4.3,5,1,100000,5435969,0,,c-launcher-team-fast-smart-launch,productivity,2.3.1.028
+1745,Hexlock,107,4.4,5,1,5000,8559222,0,,Liquidum Limited,tools,1.9.80
+1746,2 milion sms,75403,4.6,5,1,50000,12881249,0,,gameapps,entertainment,4
+1747,Dr Photo,10658,4.3,5,1,5000,2465102,0,,gameapps,photography,1.1.5
+1748,RamzNegar,11753,4.5,5,1,50000,1907004,0,,gameapps,tools,1.3.0
+1749,AppLock (Master),241,4.5,5,1,5000,3130040,0,,appsmaster,tools,08.23.2016
+1750,Pro App Locker,183701,4.5,5,1,500000,3809755,0,,Carbon Software Group,productivity,2.4.1
+1751,Secret AppLocker,988,4.3,5,1,2000,4101439,30000,,saeed_arianmanesh,productivity,3.0.0
+1752,CM Browser,7995,4.6,5,1,200000,5117978,0,,cheetah-mobile-applock-antivirus,communication,5.20.70
+1753,Locate Family,48,3.8,5,1,500,5478034,0,,cheetah-mobile-applock-antivirus,transportation,1.0.0
+1754,CM Security,49513,4.6,5,1,1000000,14059819,0,,cheetah-mobile-applock-antivirus,tools,3.1.8
+1755,AMC Security,10770,4.6,5,1,200000,7109680,0,,IObit Mobile Security,tools,5.5.2
+1756,360 Security,39120,4.5,5,1,1000000,16216715,0,,360-mobile-security-limited,tools,3.9.2.5006
+1757,Avast Mobile Security,9270,4.5,5,1,200000,19401657,0,,avast-software,tools,5.11.1
+1758,Lookout,3905,4.4,5,1,50000,10722531,0,,Lookout Mobile Security,tools,10.7.1-459c93e
+1759,Mobile Security & Antivirus,10085,4.7,5,1,200000,10585460,0,,ESET,productivity,3.3.23.0
+1760,Anti Virus,12529,4.4,5,1,200000,3196334,0,Offers IAP purchases,omidn1996,tools,2.0.1
+1761,Hagaf Antivirus,60089,4.4,5,1,200000,3012368,0,Offers IAP purchases,madus1202,tools,MM.1.3.1
+1762,Trustlook Security,1281,4.6,5,1,10000,10819484,0,,trustlook,productivity,3.6.12
+1763,Grapefruit,1288,4.2,5,1,2000,6129660,0,Offers IAP purchases,arsh-co,tools,1.8.3
+1764,AntiVirus,6245,4.5,5,1,200000,18460887,0,,AVG Mobile,communication,5.9.2.1
+1765,Avira,663,4.6,5,1,20000,12221184,0,,avira,tools,4.7
+1766,Norton Mobile Security,2565,4.2,5,1,200000,21573298,0,,NortonMobile,tools,3.17.0.3200
+1767,Kaspersky Internet Security,8377,4.7,5,1,100000,39508531,0,,Kaspersky Lab,tools,11.12.4.1622
+1768,Dr.Web AntiVirus Light,13096,4.5,5,1,500000,3988433,0,,vanda,tools,9.01.2
+1769,Clean Master,51793,4.5,5,1,2000000,18021552,0,,Cheetah Mobile,tools,5.15.3
+1770,DU Speed Booster,24082,4.5,5,1,500000,12587070,0,,DU APPS STUDIO,tools,2.9.9.6.6
+1771,Avast Cleanup,409,4.6,5,1,20000,13592482,0,,avast-software,tools,2.8.0
+1772,CM Speed Booster,926,4.6,5,1,10000,2658330,0,,Cheetah Mobile,tools,1.5.9
+1773,Locker,154,4.5,5,1,10000,236750,0,,apus-apps,tools,1.0.0
+1774,Booster+,1339,4.6,5,1,50000,3745221,0,,apus-apps,productivity,2.1.0
+1775,App Cache Cleaner,1214,4.6,5,1,20000,3517375,0,,apex-apps,tools,6.3.0
+1776,Cooler Master,1623,4.6,5,1,50000,4478891,0,,PICOO Design,tools,3.3.08
+1777,Smart Booster,14263,4.5,5,1,20000,5331581,0,,ace_dev,tools,1.0.5
+1778,booster plus,2475,4.4,5,1,10000,3259300,0,,data_plus,productivity,1
+1779,AVG Cleaner,496,4.4,5,1,5000,17221873,0,,AVG Mobile,productivity,3.6.1
+1780,Booster,608,4.4,5,1,5000,3463082,0,,NQ Mobile Security (NYSE:NQ),productivity,5.0.02.00
+1781,GO Speed,2022,4.6,5,1,20000,8450055,0,,go-dev-team,tools,2.8.0
+1782,SHAREit,54412,4.6,5,1,15000000,5745048,0,,shareit,tools,3.6.38_ww
+1783,SHZToolBox,566088,4.7,5,1,6000000,6191890,0,Offers IAP purchases,shahbaz yaghoobi,tools,5.1.0
+1784,Gboard,29529,4.2,5,1,6000000,25652712,0,,Google Inc.,tools,6.0.69.142176780-armeabi-v7a
+1785,ADM,41305,4.8,5,1,1000000,4046360,0,,DimonVideo,tools,5.1.2
+1786,Translate,21467,4.5,5,1,2000000,11448482,0,,Google Inc.,tools,5.6.0.RC04.141530192
+1787,MyIrancell,26952,4.5,5,1,2000000,3374236,0,,Irancell,tools,1.0.0
+1788,RAR,12779,4.6,5,1,1000000,4789009,0,,RARLAB (published by win.rar GmbH),tools,5.50.build42
+1789,Flashlight,13389,4.4,5,1,2000000,1493012,0,,Nikolay Ananiev,tools,5.2.4
+1790,Samaanak Smart Keyboard,7848,4.3,5,1,1000000,10997736,0,Offers IAP purchases,omidmhks,tools,2
+1791,Call Recorder,10285,4.5,5,1,500000,6189435,0,,Appliqato,tools,5.23
+1792,ware my phone,0,0,0,0,100,509557,20000,,arman ezadi,tools,1
+1793,Persian ColdRoom Calculator,0,0,0,0,100,490766,290000,,Spec k1 Developer,tools,1.2.1
+1794,motarjem,0,5,5,1,100,2113263,20000,,arman ezadi,tools,1
+1795,voice to masage,0,0,0,0,100,2103469,20000,,arman ezadi,tools,1
+1796,Contacts recovery,0,0,0,0,100,843040,30000,,parsg,tools,4.3
+1797,Bojan Image To Ascii Art Convertor,13,4.1,5,1,200,1586704,0,Offers IAP purchases,Bijan,tools,1.3
+1798,خط کش,0,0,0,0,100,1237141,10000,,mars-group,tools,1
+1799,photo editor,0,0,0,0,100,2148872,10000,,reza abedini,tools,1.1.10
+1800,پی دی اف خوان حرفه ای,0,0,0,0,100,8444681,0,,monadev,tools,1.0.1
+1801,سایان (شمارنده - تعداد شمار),3,5,5,1,100,2698379,0,,yaghuti,tools,1.1
+1802,Image Converter,0,0,0,0,1000,4864040,0,,paul-asiimwe,tools,5.5.5_armv7a
+1803,صفحه قفل درب,0,0,0,0,100,3709966,20000,,androkomo,tools,2.1
+1804,ساعت هشدار,0,0,0,0,100,2632453,0,,mehrnooosh,tools,1
+1805,ادیت موزیک,0,1,5,1,100,1431832,0,,mehrnooosh,tools,1
+1806,کیف مدارک + عکس مدارک,2,5,5,1,100,2588956,20000,,tooskagroup,tools,2.01
+1807,remindeR,0,0,0,0,100,1710977,10000,,reza abedini,tools,1.3
+1808,Engineering Calculators,1,2,5,1,200,135878,0,,navidev,tools,1
+1809,اینترنت اسپیدی,1,5,5,1,200,6564536,0,,telegrami,tools,1
+1810,قفل صفحه هوشمند عاشقانه,1,5,5,1,100,6521440,30000,,androkomo,tools,1.2
+1811,قفل قلب عشقی!,0,0,0,0,100,7796869,0,,androidplas,tools,3
+1812,SpeedMeter,29,4.5,5,1,500,864825,0,,sharifsoft,tools,3
+1813,ریکاوری عکس حذف شده,1,4,5,1,100,2210655,50000,,sahar Rastgari,tools,1.3
+1814,آنتی ویروس قدرتمند نیترو,9,4.6,5,1,2000,1523315,0,,tooskagroup,tools,2.03
+1815,zabte tamas ha va hazfe pas zamine,0,0,0,0,200,4527225,0,Offers IAP purchases,nikad iran,tools,3
+1816,برچـسب,41,4.3,5,1,200,591974,10000,,rimaapps,tools,1.0.0
+1817,آتاری بازی(رایگان),361,4.2,5,1,5000,6017777,0,,rimaapps,action,3.0.3
+1818,آتاری بازی (بیش از یک میلیون بازی),619,3.8,5,1,10000,10328065,20000,,rimaapps,simulation,5.3.0
+1819,پیامک خور,434,4,5,1,2000,165668,0,,rimaapps,productivity,1.0.2
+1820,باتریچه,379,4,5,1,5000,120405,0,,rimaapps,widgets,1.12
+1821,فضولگیر,59,3.7,5,1,1000,4316454,20000,,rimaapps,productivity,1
+1822,Rima,17,3.8,5,1,100,487032,20000,,rimaapps,productivity,2.4
+1823,iLock,69,3.8,5,1,500,1397632,20000,,rimaapps,tools,1.2.96
+1824,RangiRangi,281,4.3,5,1,1000,26674,0,,rimaapps,educational,1
+1825,میکرو پیانو,451,3.5,5,1,10000,300083,0,,rimaapps,music,1
+1826,ستاره ها,538,3.7,5,1,10000,468914,0,,rimaapps,live-wallpaper,2.5.0
+1827,ساعتک,567,3.8,5,1,10000,72653,0,,rimaapps,widgets,1
+1828,lockscreenWidget,0,0,0,0,100,266450,10000,,saeed_nikdel,widgets,1
+1829,ویجت ساعت,1,5,5,1,100,1242178,0,,1379hmd,widgets,1
+1830,Persian Calendar,9,4.1,5,1,5000,2921632,0,,saman zarei,widgets,5.2.0
+1831,ویجیت دکمه خاموش کردن صفحه,458,3.9,5,1,2000,2067149,0,,alimo,widgets,1.1
+1832,خدمات ایرانسل (+ویجیت),55,4.5,5,1,500,1899403,0,,alimo,widgets,سریع
+1833,خدمات همراه اول (+ویجیت),75,4.4,5,1,500,1902816,0,,alimo,widgets,سریع
+1834,ویجت باحال قفل گوشی,79,4.2,5,1,1000,2246906,0,,siavash,widgets,p-j1.0.0
+1835,new power wedgets off on,0,0,0,0,100,1585166,20000,,mostafahr,widgets,2
+1836,PerC,3,4,5,1,1000,315562,0,,Sadeh Shick Majlesi,widgets,1
+1837,Plugin (always on time),10,1.7,5,1,500,43034,0,,asteam-sasanbse,widgets,1
+1838,Smart widget,1,5,5,1,100,279235,10000,,naser_torik,widgets,1
+1839,ویجت باتری,64,4.3,5,1,1000,2315643,0,,Programming Team of SOFTJAM,widgets,1
+1840,saat.taghvim,9,2.7,5,1,2000,1351620,0,,saman zarei,widgets,1
+1841,فال صبح و عصر,0,0,0,0,100,3752721,10000,,yahyaie65,widgets,2.7
+1842,widget for contacts,1,4,5,1,100,334169,10000,,jalil-m,widgets,2.5.4
+1843,ویجت امام سید علی خامنه ای,12,4.4,5,1,1000,1893643,0,,mahdi_rezaali,widgets,2
+1844,Jor-Va-Jor Clock,0,0,0,0,100,21511647,10000,,mostafa_shakoori,widgets,3
+1845,Colock widjet,958,4.3,5,1,2000,2339332,0,,nasser_m,widgets,1.0.1
+1846,TicTac(planning time),438,3.9,5,1,1000,5665399,0,Offers IAP purchases,phoenixdevs,productivity,1.5.0
+1847,CountDown,40,4.5,5,1,200,3754884,0,,eh3andark,productivity,1
+1848,Board (UniBoard),13,4.7,5,1,500,3505944,0,,trice,productivity,1.6.3
+1849,Phone Clone,7,5,5,1,1000,7656208,0,,Huawei Internet Service,productivity,3.2.0.302
+1850,gerdoon,211,4.3,5,1,500,5094253,0,Offers IAP purchases,mndalsoft,productivity,0.4.7
+1851,Forest,483,4.5,5,1,10000,15305317,0,,forestappcc,productivity,3.11
+1852,Tejarat Calendar,21,4.4,5,1,10000,4940124,0,,Asre Danesh Afzar,productivity,1.1
+1853,Danesh yar,112,4.3,5,1,2000,3403498,0,Offers IAP purchases,next-bit,education,2.09
+1854,"Labor law, insurance and wages",121,4.4,5,1,500,909140,20000,,farinidea,productivity,1.4
+1855,Easy Service,8,4.9,5,1,100,3334084,0,,Baran1400 Software Group,productivity,0.1
+1856,حل کننده سودوکو,105,4.2,5,1,1000,2994541,0,,morteza570,productivity,1
+1857,محافظ چشم,79,4.5,5,1,1000,1253968,0,Offers IAP purchases,jumpy,productivity,1
+1858,ES File Explorer,83166,4.7,5,1,4000000,9671342,0,,ES GLOBAL,productivity,4.1.5
+1859,OneDrive,1776,4.5,5,1,4000000,43863789,0,,Microsoft Corporation,productivity,4.7.1
+1860,Dropbox,13263,4.2,5,1,6000000,62365257,0,,"Dropbox, Inc.",productivity,28.2.2
+1861,Adobe Acrobat,26559,4.5,5,1,2000000,18865429,0,,Adobe,productivity,16.4
+1862,Evernote,7398,4.4,5,1,1000000,33378964,0,,Evernote Corporation,productivity,7.9.7
+1863,Persian Calendar,13058,4.5,5,1,1000000,1740816,0,,Ebrahim Byagowi,productivity,5.1.0
+1864,Docs,1702,4.4,5,1,1000000,38348369,0,,Google Inc.,productivity,1.6.482.10.35
+1865,TouchPal,4997,4.6,5,1,500000,32080100,0,,TouchPal,productivity,6.0.9.2
+1866,Excel,617,4,5,1,2000000,64193716,0,,Microsoft Corporation,productivity,16.0.7668.5029
+1867,CamScanner,8884,4.7,5,1,500000,32009950,0,,"INTSIG Information Co.,Ltd",productivity,4.2.0.20161025
+1868,Flashlight,3768,4.7,5,1,500000,5290828,0,,surpax-inc,productivity,1.1.4
+1869,فضولگیر آژیری فیلمبردار,9373,4.3,5,1,50000,1295591,20000,,toolfa,productivity,3.2
+1870,Keep,3515,4.6,5,1,500000,11408257,0,,Google Inc.,productivity,3.4.491.02.30
+1871,OneNote,706,4.1,5,1,1000000,61206520,0,,Microsoft Corporation,productivity,16.0.7571.1804
+1872,عکس تو فیلم پیشرفته,0,5,5,1,100,16425488,0,,androkomo,productivity,1
+1873,ضبط صدای حرفه ای,0,0,0,0,100,3620224,0,,Bartar Designers,productivity,1.2.2
+1874,طول عمر حرفه ای,0,1,5,1,100,3078134,0,,shirinmobi,productivity,1
+1875,cuckoo clock,0,5,5,1,100,5369151,0,,adibi_developer,productivity,1
+1876,dictionary,0,0,0,0,100,1983370,30000,,shahinsoft,productivity,1
+1877,BMI - body mass index calculator,2,5,5,1,100,3170197,0,,aminapps,health-fitness,1.0.0
+1878,Mohafez(Notepad for Sensitive Data),0,4,5,1,100,5313469,10000,,aminapps,productivity,0.0.1
+1879,image converter to  pdf,0,5,5,1,100,4095281,0,,tractoor1970,productivity,1
+1880,فیلمبرداری مخفی (حرفه ای),0,0,0,0,100,1017044,20000,,Emad Amerian,productivity,1.0.2
+1881,کمک بی تاک,0,0,0,0,100,418859,30000,,RS TM,productivity,1.4
+1882,سانسور عکس,0,0,0,0,100,6914835,0,,Shadi Group,productivity,1
+1883,fast launcher,0,0,0,0,100,374215,10000,,borouj,productivity,1
+1884,بازیابی رمز وای فای,0,0,0,0,100,117208,300000,,alborz_soft90,productivity,3
+1885,Parking cost,0,0,0,0,100,203146,0,,Ahmad Reza Tavakoli,productivity,1
+1886,دفترچه یادداشت فوق حرفه ای 2,0,0,0,0,100,2443947,0,Offers IAP purchases,foray,productivity,1.3
+1887,درصد کنکور,0,0,0,0,100,1417354,0,,mohammad meysam keshvari,productivity,1
+1888,قفل اپلیکیشن ها,0,0,0,0,100,3050185,0,,mona mousavi,productivity,1
+1889,موزیک پلیر حرفه ای,0,0,0,0,100,1577096,0,,elnaz vejdani,productivity,1
+1890,file manager,0,0,0,0,100,3795732,30000,,ghasemsadeghi,productivity,1.1.1
+1891,وای فای اسکنر,0,0,0,0,100,1958229,0,,elhamdroid,productivity,1
+1892,مدیریت گذرواژه,0,0,0,0,100,5238139,10000,,mhnmohsen,productivity,1.3
+1893,چراغ قوه,0,0,0,0,100,1932806,0,,1379hmd,productivity,k.1.1.0
+1894,Nagoos Smart Calendar,2,5,5,1,100,3351032,0,Offers IAP purchases,pooya_hayati,productivity,1.0.0
+1895,فایل های مخفی,0,0,0,0,100,2969983,0,,bigdeveloper1,productivity,2
+1896,fozolgir,1,5,5,1,100,2405676,0,,saman zarei,productivity,1.3
+1897,Sneaky - Call and SMS Blocker,1472,4.1,5,1,10000,1037801,0,,oqora,productivity,1.2
+1898,Contacts﻿+,823,4.4,5,1,10000,10198509,0,,Contacts Plus team,communication,5.38.7
+1899,Clean Inbox - smsBlocker,736,4.4,5,1,10000,6434255,0,,sms-blocker-clean-inbox,communication,8.0.22
+1900,Mr. Number,92,4.2,5,1,5000,8397096,0,,Whitepages,communication,3.2.2
+1901,Firefox,33723,4.4,5,1,2000000,38311254,0,,Mozilla,communication,50.1.0
+1902,Yahoo Mail,23457,4.5,5,1,500000,17337490,0,,Yahoo,communication,5.11.6
+1903,GO SMS Pro,29882,4.4,5,1,500000,16352539,0,,GO Dev Team,communication,7.19
+1904,UC Browser,10481,4.4,5,1,500000,19574013,0,,UCWeb Inc.,communication,11.1.0.882
+1905,Musical Postcards,9889,4.6,5,1,20000,4762869,30000,,morteza570,communication,2.7.0
+1906,MyTelegram | Telegram unofficial,52437,4.5,5,1,200000,13861242,0,Offers IAP purchases,parmik,communication,37.2.3.13.1
+1907,UC Browser HD,1808,4.4,5,1,200000,10949425,0,,UCWeb Inc.,communication,3.4.3.532
+1908,TeleTalk Telegram,10311,4.7,5,1,100000,15262285,0,,TeleTalk,communication,3.13.1-TT2.0.5
+1909,SOMA,16821,4.4,5,1,200000,25994662,0,,instanza,communication,1.6.0
+1910,Dolphin,9582,4.5,5,1,200000,19830803,0,,Dolphin Browser,communication,11.5.16
+1911,موبوگرام دوم,7125,3.9,5,1,500000,16595983,0,,Hanista Group,communication,T3.13.1-M9.5.1
+1912,Opera,12121,4,5,1,500000,43315464,0,,opera,communication,41.1.2246.111645
+1913,psiphon browser+سایفون,2,4.3,5,1,500,3749333,0,,nbpaaa,communication,1.1
+1914,Vidogram,14,4.7,5,1,200,18083429,0,,vidogram messenger,communication,1.0.1-T3.13.1
+1915,Dideban,6,5,5,1,100,1526125,0,Offers IAP purchases,mghsoft,communication,1.1
+1916,Ongram,3,4.7,5,1,100,12306122,0,,Groups of programmers parsian,communication,3.13.1.0
+1917,عضوبگیر (افزایش اعضا کانال تلگرام),2,1,5,1,100,4175320,0,,mrbisi,communication,4.0.10
+1918,Mr Telegram,16,4.6,5,1,10000,18337880,0,,NegaheNo,communication,3.8.1.5
+1919,Internet MCI,49,4.3,5,1,1000,2720865,0,,live24,communication,1.0.1
+1920,Internet Raightel,44,4.4,5,1,1000,3046535,0,,live24,communication,1.0.1
+1921,تله ممبر(افزایش اعضا کانال تلگرام),2,2,5,1,100,4182439,0,,mrbisi,communication,4.0.10
+1922,طلگرام,173,4.5,5,1,1000,15347612,0,,sajadkr,communication,2.1.3
+1923,Translator concomitant,0,0,0,0,100,4464922,10000,,aliamani1111,communication,2.0.0
+1924,Irancell Internet,75,4.3,5,1,1000,2961089,0,,pansad-tomani,communication,1.0.1
+1925,مدیریت تلگرام,1,5,5,1,100,1334505,0,,rimadroid,communication,1
+1926,Lio browser+مرورگر اینترنت,47,4.4,5,1,1000,3759910,0,,nbpaa,communication,4.4.2.2
+1927,کانال(گروه) یار,5,3.8,5,1,100,1850090,0,Offers IAP purchases,aytc22519,communication,1.0.1
+1928,آپوگرام (تلگرام پیشرفته و خاص),5,3.8,5,1,100,22622331,10000,,tooskagroup,communication,3.13.2
+1929,آریاگرام(تلگرام منشی دار),2,5,5,1,100,22803262,50000,,barnameh ariya,communication,3.9.1-n104
+1930,Nitro Telegram,18,4.6,5,1,10000,5729107,0,,telegrami,communication,1
+1931,ربات رفع مشکل ریپورت تلگرام,4,5,5,1,100,2856621,30000,,tjme barname nevesi ava,communication,v1.0.5
+1932,Next Time Sms!,0,0,0,0,100,3705935,20000,,stringapp,communication,2.0.1
+1933,Persian Mobile Finder,1,5,5,1,100,692424,40000,,Peyman Hasani,communication,2.0.2
+1934,Supergram (Advanced Telegram),28,4,5,1,5000,17069745,0,,baranak,communication,3.14.2
+1935,Videogram,119,4.5,5,1,1000,26910755,0,,smartgroup,communication,3.1
+1936,legal channels telegram,43,4.3,5,1,1000,2856334,0,,mojtaba117,communication,اول
+1937,MX Player Codec (ARMv7 NEON),4002,4.4,5,1,500000,7069496,0,,J2 Interactive,libraries-demo,1.8.11
+1938,Htc Service Pack,2437,4.4,5,1,500000,11150315,0,,htc-corporation,libraries-demo,1.02.681569
+1939,MX Player Codec (ARMv6 VFP),5548,4.4,5,1,200000,5901415,0,,J2 Interactive,libraries-demo,1.7.39
+1940,MX Player Codec (ARMv7),4030,4.4,5,1,200000,6791064,0,,J2 Interactive,libraries-demo,1.8.11
+1941,MX Player Codec (ARMv6),758,4.5,5,1,100000,5956429,0,,J2 Interactive,libraries-demo,1.7.39
+1942,Novel World,1478,4.5,5,1,50000,5717935,0,,ahmadrezaabdolahi,libraries-demo,v3.2
+1943,night story,8892,4.6,5,1,50000,7216856,0,Offers IAP purchases,peyman,libraries-demo,1.8
+1944,MX Player Codec (Tegra 3),311,4.3,5,1,100000,7638568,0,,J2 Interactive,libraries-demo,1.8.11
+1945,Pardis Parsi (Persian Poems),4701,4.7,5,1,20000,30830640,0,Offers IAP purchases,maahgroup,libraries-demo,1.2.7
+1946,سرای رمان (۱۲۰ تا رمان),1946,4.4,5,1,50000,28585334,0,,shamim-yas,libraries-demo,1.6 - paeiz
+1947,Story of Proverbs,1942,4.6,5,1,20000,8764479,0,Offers IAP purchases,peyman,libraries-demo,1.3
+1948,12roman asheghane,46,4.3,5,1,20000,3629914,0,,mehdi75,libraries-demo,v3.0
+1949,Marriage Dic,304,4.3,5,1,5000,6549487,200000,,navid_zamani,libraries-demo,1
+1950,قضاوت های امام علی (ع),969,4.7,5,1,10000,2126745,0,,alii gholami,libraries-demo,1
+1951,imo amozesh,33650,4.2,5,1,20000,3049197,0,,mehdi19,libraries-demo,v19.0
+1952,love roman,889,4,5,1,20000,8048363,0,,hossein123,libraries-demo,7.1
+1953,رمان بازی سرنوشت,0,0,0,0,100,914500,0,,sinadarbandi,libraries-demo,JoApp FREE
+1954,رمانسرا,20,4.3,5,1,1000,13789547,0,,shamim-yas,libraries-demo,۱.۰ - زمستان
+1955,roman arameshi az jens bahar,1,3,5,1,200,2170462,0,,mehdi75,libraries-demo,v3.0
+1956,Tehran Bazaar map,0,0,0,0,100,8892894,10000,,avatelgtm,libraries-demo,2
+1957,Humor & engaging stories & images,1,5,5,1,100,2903442,0,,Mr navidi267,libraries-demo,v1.0
+1958,Merriam Websters English Dictionary,0,0,0,0,100,33343911,30000,,phoenix-app,libraries-demo,6
+1959,Collins Advanced English Dictionary,0,0,0,0,100,32058306,30000,,phoenix-app,libraries-demo,6
+1960,Longman English Dictionary,0,0,0,0,100,38600347,30000,,phoenix-app,books-reference,6
+1961,English to Persian Dictionary,0,0,0,0,100,32838573,30000,,phoenix-app,libraries-demo,4
+1962,cambridge advanced dictionary,6,4.3,5,1,100,31454594,30000,,phoenix-app,libraries-demo,5
+1963,oxford english dictionary,10,3.8,5,1,1000,49796007,0,Offers IAP purchases,phoenix-app,libraries-demo,6
+1964,shorter oxford english dictionary,0,0,0,0,100,17509759,30000,,phoenix-app,libraries-demo,4
+1965,german persian dictionary,0,0,0,0,100,6773985,30000,,phoenix-app,libraries-demo,3
+1966,hafez,0,0,0,0,100,4097571,20000,,phoenix-app,libraries-demo,2.1.1
+1967,saadi bustan gulistan mavaez,0,0,0,0,100,7691221,20000,,phoenix-app,libraries-demo,2.0.1.1
+1968,persian french english dictionary,4,5,5,1,100,38918114,0,Offers IAP purchases,phoenix-app,libraries-demo,7
+1969,کتاب خوان گوشی,2,1,5,1,200,1231297,0,,roya hasanzade,libraries-demo,1
+1970,عاشق باش,2,1.5,5,1,200,3703891,0,,Mis Narges,libraries-demo,1
+1971,keramat,17,4.8,5,1,500,5194252,0,,sivan,libraries-demo,v 1.3
+1972,anva keyk v shirini,20,4.6,5,1,1000,15668701,0,,Sherkate Adrapana,libraries-demo,v1.0
+1973,ROMANSTAN,20,3.9,5,1,1000,6427780,0,Offers IAP purchases,navidev,libraries-demo,1.3
+1974,anvae jeleh,42,4.5,5,1,2000,4166629,0,,feiz98,libraries-demo,v1.0
+1975,Tehran palms,0,0,0,0,100,7822745,10000,,avatelgtm,travel-local,3
+1976,تعبیر خواب,22,4.4,5,1,2000,5069338,0,,shamim-yas,libraries-demo,1
+1977,Heliatolmottaghin,10,5,5,1,500,2147719,0,,abolfazlshahzeidy,libraries-demo,1.2
+1978,A Midsummer Night`s Dream,0,0,0,0,100,32230757,20000,,mohammadreza021,libraries-demo,v1.0
+1979,هری پاتر و زندانی آزکابان,0,0,0,0,100,86562704,20000,,mohammadreza021,libraries-demo,v1.0
+1980,dastan mazhabi v dini,43,4.7,5,1,1000,2111839,0,,feiz98,libraries-demo,v1.0
+1981,Wifi laziz,2,4.5,5,1,100,3997580,0,,tokabook,libraries-demo,K-M-T.1.2
+1982,ekhtelelet,0,0,0,0,100,5520892,0,Offers IAP purchases,arvin_shk,libraries-demo,2
+1983,Timche24,6,4.3,5,1,100,7553072,0,,PishgamanTEF,shopping,1.0.5
+1984,Charkheh,12,3.8,5,1,200,3188734,0,,kapta_2015,shopping,1.3
+1985,CanSell,60,4.3,5,1,2000,3235558,0,,geexer,shopping,1.0.4
+1986,O1,28,4.1,5,1,10000,2948511,0,,owaan,shopping,1.3
+1987,Pasazh,28,4.2,5,1,1000,7504187,0,,Ariana Company,shopping,1.18
+1988,PoolTicket,14,4.5,5,1,500,5103029,0,,magnait,shopping,1.0.2
+1989,ketabreson,20,4.3,5,1,500,4793529,0,,ketabreson,shopping,1.6997.3620
+1990,Bamaro,12,5,5,1,500,3676061,0,,Bamaro,shopping,1.5
+1991,MamanPaz,38,3.6,5,1,2000,3367746,0,,mamanpaz,shopping,1.1.2
+1992,Boghche,17,3.1,5,1,1000,5804845,0,,gramocode,shopping,2.2
+1993,patill,11,3.5,5,1,200,3449555,0,,rgqco,shopping,0.0.3
+1994,Shareino,24,3.7,5,1,1000,8436443,0,,rouhallah parnian,shopping,1.1.5
+1995,Chilivery چیلیوری,55,2.6,5,1,2000,5391156,0,,netbarg,shopping,1.0.5
+1996,KojaArzoone,33,4,5,1,1000,5277537,0,,PooyanDP,shopping,0.0.1
+1997,Taghbaz,35,4.5,5,1,1000,5134248,0,Offers IAP purchases,taghbaz,shopping,1
+1998,Mr. Dizi,1,5,5,1,500,5345027,0,,Rond Soft,lifestyle,2
+1999,Sakala.ir,194,4.3,5,1,2000,4075799,0,,samira mohammadi,shopping,1.5
+2000,Niazak,23,3.9,5,1,500,1894117,0,,tabarzadi,shopping,3.2.2
+2001,Japark,15,4.5,5,1,2000,981827,0,Offers IAP purchases,Japark,shopping,1.9.1
+2002,InBook -OnlineOrder Print PhotoBook,12,3.8,5,1,2000,5417078,0,,axaan,photography,2.4
+2003,Regal,18,4.5,5,1,1000,7074385,0,,Regal Team,shopping,1.4
+2004,Divar,114338,4.2,5,1,10000000,4687283,0,Offers IAP purchases,Divar,shopping,8.5.0
+2005,Sheypoor,22330,4.3,5,1,2000000,3684880,0,,"Sheypoor | Sell, Buy, Enjoy",shopping,2.3.3
+2006,Digikala,34188,4.4,5,1,1000000,6260412,0,,Digikala,shopping,1.4.0
+2007,Barcode Scanner,12343,4.3,5,1,500000,807854,0,,ZXing Team,shopping,4.7.6
+2008,Nabze Bazaar,31398,4.6,5,1,200000,3292640,0,,hamrahyar,shopping,5.2
+2009,NetBarg نت برگ,5842,4.1,5,1,200000,3516340,0,,netbarg,shopping,2.1.6
+2010,Torob: Find The Best Price,16276,4.6,5,1,100000,8000141,0,,torob,shopping,0.14.7
+2011,Bamilo,3329,4.2,5,1,200000,8188552,0,,Bamilo,shopping,2.3.2
+2012,CarPriceCalc,541,3.9,5,1,20000,1896389,20000,,Ehsan,shopping,2.4
+2013,Takhfifan,7149,4.4,5,1,100000,11052414,0,,takhfifan,shopping,2.1.8
+2014,Rightel رایتل,4092,4.4,5,1,100000,2958528,0,,sooren,shopping,3.11
+2015,شارژ + پیشخوان دولت,1191,4.3,5,1,100000,2400710,0,,omidmhks,shopping,1.0.0.0
+2016,Irancell - Fast Charge & Services,8371,4.8,5,1,20000,3826474,0,,minixhd,shopping,2.1.3
+2017,Hamrah Aval +,805,4.4,5,1,20000,2910395,0,,sooren,shopping,2.1.5
+2018,Rightel,1084,4.4,5,1,20000,1787204,0,,sooren,shopping,2.4
+2019,sevencharge,29033,4.6,5,1,20000,11657746,0,,7sharge,shopping,7
+2020,mobosharzh,0,0,0,0,100,1531075,0,,mojtaba354,shopping,1.8.6
+2021,Asan Bestan,0,1,5,1,100,10122882,0,,Mehdi Abbaspour,shopping,1
+2022,Turbo Charge,0,0,0,0,100,4580570,0,,Rayanmehr Danesh sanj,shopping,1.0.99
+2023,jahromtag,0,0,0,0,100,1399862,0,,ofogheshahr,shopping,2.2
+2024,aryacharge,2,5,5,1,100,1533411,0,,aryacharge,shopping,1.8.6
+2025,Horall,0,0,0,0,100,4160914,0,,mohammad jahanshahi,shopping,1.1
+2026,Ejrano.com,0,0,0,0,100,2444047,0,,rasadata,shopping,3
+2027,VetBarg,1,5,5,1,100,1262197,0,,group_mehr,shopping,1.12
+2028,ستون,2,5,5,1,100,3603507,0,Offers IAP purchases,milad7012,shopping,difal1
+2029,شارژیران,1,5,5,1,100,1862216,0,,7sharge,shopping,1.1
+2030,IctGen,0,0,0,0,100,1688971,0,,IctGen,shopping,0.1.2
+2031,PersisArt,0,0,0,0,100,3544468,0,,Persis Jahan Negareh,shopping,1.2.1
+2032,hyperka,5,4.2,5,1,100,6785307,0,,hyperka,shopping,0.2.2
+2033,Hamyarsam,3,5,5,1,100,2059232,0,,Hamyarsam CO,shopping,1.0.0
+2034,sanrioshop,3,4.7,5,1,100,2077961,0,,sanrioshop,shopping,3.1
+2035,Modestan,0,0,0,0,100,6994984,0,,Modestan,shopping,V1.0.2
+2036,ITGHEYMAT,23,4.5,5,1,500,2989676,0,,ITGHEYMAT,shopping,1.0.2
+2037,تصادفیها,4,5,5,1,100,2422036,0,,Hamed Dalvand,shopping,1.5
+2038,Mer30sharj.ir,2,5,5,1,100,1532249,0,,Khandan Shop,shopping,1.8.6
+2039,orderchi,12,3.9,5,1,100,2144098,0,,orderchi,shopping,1.5
+2040,ilife,1,5,5,1,100,4307102,0,,ilife,shopping,1
+2041,Ferz Food,2,3,5,1,200,7336769,0,,xedteam,shopping,1
+2042,Ashyaneh (real estate agency),7,4.4,5,1,100,4822390,0,Offers IAP purchases,arman borna developers group,shopping,1.3
+2043,danestani jaleb,28,4.3,5,1,500,1717982,0,,feiz98,libraries-demo,v1.0
