@@ -1,4 +1,4 @@
-# [CafeBazaar.ir](cafebazaar.ir) Apps DataSet
+# [CafeBazaar.ir](http://cafebazaar.ir) Apps DataSet
 
 ## About Bazaar
 CafeBazaar(or Bazaar) is an application marketplace in which tens of thousands of applications from thousands of software developers are available. Bazaar provides its services specifically to Persian-speaker users.
@@ -25,4 +25,4 @@ Columns Description:
 
 ###### Created at: 2016/10
 
-###### Created by: [Mahdi Mohammadi](https://github.com/Mahdi-Mohammadi) and Roya Salek
+###### Created by: [Mahdi Mohammadi](https://github.com/Mahdi-Mohammadi) and [Roya Salek](https://github.com/RoyaSalek)
